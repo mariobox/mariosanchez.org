@@ -269,7 +269,8 @@ img.gallery {
   margin-right: 2%;
 }
 
-img.gallery.medium {
+img.gallery.medium,
+img.gallery.large {
   width: 100%;
 }
 
@@ -394,6 +395,10 @@ ul.blocknav {
 
 img.gallery.medium {
   width: 300px;
+}
+
+img.gallery.large {
+  width: 500px;
 }
 
 figcaption {
