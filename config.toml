@@ -1,6 +1,7 @@
 baseURL = "https://www.mariosanchez.org/"
 languageCode = "en-us"
 title = "Mario Sanchez Carrion | Personal Site"
-description = "Mario Sanchez Carrion's Personal Site"
-images = ["https://www.mariosanchez.org/img/msc.jpg"]
+[params]
+  description = "Mario Sanchez Carrion's Personal Site"
+  images = ["https://www.mariosanchez.org/img/msc.jpg"]
 

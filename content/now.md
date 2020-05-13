@@ -1,8 +1,6 @@
 ---
 Title: "Now"
-Draft: false
-Slug: now
-description: What I'm doing now
+description: What I'm Doing Now
 images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
