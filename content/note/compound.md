@@ -8,7 +8,7 @@ date: 2017-01-30
 
 More than just a productivity book, [The Compound Effect](http://www.thecompoundeffect.com/), by Darren Hardy, deals with the importance of developing good habits. It is easy to read and full of valuable insights and actionable steps.
 
-Here are my most important <mark>takeaways</mark>:
+Here are my most important **takeaways**:
 
 ### Massive results take time
 
@@ -16,11 +16,11 @@ Whether we are trying to build wealth, lose weight, learn a new language or any 
 
 ### On Choices
 
-<mark>At the beginning, you make choices. Then, your choices make you</mark>. Make good choices.
+**At the beginning, you make choices. Then, your choices make you**. Make good choices.
 
 ### On Owning Outcomes
 
-If you want to be successful you need to develop an <mark>owner mentality</mark>. This means holding yourself 100% responsible and accountable for your outcomes. You may have done 90% of the work but if you haven't crossed the finish line it won't mean anything. It is not enough to your do your part. All that matters is the end result.
+If you want to be successful you need to develop an **owner mentality**. This means holding yourself 100% responsible and accountable for your outcomes. You may have done 90% of the work but if you haven't crossed the finish line it won't mean anything. It is not enough to your do your part. All that matters is the end result.
 
 ### The Formula for Success
 
@@ -38,7 +38,7 @@ One small action sets in motion thousands of other small actions that make a hug
 
 ### Why-Power
 
-When you have why-power (a goal), willpower comes easy. You need to <mark>know why you are doing what you are doing</mark>.
+When you have why-power (a goal), willpower comes easy. You need to **know why you are doing what you are doing**.
 
 ### Small, Consistent Steps
 
