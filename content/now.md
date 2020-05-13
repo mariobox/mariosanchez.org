@@ -2,6 +2,9 @@
 Title: "Now"
 Draft: false
 Slug: now
+description: What I'm doing now
+images:
+- https://www.mariosanchez.org/img/now.jpg
 ---
 
 Since March 12, a few days before the Safe-At-Home order was issued for South Florida, I've been mostly <abbr title="Working From Home">WFH</abbr> (I'm lucky), riding my bike and making home-cooked meals. It's been an interesting, even enjoyable time, considering the terrible situation we're all facing every day. 
