@@ -405,6 +405,7 @@ img.gallery.large {
 figcaption {
   font-size: 0.6375em;
 }
+}
 
 
 @media(prefers-color-scheme:dark) {
