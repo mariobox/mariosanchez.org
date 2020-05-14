@@ -409,27 +409,33 @@ figcaption {
 
 
 @media(prefers-color-scheme:dark) {
-	body{
-		background-color:#282923;
-		color:rgb(206, 186, 186);
+	
+body {
+  background-color:#282923;
+	color:rgb(206, 186, 186);
 	}
-	a:link, a:visited, a:active {
-		color:#6F0;
+	
+a:link, a:visited, a:active {
+	color:#6F0;
 	}
 	  
-  a.logo:link,
-  a.logo:visited,
-  a.logo:active {
+a.logo:link,
+a.logo:visited,
+a.logo:active {
   text-decoration: none;
   color: #ddd;
   }
 	
-  h1, h2, h3, h4, h5, h6 {
-    color: rgb(206, 186, 186)
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(206, 186, 186)
   }
  
-  mark {
-    color: #ddd;
+mark {
+  color: #ddd;
+  }
+
+.header {
+    background-image: none;  
   }
 
 }
