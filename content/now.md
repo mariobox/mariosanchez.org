@@ -1,5 +1,5 @@
 ---
-Title: "Now"
+Title: Now
 description: What I'm Doing Now
 images:
 - https://www.mariosanchez.org/img/now.jpg

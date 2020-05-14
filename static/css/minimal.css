@@ -405,7 +405,6 @@ figcaption {
   font-size: 0.6375em;
 }
 
-}
 
 @media(prefers-color-scheme:dark) {
 	body{
@@ -430,7 +429,7 @@ figcaption {
   mark {
     color: #ddd;
   }
-  
+
 }
 
 
