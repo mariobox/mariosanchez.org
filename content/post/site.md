@@ -1,6 +1,6 @@
 ---
 title: "How This Site Is Made"
-slug: site
+description: "The tools I use and the process I follow to develop and deploy my personal site"
 date: 2020-05-09
 ---
 

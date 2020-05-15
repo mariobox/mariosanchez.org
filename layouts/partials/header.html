@@ -3,9 +3,9 @@
   <head>
 <!-- Meta Info -->
     <meta charset="utf-8">
-    <title>{{ .Title }}</title>
+    <title>{{ .Title }} | mariosanchez.org</title>
     <meta name="author" content="Mario Sanchez Carrion">
-    <meta name="description" content="MSC Personal Site" />
+    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ template "_internal/twitter_cards.html" . }}
 <!-- Scripts-->
