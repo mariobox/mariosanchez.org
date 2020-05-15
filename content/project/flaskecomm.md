@@ -1,7 +1,9 @@
 ---
 title: "eCommerce App with Flask and SQLite"
-slug: flaskecomm	
+description: An eCommerce App built with Flask, Jinja, SQLite, jQuery and Bootstrap. This was my final project for the CS50 class.
 date: 2018-12-25
+images:
+  - https://66.media.tumblr.com/186f34c7243200b24693260946874509/tumblr_pkaxbfmFxT1qz7ur9o1_1280.png
 ---
 
 **Made with**: <i class="fab fa-python"></i>Python
@@ -12,7 +14,7 @@ An eCommerce App built with Flask, Jinja, SQLite, jQuery and Bootstrap
 
 [Source Files](https://github.com/mariobox/flask-ecomm) <hr class="art" />
 
-This app was my CS50x final project.
+This app was my [CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science) final project.
 
 The app loads a gallery of soccer shirts that includes: image, description, price, and a small form to add item to cart. The shirt info is stored in a SQLite database and is displayed using Bootstrap's card class.
 

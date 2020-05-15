@@ -1,7 +1,9 @@
 ---
 title: "Turning and Old Laptop into a Chromebook"
-slug: chromebook
+description: How to use Cloudready to turn any old computer into a lightning fast Chromebook
 date: 2020-05-10
+images: 
+  - https://www.mariosanchez.org/img/chromebook1.jpg
 ---
 
 If you have an old laptop gathering dust around your house, you may be able to give it a new lease of life by turning it into a blazing fast Chromebook. 
@@ -31,4 +33,4 @@ In the File Explorer's left column you will have the option to access local file
 
 <img src="/img/chromebook3.jpg" class="gallery large">
 
-Once you're comfortable, you can go to Settings by clicking the bottom corner of the screen, and find the **Install OS** option. By clicking it, you will install Cloudready in your computer. Be aware that choosing that option **will erase everything in your hard drive**, so past this point there is no going back. If you get second thoughts and don't want to go ahead, just unplug the USB and next time you boot your computer it will boot from whatever operating system you were using before.
+Once you're comfortable, you can go to Settings by clicking the clock at the bottom right corner of the screen, and find the **Install OS** option. By clicking it, you will install Cloudready in your computer. Be aware that choosing that option **will erase everything in your hard drive**, so past this point there is no going back. If you get second thoughts and don't want to go ahead, just unplug the USB and next time you boot your computer it will boot from whatever operating system you were using before.
