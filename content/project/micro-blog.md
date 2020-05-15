@@ -1,7 +1,9 @@
 ---
 title: "Micro Blog Front End with React"
-slug: micro-blog
+description: Micro-blog simulator made with ReactJS. Makes use of components and state. Includes a log-in form, an entry form for blog posts, and a list of posts in reverse chronological order. 
 date: 2018-01-23
+images:
+  - https://www.mariosanchez.org/img/micro-blog.png
 ---
 
 <img src="/img/micro-blog.png" class="profile">
@@ -17,6 +19,7 @@ Micro-blog simulator made with ReactJS. Makes use of components and state. Inclu
 This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. We use the <code>create-react-app</code> application for all the scaffolding and heavy lifting so that we can focus on the code. 
 
 Our app has six components:
+
 * Our main <code>App.js</code>
 * A <code>Greeting.js</code> component, that displays a <code>Login.js</code> component if the user is not logged in, or the <code>Profile.js</code> component if our user is logged in.
 * An <code>AddPost.js</code> component to manage the post input field, and
@@ -25,11 +28,12 @@ Our app has six components:
 State is concentrated in the main <code>App.js</code>, and then passed down to the other components via props. 
 
 There are three state properties:
+
 * posts: an object with a list of all posts
 * user: the information of the user who is logged-in at any given moment
 * isLoggedIn: a boolean indicating if somebody is logged in or not
 
-The <code>isLoggedIn</code> boolean instruct the <code>Greeting.js</code> component what to display via a conditional rendering: if false, display a log in form (Login.js). If true, display the current user's profile (Profile.js).
+The <code>isLoggedIn</code> boolean instruct the <code>Greeting.js</code> component what to display via a conditional rendering: if false, display a log in form <code>Login.js</code>. If true, display the current user's profile <code>Profile.js</code>.
 
 Once logged in, users can write posts and they will immediately appear as the first post of the list.
 
