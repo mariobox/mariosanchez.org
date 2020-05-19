@@ -338,10 +338,10 @@ float: right;
 .header {
 	height: calc(100vh - 120px);
   width: 100%;
-	max-height: 130px;
+	max-height: 100px;
 	background-size: cover;
-	background-color: #414141;	
-  background-image: url('/img/header.jpg');
+	background-color: #e5e4e2;	
+  background-image: url('');
 }
 
 .tagbox {
@@ -435,7 +435,7 @@ mark {
   }
 
 .header {
-    background-image: none;  
+    background-color: #414141;  
   }
 
 }
