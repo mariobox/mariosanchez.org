@@ -4,9 +4,11 @@
 <main id="main">
   <div>
   <h1 id="title">{{ .Title }}</h1>
+  <ul>
   {{ range .Pages }}
     {{ .Render "li"}}
   {{ end }}
+  </ul>
   </div>
 </main>
 
