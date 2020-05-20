@@ -13,7 +13,7 @@ images:
 
 A simple site made with Node and Express, showing dynamic routes. 
 
-[Source Files](https://github.com/mariobox/express-demo) | [Live Demo](http://mariobox.github.io/express-demo)
+[Source Files](https://github.com/mariobox/express-demo) | [Live Demo](https://mjq48.sse.codesandbox.io/)
 
 <hr class="art" />
 
@@ -21,7 +21,7 @@ Before we go to our example site, let's talk about Express:
 
 [Express](https://expressjs.com/) is a web framework usually paired with Node. It is a light weight tool that makes it easy to build dynamic web applications.
 
-Since Express is made with JavaScript, you can install it directly from <abbr title="Node Package Manager">[NPM](https://www.npmjs.com)</abbr>. Once you [install it](https://expressjs.com/en/starter/installing.html), you can build your first Express aplication: a simple Hello World! message displayed when you access the <code>/</code> route, or the root of your website (usually that will be your home page):
+Since Express is made with JavaScript, you can install it directly from <abbr title="Node Package Manager">[NPM](https://www.npmjs.com)</abbr>. Once you [install it](https://expressjs.com/en/starter/installing.html), you can build your first Express aplication: a simple **Hello World!** message displayed when you access the <code>/</code> route, or the root of your website (usually that will be your home page):
 
 Open your text editor and create a file called `app.js` (make sure that during your installation you set the **entry point** in your `package.json` as `app.js` instead of `index.js`).
 
