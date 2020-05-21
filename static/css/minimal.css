@@ -185,26 +185,24 @@ code {
   padding: .2rem .2rem;
   margin: .5rem 0.2em;
   border-radius: 4px;
-  border: 1px solid #e5e4e5;
   font-size: 80%;
   white-space: nowrap;
-  background-color: #fafafa;
+  background-color: #eeeef0;
   color: #000; 
 }
 
 pre > code {
   display: block;
   padding: 1.0rem;
-  border-radius: 7px;
-  border: 1px solid #e5e4e5;
   white-space: pre; 
-  color: #222;  
-  background-color: #fafafa;
+  color: #FFF;  
+  background-color: transparent;
   overflow-x: auto;
 }
 
 pre {
   autoflow: auto;
+  border-radius: 6px;
 }
  
 
@@ -437,6 +435,10 @@ mark {
 .header {
     background-color: #414141;  
   }
+
+i.hd {
+  color: #999;
+}
 
 }
 
