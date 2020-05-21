@@ -51,7 +51,7 @@ Finally, you instruct the app to listen for changes in port 3000.
 
 Once all that is set up, save the file, go to your command line, and type:
 ``` bash
-node app.js` 
+node app.js 
 ```
 Then, navigate to [http://localhost:3000](http://localhost:3000), and you should see this in the browser:
 
