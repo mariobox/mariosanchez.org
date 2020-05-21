@@ -10,7 +10,9 @@ You start by going to your user directory and opening your <code>.bashrc</code> 
 
 In my case, I wanted to avoid having to type "git push origin master" every time I wanted to commit changes to my remote repository, so I appended the following line of code to my <code>.bashrc</code> file:
 
-<code>alias gpom='git push origin master'</code>
+``` bash
+alias gpom='git push origin master'
+```
 
 and saved the file.
 

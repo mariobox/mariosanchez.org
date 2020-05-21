@@ -27,8 +27,8 @@ Open your text editor and create a file called `app.js` (make sure that during y
 
 Then type the following:
 
-<pre>
-<code>
+``` js
+
 const express = require('express')
 const app = express()
 const port = 3000
@@ -38,8 +38,8 @@ app.get('/', (req, res) => res.send('Hello World!'))
 app.listen(port, () => 
   console.log(`Example app listening at http://localhost:${port}`)
   ) 
-</code>
-</pre>
+
+```
 
 The first two lines indicate that you want to import Express and that you will assign it to a variable called `app`.
 
@@ -51,94 +51,57 @@ Finally, you instruct the app to listen for changes in port 3000.
 
 Once all that is set up, save the file, go to your command line, and type:
 
- `node app.js` 
+`node app.js` 
 
 Then, navigate to [http://localhost:3000](http://localhost:3000), and you should see this in the browser:
 
-<pre>
-<code>
-Hello World!
-</code>
-</pre>
+<p>Hello World!</p>
 
 Now, let's say that instead of sending just text you want to send an HTML snippet, for example:
 
-<pre>
-<code>
-...
-
+``` js
 app.get('/', (req, res) => 
-  res.send('&lt;h1&gt;Hello World!&lt;/h1&gt;&lt;p&gt;This is my new website.&lt;/p&gt;')
+  res.send(
+    '<h1>Hello World!</h1><p>This is my new website.</p>'
+    )
   )
+```
 
-...
-</code>
-</pre>
 
 Save your work, run `node app.js` again and refresh your browser. You should see someting like this:
 
-<pre>
-<code>
+
 <h1>Hello World!</h1>
 <p>This is my new website.</p>
-</code>
-</pre>
-
 
 Sending a bunch of loose HTML is not very common, though. Most of the time you would like to send a proper HTML document. You just have to place the previous code in an `index.html` file, save the file in the `views` folder (Express will find it) and use the `render` method instead of `send`:
 
-<pre>
-<code>
-...
-
+``` js
 app.get('/', (req, res) => res.render('index'))
-
-...
-
-</code>
-</pre>
-
+```
 The result will be the same as before:
 
-<pre>
-<code>
 <h1>Hello World!</h1>
 <p>This is my new website.</p>
-</code>
-</pre>
 
 But you can go a step further, and ask Express to insert variables to your websites! Here is where the dynamic nature of Express starts to shine. You can use any templating engine, for example [Pug](https://pugjs.org/api/getting-started.html), and create an `index.pug` file that looks like this:
 
-<pre>
-<code>
+``` html 
 block content
     h1 Hello World!
     p My name is ${name}!
-
-</code>
-</pre>
+```
 
 Then, just pass an object with the variable **name** with your render method, like this:
 
-<pre>
-<code>
-...
-
+``` js
 app.get('/', (req, res) => res.render('index', { name, 'Joe'}))
-
-...
-
-</code>
-</pre>
+```
 
 And your website will display:
 
-<pre>
-<code>
 <h1>Hello World!</h1>
 <p>My name is Joe!</p>
-</code>
-</pre>
 
 There are many other things that you can do with Express, like grabbing parameters from the URL and passing them to your templates. We will see that in action in our demo site below.
 

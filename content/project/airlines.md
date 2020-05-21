@@ -34,12 +34,9 @@ Finally, we display the list of results on a webpage, using Flask and a Jinja te
 
 To run this code on your computer you first need to install and import the following dependencies at the top of your <code>application.py</code> file:
 
-<pre>
-<code>
+``` html
 import json
-
 from flask import Flask, redirect, render_template, request
-</code>
-</pre>
+```
 
 [Click here](https://github.com/mariobox/airlines) for the source code.

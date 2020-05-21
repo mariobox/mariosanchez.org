@@ -35,8 +35,12 @@ Below are the series of steps I took:
 1. If I haven't done it already, run `npm start` to generate the static site, which will load to folder `./public`
 2. Move the files in `./public` to the VPS's `/var/www/mariosanchez.org/html`, which is the folder within the VPS where the website files will be hosted. 
 For this, I created a bash file, located in the root directory of my project, that I named `deploy.sh`. This bash file syncs the contents of the `./public` folder with the contents of the `/var/www/mariosanchez.org/html` folder (thanks to [Parimal Satyal](https://www.neustadt.fr/parimal-satyal) for this tip!):
-<pre><code>#!/bin/sh
-rsync -av -e ssh public/* myusername@my.ip.address:/var/www/mariosanchez.org/html</code></pre>
+
+``` bash
+#!/bin/sh
+rsync -av -e ssh public/* myusername@my.ip.address:/var/www/mariosanchez.org/html
+```
+
 <br />Obviously, *myusername* and *my.ip.address* need to be replaced by my actual VPS information. 
 To run the bash script I just type `./deploy.sh`, which is the name of the bash script.
 3. Go to `mariosanchez.org` and see the changes live!

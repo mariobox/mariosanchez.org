@@ -19,8 +19,7 @@ I wanted to post a few pictures from my trips and other activities here in the s
 
 These are the style declarations for the photos:
 
-<pre>
-<code>
+``` css
 img.gallery {
   padding: 4px;
   border: 1px solid #ccc;
@@ -51,20 +50,16 @@ figcaption {
   padding: 0.6em;
   box-sizing: border-box; 
 }
-</code>
-</pre>
-
+```
 Since I'm using a mobile first approach, the style declarations above apply to small screens. For screen sizes 769px and up I created a media query slightly modifying the size of the pictures:
 
-<pre>
-<code>
+``` css
 @media (min-width: 769px) {
   img.gallery.medium {
   width: 300px;
   }
-}  
-</code>
-</pre>
+} 
+```
 
 I placed the pictures in my <code>img</code> folder and then created a [JSON file](https://mariosanchez.org/pix.json) with the url and description of each picture. Every time I want to add a picture to the gallery, I add a new member at the top of the object.
 

@@ -18,30 +18,34 @@ We will implement a dark theme selector for our site that visitors can activate 
 
 ## The HTML
 
-		<!--DOCTYPE-->
-		<html>
-		<head>
-		<script src="script.js"></script>
+``` html
+<!--DOCTYPE-->
+<html>
+  <head>
+    <script src="script.js"></script>
 		<script src="https://kit.fontawesome.com/3fe16e504a.js" crossorigin="anonymous"></script>
 		<link rel="stylesheet" href="style.css">
 		<title>Dark Theme</title>
-		</head>
-		<body>
-		<p>
-          <a href="contact.html">Contact</a> | 
-          <a href="about.html">About</a> 
-          <span id="toggle-switch" title="Toggle Dark Theme"><i class="fas fa-moon" id="toggle-switch"></i></span>
-        </p>
+	</head>
+	<body>
+	  <p>
+      <a href="contact.html">Contact</a> | 
+      <a href="about.html">About</a> 
+      <span id="toggle-switch" title="Toggle Dark Theme">
+        <i class="fas fa-moon" id="toggle-switch"></i>
+      </span>
+    </p>
 		<h1>My Dark Mode Theme</h1>
 		<p>This is a sample site to demo how to switch to dark mode.</p>
 		</body>
 		</html>
+```
 
 For this example, we will create three simple HTML pages: `index.html`, `about.html` and `contact.html`. The code above is the <code>index.html</code> page. At the top of each page, we will include a simple navigation menu next to which we will place a moon-shaped icon that users can click to turn on dark mode. Once in dark mode, the moon icon will switch to a sun icon, indicating that by clicking it the visitor can go back to the default light mode. Both the moon and the sun icons can be found in [Fontawesome](https://fontawesome.com).
 
 ## The CSS
-<pre>
-<code>
+
+``` css
 html {
   --bck-color: #FFF;
   --ft-color: #000
@@ -67,15 +71,13 @@ a:visited,
 a:active {
   color: var(--link-color);
 }
-</code>
-</pre>
+```
 
 We will define some variables for the colors we want to use in our dark and light themes. To keep it simple, we will just focus on the background, the font and the link colors. We will define our variables in the `html` element and we'll then reference them in the `body` and `link` elements. We will also create a `dark` class for the `html` element that we will activate via JavaScript once a visitor clicks on the moon icon.
 
 ## The JavaScript
 
-<pre>
-<code>
+``` js
 const DARK_MODE = 'dark';
 const LIGHT_MODE = 'light';
 const THEME = 'mode';
@@ -104,8 +106,7 @@ function applyTheme() {
     document.getElementById('toggle-switch').innerHTML = '<i class="fas fa-moon"></i>';
   }
 }
-</code>
-</pre>
+```
 
 Here's where the real magic happens. Since ours is a static site, we can't rely on the server to store our mode preferences. We need to do it in the visitor's browser, and for that we will make use of the `localStorage` DOM property.
 

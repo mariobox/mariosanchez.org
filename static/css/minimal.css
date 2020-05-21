@@ -187,25 +187,27 @@ code {
   padding: .2rem .2rem;
   margin: .5rem 0.2em;
   border-radius: 4px;
-  font-size: 70%;
+  font-size: 80%;
   white-space: nowrap;
   background-color: #eeeef0;
-  color: #000;
+  color: #000; 
 }
 
 pre > code {
   display: block;
   padding: 1.0rem;
   white-space: pre; 
-  border-radius: 4px;
-  color: #000;
+  color: white;  
+  background-color: transparent;
   overflow-x: auto;
 }
 
 pre {
-    overflow: auto;
-}
+  overflow: auto;
+  border-radius: 6px; 
+} 
 
+ 
 
 /* Profile pix */
 

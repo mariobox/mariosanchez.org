@@ -19,110 +19,110 @@ Besides a text editor, the terminal is where you, as a web developer, will spend
 **Note**: You don't need to type the $ before the command (that's the default command line prompt):
 
 **List folders and files under the current folder:**
-```
+``` bash
 $ ls 
 ```
 
 **List folders and files under the current folder (long format):**
-```
+``` bash
 $ ls -l
 ```
 
 **List folders and files, including hidden ones** (hidden files and folders are always preceded by a dot):
-```
+``` bash
 $ ls -a
 ```
 **List folders and files combining the -l and the -a flags:**
-```
+``` bash
 $ ls -la
 ```
 **Print working (current) directory:**
-```
+``` bash
 $ pwd
 ```
 
 **Change directory to the documents folder** (the documents folder must be under the current folder):
-```
+``` html
 $ cd documents
 ```
 
 **Move up one directory level** (indicated by the two dots):
-```
+``` html
 $ cd ..
 ```
 
 **Output the full contents of the file to the console:**
-```
+``` bash
 $ cat hello.txt
 ```
 
 **Open a file called hello.txt with the built-in Nano text editor** (to save changes type Control X and say YES):
-```
+``` bash
 $ nano hello.txt
 ```
 **Rename hello.txt as hi.txt:**
-```
+``` bash
 $ mv hello.txt hi.txt
 ```
 **Move hi.txt to the /documents folder:**
-```
+``` bash
 $ mv hi.thx /documents
-```
+``` 
 **Move hi.txt back to its original folder:** 
-```
+``` bash
 $ mv /documents/hi.txt .
 ```
 **Move hi.txt to the /documents folder and rename it hello.txt:**
-```
+``` bash
 $ mv hi.txt /documents/hello.txt
 ```
 
 **Rename the documents folder as docs:**
-```
+``` bash
 $ mv documents docs
 ```
 **Copy hello.txt as hi.txt leaving hello.txt in place:**
-```
+``` bash
 $ cp hello.txt hi.txt
 ```
 **Copy a folder (with all its contents) into another folder. We need to use the -r (recursive) flag:**
-```
+``` bash
 $ cp -r documents docs
 ```
 **Delete hello.txt:**
-```
+``` bash
 $ rm hello.txt
 ```
 **Remove the docs folder and all its contents. We need to use the -r (recursive) flag:**
-```
+``` bash
 $ rm -r docs
 ```
 **Create a folder called pictures:**
-```
+``` bash
 $ mkdir pictures
 ```
 **Create nested folders. You need to use the -p flag:**
-```
+``` bash
 $ mkdir -p documents/pictures/2017
 ```
 **Output the username of the user currently logged in:**
-```
+``` bash
 $ whoami
 ```
 **See if a program is installed. It will give you the path to the program, if it is installed** (for example, typing *which node* will probably give you: *usr/bin/node*):
-```
+``` bash
 $ which [NAME OF A PROGRAM]
 ```
 **Look for server information of a website:** (replace with a real domain name)
-```
+``` bash
 $ nslookup [DOMAIN NAME]
 ```
 **Fetch the HTTP header of a website:** (replace with a real URL)
-```
+``` bash
 $ curl -I [URL]
 ```
 **Get registration information of a domain name:** (replace with a real domain name)
-```
+``` bash
 $ whois [DOMAIN NAME]
 ```
 
