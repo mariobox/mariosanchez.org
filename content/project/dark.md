@@ -23,22 +23,25 @@ We will implement a dark theme selector for our site that visitors can activate 
 <html>
   <head>
     <script src="script.js"></script>
-		<script src="https://kit.fontawesome.com/3fe16e504a.js" crossorigin="anonymous"></script>
-		<link rel="stylesheet" href="style.css">
-		<title>Dark Theme</title>
-	</head>
-	<body>
-	  <p>
-      <a href="contact.html">Contact</a> | 
+    <script 
+      src="https://kit.fontawesome.com/3fe16e504a.js" 
+      crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="style.css">
+    <title>Dark Theme</title>
+  </head>
+  <body>
+    <p>
+      <a href="contact.html">Contact</a> |
       <a href="about.html">About</a> 
       <span id="toggle-switch" title="Toggle Dark Theme">
         <i class="fas fa-moon" id="toggle-switch"></i>
       </span>
     </p>
-		<h1>My Dark Mode Theme</h1>
-		<p>This is a sample site to demo how to switch to dark mode.</p>
-		</body>
-		</html>
+    <h1>My Dark Mode Theme</h1>
+    <p>This is a sample site to demo how to switch to dark mode.</p>
+  </body>
+</html>
 ```
 
 For this example, we will create three simple HTML pages: `index.html`, `about.html` and `contact.html`. The code above is the <code>index.html</code> page. At the top of each page, we will include a simple navigation menu next to which we will place a moon-shaped icon that users can click to turn on dark mode. Once in dark mode, the moon icon will switch to a sun icon, indicating that by clicking it the visitor can go back to the default light mode. Both the moon and the sun icons can be found in [Fontawesome](https://fontawesome.com).
@@ -48,7 +51,7 @@ For this example, we will create three simple HTML pages: `index.html`, `about.h
 ``` css
 html {
   --bck-color: #FFF;
-  --ft-color: #000
+  --ft-color: #000;
   --link-color: blue;
 }
 
@@ -82,28 +85,32 @@ const DARK_MODE = 'dark';
 const LIGHT_MODE = 'light';
 const THEME = 'mode';
 
-document.addEventListener('DOMContentLoaded', (event) => {
-  applyTheme(); 
-  const toggleSwitch = document.getElementById('toggle-switch');
-  toggleSwitch.onclick = function() {
-    let currentMode = localStorage.getItem(THEME);
-    localStorage.setItem(
-      THEME, 
-      currentMode === DARK_MODE ? LIGHT_MODE : DARK_MODE
-    );
+document.addEventListener(
+  'DOMContentLoaded', (event) => {
+    applyTheme();
+    const toggleSwitch = document.getElementById('toggle-switch');
+    toggleSwitch.onclick = function() {
+      let currentMode = localStorage.getItem(THEME);
+      localStorage.setItem(
+        THEME, 
+        currentMode === DARK_MODE ? LIGHT_MODE : DARK_MODE
+      );
     applyTheme();
   }
 });
 
 function applyTheme() {
-  let html = document.documentElement; // this selects the html element
+  let html = document.documentElement;
   let currentMode = localStorage.getItem(THEME);
   if (currentMode === DARK_MODE) {
     html.classList.add(DARK_MODE);
-    document.getElementById('toggle-switch').innerHTML = '<i class="fas fa-sun"></i>';
-  } else {
+    document.getElementById('toggle-switch').innerHTML = 
+      '<i class="fas fa-sun"></i>';
+  } 
+  else {
     html.classList.remove(DARK_MODE);
-    document.getElementById('toggle-switch').innerHTML = '<i class="fas fa-moon"></i>';
+    document.getElementById('toggle-switch').innerHTML = 
+      '<i class="fas fa-moon"></i>';
   }
 }
 ```

@@ -86,7 +86,7 @@ The result will be the same as before:
 
 But you can go a step further, and ask Express to insert variables to your websites! Here is where the dynamic nature of Express starts to shine. You can use any templating engine, for example [Pug](https://pugjs.org/api/getting-started.html), and create an `index.pug` file that looks like this:
 
-``` html 
+``` bash 
 block content
     h1 Hello World!
     p My name is ${name}!
