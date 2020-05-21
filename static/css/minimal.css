@@ -436,6 +436,10 @@ mark {
   color: #ddd;
   }
 
+code {
+  color: #414141;
+}
+
 .header {
     background-color: #414141;  
   }
