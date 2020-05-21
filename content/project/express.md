@@ -50,9 +50,9 @@ Then, you will tell the program that when you go to the home page via your root 
 Finally, you instruct the app to listen for changes in port 3000.
 
 Once all that is set up, save the file, go to your command line, and type:
-
-`node app.js` 
-
+``` bash
+node app.js` 
+```
 Then, navigate to [http://localhost:3000](http://localhost:3000), and you should see this in the browser:
 
 <p>Hello World!</p>
