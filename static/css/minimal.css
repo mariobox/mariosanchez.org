@@ -142,21 +142,19 @@ nav {
 .blocknav a:focus {
   color: #DDD;
 }
-  
-.blocknav li {
-  list-style-type: none;
-  margin-left: 0;
-  font-size: 75%;
-  text-transform: uppercase;
-  margin-bottom: 0.5em;
-}
 
 ul.blocknav {
-  margin-bottom: 1.0em;
-  margin-left: 0;
+  margin-top: 0.15rem;
   text-align: center;
 }
 
+.blocknav li {
+  display: inline-block;
+  margin-right: 1.5em;
+  margin-left: 1.5em;
+  font-size: 75%;
+}
+  
 a.logo {
   text-decoration: none;
   font-size: 2em;
@@ -187,26 +185,27 @@ code {
   padding: .2rem .2rem;
   margin: .5rem 0.2em;
   border-radius: 4px;
+  border: 1px solid #e5e4e5;
   font-size: 80%;
   white-space: nowrap;
-  background-color: #eeeef0;
+  background-color: #fafafa;
   color: #000; 
 }
 
 pre > code {
   display: block;
   padding: 1.0rem;
+  border-radius: 7px;
+  border: 1px solid #e5e4e5;
   white-space: pre; 
-  color: white;  
-  background-color: transparent;
+  color: #222;  
+  background-color: #fafafa;
   overflow-x: auto;
 }
 
 pre {
-  overflow: auto;
-  border-radius: 6px; 
-} 
-
+  autoflow: auto;
+}
  
 
 /* Profile pix */
@@ -314,9 +313,17 @@ mark {
   color: #464646;
 }
 
-i[class^="fa"] {
-  color: #999;
+i.fa,
+i.ft {
+  color: #999;  
+}
+
+i.ft {
   margin-right: 1.0rem;  
+}
+
+i.hd {
+  color: #000;
 }
 
 i a:link,
@@ -386,15 +393,6 @@ nav {
   display: inline-block;
 }
 
-ul.blocknav {
-  margin-top: 0.15rem;
-}
-
-.blocknav li {
-  display: inline-block;
-  margin-right: 0.5em;
-  margin-left: 0.5em;
-}
 
 img.gallery.medium {
   width: 300px;
@@ -435,10 +433,6 @@ h1, h2, h3, h4, h5, h6 {
 mark {
   color: #ddd;
   }
-
-code {
-  color: #414141;
-}
 
 .header {
     background-color: #414141;  
