@@ -68,6 +68,10 @@ Finally, I created two `partials` templates: `header.html` and `footer.html` tha
 
 That's basically it. To create the static site to be deployed, I just run the `hugo` command and the static files are placed in a `public` folder that I then deploy to Github Pages using [Git](/post/gcs).
 
+## Changelog
+
+As of May 10, 2020, I am documenting all significant changes to this site in a [changelog](/post/changelog/).
+
 ## Closing Comments
 
 If you want to give Hugo a try and need more detailed instructions check out their site: [gohugo.io](https://gohugo.io). In the spirit of sharing, if you want to use the source code of this site feel free to fork the [Github repository](https://github.com/mariobox). Just add your own content and pictures.
