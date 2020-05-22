@@ -135,7 +135,7 @@ nav {
 .blocknav a:visited, 
 .blocknav a:active {
   color: #555;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 .blocknav a:hover,
@@ -437,7 +437,11 @@ mark {
   }
 
 i.hd {
-  color: #999;
+  color: #FFF;
+}
+
+code {
+  color: #DDD;
 }
 
 }
