@@ -437,11 +437,11 @@ mark {
   }
 
 i.hd {
-  color: #FFF;
+  color: rgb(206, 186, 186);
 }
 
 code {
-  color: #DDD;
+  background-color: #DDD;
 }
 
 }
