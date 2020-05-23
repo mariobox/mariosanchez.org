@@ -95,9 +95,10 @@ document.addEventListener(
         THEME, 
         currentMode === DARK_MODE ? LIGHT_MODE : DARK_MODE
       );
-    applyTheme();
+      applyTheme();
+    }
   }
-});
+);
 
 function applyTheme() {
   let html = document.documentElement;
