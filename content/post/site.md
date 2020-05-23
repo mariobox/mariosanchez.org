@@ -47,6 +47,8 @@ We purposedly chose not to use bloated third-party themes because they usually c
 ### No Analytics: 
 Since our aim is to respect our visitors' privacy and remain non-commercial, this site **doesn't run Google Analytics** or any other tracking software. There are also **no affiliate links**. This site is continuously monitored by the <abbr title="Electronic Frontier Foundation">EFF</abbr> [Privacy Badger](https://privacybadger.org/) browser extension to verify no tracking tools are present.
 
+<img src="/img/privacy.jpg" class="gallery large" />
+
 ### Secure HTTPS: 
 We serve this site over [HTTPS](/post/https/) (secure HTML) to ensure all traffic to-and-from this site is **encrypted**. You may notice the **lock** icon next to the URL in the address bar:
 
