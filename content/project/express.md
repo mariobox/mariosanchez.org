@@ -37,7 +37,7 @@ app.get('/', (req, res) => res.send('Hello World!'))
 
 app.listen(port, () => 
   console.log(`Example app listening at http://localhost:${port}`)
-  ) 
+) 
 
 ```
 
@@ -63,8 +63,8 @@ Now, let's say that instead of sending just text you want to send an HTML snippe
 app.get('/', (req, res) => 
   res.send(
     '<h1>Hello World!</h1><p>This is my new website.</p>'
-    )
   )
+)
 ```
 
 
