@@ -12,7 +12,7 @@ This page is a working document that explains **why** I created this site, **how
 The main aim of this site is to serve as a **web development playground** where I can **practice and document** what I learn. I do it by working on the site's code and by posting write-ups about my other [coding projects](/project/).
 
 ### Intentions
-There are many ways to achieve a project's goals. I believe that the best way to achieve it is one that reflects the **identity of the creator**. That's why I believe every project needs to start with a **declaration of intentions or guiding principles**. The guiding principles for this site are:
+There are many ways to achieve a project's goals. I believe that the best way is one that reflects the **identity of the creator**. That's why I believe every project needs to start with a **declaration of intentions or guiding principles**. The guiding principles for this site are:
 
 #### 1. Minimalism: 
 Everything we put on the site must serve a purpose and support our goals. We must continuously remove what is no longer relevant (*less is more*). Both the **code** and the **content** should adhere to the <abbr title="Don't Repeat Yourself">[DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself)</abbr> principle. 
@@ -24,7 +24,7 @@ First and foremost, the site must achieve its goal, so we will favor a design th
 Visitors' **right to privacy** should be a primary concern. Visitors should be able to come and go as they please, without being tracked. The site must be 100% **non-transactional**, **non-commercial**, and must have **no ulterior motive** beyond documenting the author's web development journey in a way that benefits everybody.
 
 #### 4. Inspiration: 
-Our site must be developed using **open-source** tools and technologies. It must honor the **original intent** of the creators of the <abbr title="Worldwide Web">WWW</abbr>: to bring people and ideas together in a **decentralized, open system** where everybody can have **their own website**. Hopefully we will inspire others to learn how to design and deploy **simple personal websites** that reflect who they are, as an alternative to social media sites operated by tech giants, who gladly trade our privacy and wellbeing for profit.
+Our site must be developed using **open-source** tools and technologies. It must honor the **original intent** of the creators of the <abbr title="Worldwide Web">WWW</abbr>: to bring people and ideas together in a **decentralized, open system** where everybody can have **their own web presence**. Hopefully we will inspire others to learn how to design and deploy **simple personal websites** that reflect who they are, as an alternative to social media sites operated by tech giants, who gladly trade our privacy and wellbeing for profit.
 
 #### 5. Life-Long Learning:
 We are a **work in progress**. Websites are no different, they are always **under construction**. As we learn new skills we will apply them to make this site better.
@@ -32,7 +32,7 @@ We are a **work in progress**. Websites are no different, they are always **unde
 ## Implementation
 
 ### Static vs. Dynamic: 
-We decided to make our site [static]((https://techterms.com/definition/staticwebsite)) instead of using a database-driven tool like Wordpress. This is the simplest, fastest and most secure set up. Static sites are **ideal for blogs or small-to-medium sites** where content doesn't change based on user input. 
+We decided to make our site [static]((https://techterms.com/definition/staticwebsite)) instead of using a database-driven tool like Wordpress. This is the simplest, fastest and most secure set up. Static sites are **ideal for blogs and small-to-medium sites** where content doesn't change based on user input. 
 
 To create the site we use a **static site generator**, which is basically a program that combs through one or more folders containing content files usually written in [Markdown](https://daringfireball.net/projects/markdown/), converts them to HTML, and places them in a special folder that you can then deploy to the open web using any web hosting service. 
 
