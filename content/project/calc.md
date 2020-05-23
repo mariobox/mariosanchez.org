@@ -6,7 +6,7 @@ Draft: false
 
 <img src="/img/calc.png" class="profile">
 
-**Made with**: <i class="fab fa-js"></i>JavaScript</i> JavaScript | <i class="fab fa-css3"></i> CSS
+**Made with**: <i class="fab fa-js"></i> JavaScript | <i class="fab fa-css3"></i> CSS
 
 **Project Summary**:
 

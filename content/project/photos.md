@@ -5,7 +5,7 @@ Draft: false
 Slug: photos
 ---
 
-**Made with**: <i class="fab fa-js"></i>JavaScript
+**Made with**: <i class="fab fa-js"></i> JavaScript
 
 **Project Summary**: 
 

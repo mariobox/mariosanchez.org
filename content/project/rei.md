@@ -6,7 +6,7 @@ date: 2017-06-02
 
 <img src="/img/rei.jpg" class="profile">
 
-**Made with**: <i class="fab fa-html5"></i> <i class="fab fa-css3"></i> <i class="fab fa-js"></i>HTML, CSS and JavaScript
+**Made with**: <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3"></i> CSS | <i class="fab fa-js"></i> JavaScript
 
 **Project Summary**:
 

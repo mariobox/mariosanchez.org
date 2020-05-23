@@ -8,7 +8,7 @@ images:
 
 <img src="/img/angularjs.png" class="gallery medium" />
 
-**Made with**: <i class="fab fa-angular"></i>Angular
+**Made with**: <i class="fab fa-angular"></i> Angular
 
 **Project Summary**: 
 

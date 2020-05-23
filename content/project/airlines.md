@@ -4,7 +4,7 @@ slug: airlines
 date: 2020-01-21
 ---
 
-**Made with**: <i class="fab fa-python"></i>Python
+**Made with**: <i class="fab fa-python"></i> Python
 
 **Project Summary**: 
 

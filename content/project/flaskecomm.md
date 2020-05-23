@@ -6,7 +6,7 @@ images:
   - https://66.media.tumblr.com/186f34c7243200b24693260946874509/tumblr_pkaxbfmFxT1qz7ur9o1_1280.png
 ---
 
-**Made with**: <i class="fab fa-python"></i>Python
+**Made with**: <i class="fab fa-python"></i> Python
 
 **Project Summary**: 
 

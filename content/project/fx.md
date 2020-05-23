@@ -4,7 +4,7 @@ slug: fx
 date: 2020-02-20
 ---
 
-**Made with**: <i class="fab fa-js"></i>JavaScript
+**Made with**: <i class="fab fa-js"></i> JavaScript
 
 **Project Summary**: 
 

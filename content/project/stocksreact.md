@@ -6,7 +6,7 @@ images:
   - https://www.mariosanchez.org/img/rs2.png
 ---
 
-**Made with**: <i class="fab fa-react"></i>React
+**Made with**: <i class="fab fa-react"></i> React
 
 **Project Summary**: 
 
