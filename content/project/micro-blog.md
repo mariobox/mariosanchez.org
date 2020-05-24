@@ -14,7 +14,7 @@ images:
 
 Micro-blog simulator made with ReactJS. Makes use of components and state. Includes a log-in form, an entry form for blog posts, and a list of posts in reverse chronological order. 
 
-[Source Files](https://github.com/mariobox/react-micro-blog) | [Live Demo](http://mariobox.github.io/react-micro-blog)<hr />
+[Source Files](https://github.com/mariobox/react-micro-blog) | [Live Demo](http://mariobox.github.io/react-micro-blog)<hr class="art" />
 
 This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. We use the <code>create-react-app</code> application for all the scaffolding and heavy lifting so that we can focus on the code. 
 

@@ -8,6 +8,7 @@ All notable changes to this site will be documented in this file.
 
 ## Unreleased
 * Embed working demo in [Ecommerce Site](https://mariosanchez.org/project/flaskecomm/) post.
+* Apply breadcrumb navigation to individual posts and projects pages.
 
 ## Added
 
