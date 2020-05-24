@@ -1,12 +1,12 @@
 ---
 title: "Moving My Site to a Digital Ocean VPS"
-slug: vps
+description: Summary of the process to set up a virtual private server at Digital Ocean, and deploy a website.
 date: 2017-06-18
 ---
 
 **Update:** As of May 9, 2020 I am hosting my site in Github Pages.
 
-I just moved my site to a [Digital Ocean virtual private server (VPS)](https://m.do.co/c/b96aa4f9fdfd) (referral link). I had been wanting to do it for a long time but it seemed complicated, and using Github Pages to host my site was both easy and convenient. In the end, my desire to learn how to operate a <abbr title="Virtual Private Server">VPS</abbr> won over the convenience of Github, and I decided to take the plunge.
+I just moved my site to a [Digital Ocean virtual private server (VPS)](https://digitalocean.com). I had been wanting to do it for a long time but it seemed complicated, and using Github Pages to host my site was both easy and convenient. In the end, my desire to learn how to operate a <abbr title="Virtual Private Server">VPS</abbr> won over the convenience of Github, and I decided to take the plunge.
 
 First, I created a simple *Hello World!* HTML page and, after some trial and error, was able to deploy it to a VPS using a domain name that I had lying around. Since that worked, the next logical step was to try to move my site. Moving my site was slightly more complicated because I'm using a static site generator, which adds a few more steps and nuances to the process. 
 
