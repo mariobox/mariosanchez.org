@@ -2,7 +2,6 @@
 title: "Demo Site with Node and Express"
 description: A simple site made with Node and Express, showing dynamic routes. 
 date: 2020-05-18
-draft: false
 images:
   - 
 ---

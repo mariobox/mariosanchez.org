@@ -1,6 +1,5 @@
 ---
 title: "How To Implement a Dark Theme Switch for your Site"
-slug: dark	
 date: 2020-02-23
 ---
 
