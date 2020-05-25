@@ -1,5 +1,5 @@
 ---
-title: "Turning and Old Laptop into a Chromebook"
+title: Turning and Old Laptop into a Chromebook
 description: How to use Cloudready to turn any old computer into a lightning fast Chromebook
 date: 2020-05-10
 images: 

@@ -1,6 +1,6 @@
 ---
-title: "Anything You Want"
-slug: eyw
+title: Anything You Want
+description: Derek Sivers tells you everything he knows about business
 date: 2016-05-02
 ---
 

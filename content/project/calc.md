@@ -1,16 +1,12 @@
 ---
-Title: "Basic Calculator with JS and CSS"
+Title: Basic Calculator with HTML, CSS and JS
 Date: 2017-03-18
-Draft: false
+description: A basic calculator that adds, subtracts, multiplies and divides
 ---
 
 <img src="/img/calc.png" class="profile">
 
-**Made with**: <i class="fab fa-js"></i> JavaScript | <i class="fab fa-css3"></i> CSS
-
-**Project Summary**:
-
-Basic calculator to add, subtract, multiply and divide.
+**Made with**: <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3"></i> CSS <i class="fab fa-js"></i> JavaScript 
 
 [Source Files](https://github.com/mariobox/the-odin-project/tree/master/calculator) | [Live Demo](https://mariobox.github.io/the-odin-project/calculator/)<hr class="art" />
 

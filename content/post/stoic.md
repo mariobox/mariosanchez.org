@@ -1,6 +1,6 @@
 ---
-title: "A Guide to the Good Life"
-slug: stoic
+title: A Guide to the Good Life
+description: My takeaways from A Guide to the Good Life-The Ancient Art of Stoic Joy, by William B. Irvine
 date: 2016-05-18
 ---
 

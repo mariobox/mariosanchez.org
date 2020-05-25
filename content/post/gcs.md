@@ -1,6 +1,6 @@
 ---
-title: "Git Cheat Sheet"
-slug: gcs
+title: Git Cheat Sheet
+description: The most common Git commands I use for web development
 date: 2016-06-15
 ---
 

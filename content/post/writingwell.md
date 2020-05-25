@@ -1,6 +1,6 @@
 ---
 title: "On Writing Well"
-description: Notes and takeaways from *On Writing Well* by 
+description: My takeaways from On Writing Well by William Zinsser
 date: 2020-05-24
 ---
 

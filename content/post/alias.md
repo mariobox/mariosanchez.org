@@ -1,6 +1,6 @@
 ---
-title: "Creating Aliases in Linux Terminal"
-slug: alias
+title: Creating Aliases in Linux Terminal
+description: How to enable aliases in your .bashrc file
 date: 2016-11-13
 ---
 

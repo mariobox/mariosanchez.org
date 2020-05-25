@@ -1,6 +1,6 @@
 ---
 title: "How To Enable HTTPS For Your Website"
-slug: https
+description: Serving your site through Secure HTTP
 date: 2019-04-21
 ---
 

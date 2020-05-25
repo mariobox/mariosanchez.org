@@ -1,10 +1,10 @@
 ---
-title: "How To Get Rich Without Getting Lucky"
-slug: rich
+title: How To Get Rich Without Getting Lucky
+description: My favorite highlights of Naval Ravikant's epic Twitter thread
 Date: 2020-01-08
 ---
 
-This are my favorite highlights of Naval Ravikant's epic post [How To Get Rich Without Getting Lucky](https://nav.al/rich).
+Read Naval's original post [here](https://nav.al/rich).
 
 ## Seek Wealth, Not Money or Status
 

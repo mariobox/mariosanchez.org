@@ -1,6 +1,6 @@
 ---
-title: "Rework"
-slug: rework
+title: Rework
+description: My takeaways from Rework, by Jason Fried and David Heinemeier Hansson
 date: 2011-10-03
 ---
 

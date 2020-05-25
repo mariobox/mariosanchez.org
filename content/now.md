@@ -1,6 +1,7 @@
 ---
 Title: Now
 description: What I'm Doing Now
+date: 2020-05-25
 images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
@@ -31,7 +32,5 @@ What do you think? Any ideas?
 <br />
 
 <img src="/img/now.jpg" class="gallery large">
-
-<div >Last updated: May 25, 2020</div>
 
 Thanks to the great [Derek Sivers](http://sivers.org/nowff) for inspiring this page.

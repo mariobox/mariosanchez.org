@@ -1,6 +1,6 @@
 ---
 title: "The Compound Effect"
-slug: compound
+description: My takeaways from The Compound Effect, by Darren Hardy
 date: 2017-01-30
 ---
 

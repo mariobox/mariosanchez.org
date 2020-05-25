@@ -1,13 +1,10 @@
 ---
 title: "How To Implement a Dark Theme Switch for your Site"
 date: 2020-02-23
+description: Switch to dark theme for your site at a click of a button
 ---
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
-
-**Project Summary**: 
-
-Implement a dark theme for our site that we can activate at a click of a button.
 
 [Source Files](https://github.com/mariobox/dark) | [Demo](https://mariobox.github.io/dark)
 

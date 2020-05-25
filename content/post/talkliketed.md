@@ -1,6 +1,6 @@
 ---
 title: "Talk Like TED"
-slug: talkliketed
+description: My takeaways from Talk Like TED, by Carmine Gallo
 date: 2016-11-20
 ---
 

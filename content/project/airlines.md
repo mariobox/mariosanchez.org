@@ -1,14 +1,10 @@
 ---
 title: "Airlines"
 date: 2020-01-21
-description: Simple app using Python, Flask and Jinja to submit the name (or part of a name) of an airline and get its name followed by its 2-charachter IATA symbol.
+description: Simple app using Python, Flask and Jinja to get the name of an airline followed by its 2-charachter IATA symbol
 ---
 
 **Made with**: <i class="fab fa-python"></i> Python
-
-**Project Summary**: 
-
-Submit the name (or part of a name) of an airline and get its name followed by its 2-charachter IATA symbol
 
 [Source Files](https://github.com/mariobox/airlines) 
 

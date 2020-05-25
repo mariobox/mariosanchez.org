@@ -1,6 +1,6 @@
 ---
 title: "Some Unsolicited Money Tips"
-slug: money
+description: A simple systems approach to building wealth
 date: 2015-02-03
 ---
 

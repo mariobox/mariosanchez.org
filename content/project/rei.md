@@ -1,16 +1,12 @@
 ---
 title: "Real Estate Website with Bootstrap"
-slug: rei
+description: Responsive company website for a real estate investments business
 date: 2017-06-02
 ---
 
 <img src="/img/rei.jpg" class="profile">
 
 **Made with**: <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3"></i> CSS | <i class="fab fa-js"></i> JavaScript
-
-**Project Summary**:
-
-Responsive company website for a real estate investments business.
 
 [Source Files](https://github.com/rlo555/rlo555.github.io) | [Live Demo](http://habitatinvestors.com)<hr class="art" />
 

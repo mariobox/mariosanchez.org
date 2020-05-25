@@ -1,6 +1,6 @@
 ---
 title: "My $100 Office"
-slug: 100office
+description: How I spent less than $100 for my ideal working setup
 date: 2015-12-25
 ---
 

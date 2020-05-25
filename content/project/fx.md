@@ -1,14 +1,10 @@
 ---
 title: "Foreign Exchange Mobile Web App"
-slug: fx	
+description: Mobile-friendly FX watcher
 date: 2020-02-20
 ---
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
-
-**Project Summary**: 
-
-Mobile-friendly FX watcher.
 
 [Source Files](https://github.com/mariobox/fx-watcher) | [Demo](https://mariobox.github.io/fx-watcher)
 

@@ -1,16 +1,12 @@
 ---
 Title: "Progress Circle with JS and CSS"
 Date: 2019-07-08
-Draft: false
+description: Animated and stylish round progress bar with score inside
 ---
 
 <img src="/img/progresscircle.png" />
 
 **Made with**: <i class="fab fa-js"></i> JavaScript | <i class="fab fa-css3"></i> CSS
-
-**Project Summary**:
-
-JS app that creates an animated and stylish progress bar around a circle with the progress score written in the center.
 
 [Source Files](https://github.com/mariobox/progress-circle) | [Live Demo](https://mariobox.github.io/progress-circle)<hr class="art" />
 

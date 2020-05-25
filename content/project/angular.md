@@ -1,6 +1,6 @@
 ---
 title: "Building a Single Page Application with AngularJS"
-description: Create a barebones brochure site SPA using Angular
+description: A barebones brochure site SPA using Angular
 date: 2016-08-02
 images:
   - https://www.mariosanchez.org/img/angularjs.png
@@ -9,10 +9,6 @@ images:
 <img src="/img/angularjs.png" class="gallery medium" />
 
 **Made with**: <i class="fab fa-angular"></i> Angular
-
-**Project Summary**: 
-
-Create a barebones brochure site CPA using Angular
 
 [Source Files](https://github.com/mariobox/angulartestsite) | [Demo](https://mariobox.github.io/angulartestsite)
 

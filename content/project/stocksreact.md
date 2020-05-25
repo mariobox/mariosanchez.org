@@ -1,16 +1,12 @@
 ---
 title: "Stock Info Dashboards with ReactJS"
-description: Web app to fetch stock info from an API and display it using React. Uses new useState and useEffect functions to update state. 
+description: Web app to fetch stock info from an API and display it using React 
 date: 2019-10-21
 images:
   - https://www.mariosanchez.org/img/rs2.png
 ---
 
 **Made with**: <i class="fab fa-react"></i> React
-
-**Project Summary**: 
-
-Web app to fetch stock info from an API and display it using React
 
 [Source Files](https://github.com/mariobox/stocks-react) | [Live Demo](http://mariobox.github.io/stocks-react)<hr class="art" />
 

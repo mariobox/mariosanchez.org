@@ -1,6 +1,6 @@
 ---
-title: "Sam's Rules for Building a Business"
-slug: sams
+title: Sam's Rules for Building a Business
+description: Sound business advice from Sam Walton, founder of Walmart
 date: 2013-12-03
 ---
 

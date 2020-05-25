@@ -1,6 +1,6 @@
 ---
 title: "Ego Is The Enemy"
-slug: ego
+description: My takeaways from Ego Is The Enemy, by Ryan Holiday
 date: 2017-03-20
 ---
 

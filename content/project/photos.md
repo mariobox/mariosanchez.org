@@ -1,15 +1,10 @@
 ---
-Title: "JavaScript Photo Gallery"
+Title: JavaScript Photo Gallery
 Date: 2020-01-08
-Draft: false
-Slug: photos
+description: An Instagram-inspired pleasantly styled photo gallery rendered on demand
 ---
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
-
-**Project Summary**: 
-
-A pleasantly styled image gallery that renders dynamically when the web page is called.
 
 <hr class="art" />
 

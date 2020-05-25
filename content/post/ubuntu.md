@@ -1,6 +1,6 @@
 ---
 title: "How To Install Ubuntu Linux on an Empty Hard Drive"
-slug: ubuntu
+description: Give new life to your old laptop with the most popular open-source OS
 date: 2019-04-13
 ---
 

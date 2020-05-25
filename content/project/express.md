@@ -1,16 +1,12 @@
 ---
 title: "Demo Site with Node and Express"
-description: A simple site made with Node and Express, showing dynamic routes. 
+description: A simple site made with Node and Express, using dynamic routes
 date: 2020-05-18
 images:
   - 
 ---
 
 **Made with**: <i class="fab fa-node"></i> Node and Express
-
-**Project Summary**: 
-
-A simple site made with Node and Express, showing dynamic routes. 
 
 [Source Files](https://github.com/mariobox/express-demo) | [Live Demo](https://mjq48.sse.codesandbox.io/)
 

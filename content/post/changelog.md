@@ -1,10 +1,8 @@
 ---
 title: "Changelog"
-description: "Chronological log of changes made to this site"
-date: 2020-05-22
+description: All notable changes to this site will be documented in this file
+date: 2020-05-25
 ---
-
-All notable changes to this site will be documented in this file.
 
 ## Unreleased
 * Embed working demo in [Ecommerce Site](https://mariosanchez.org/project/flaskecomm/) post.
@@ -12,6 +10,7 @@ All notable changes to this site will be documented in this file.
 
 ## Added
 
+* <span class="date">May 25, 2020 - </span>Date and short description to all posts and projects pages.
 * <span class="date">May 21, 2020 - </span>Dark theme media query.
 * <span class="date">May 21, 2020 - </span>HTML [language](https://www.w3.org/International/questions/qa-html-language-declarations) attribute.
 * <span class="date">May 19, 2020 - </span>Code syntax highlighting via Hugo's built-in [Chroma](https://gohugo.io/content-management/syntax-highlighting/) code highliter.
