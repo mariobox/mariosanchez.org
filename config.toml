@@ -1,4 +1,4 @@
-baseURL = "https://www.mariosanchez.org/"
+baseURL = "https://mariosanchez.org/"
 languageCode = "en-us"
 title = "Mario Sanchez Carrion"
 pygmentsUseClasses = true

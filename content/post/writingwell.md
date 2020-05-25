@@ -6,7 +6,7 @@ date: 2020-05-24
 
 <img src="/img/oww.jpg" width="150px">
 
-I've been writing often on this site lately, so I decided to listen to the audio version of [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.indiebound.org/book/9780060891541) by **William Zinsser**. The book was highly recommended by [Derek Sivers](https://sivers.org). More than a collection of grammatical rules and techniques, *On Writing Well* is a common sense guide on how to keep your writing concise and engaging. Here are the passages and concepts that resonated with me:
+I've been writing often on this site lately, so I decided to listen to the audio version of [*On Writing Well: The Classic Guide to Writing Nonfiction*](https://www.indiebound.org/book/9780060891541) by **William Zinsser**. The book was highly recommended by [Derek Sivers](https://sivers.org). More than a collection of grammatical rules and techniques, *On Writing Well* is a common sense guide on how to keep your writing concise and engaging. Here are the passages and concepts that resonated with me:
 
 ## Writing: Art or Craft?
 

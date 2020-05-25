@@ -32,7 +32,7 @@ We are a **work in progress**. Websites are no different, they are always **unde
 ## Implementation
 
 ### Static vs. Dynamic: 
-We decided to make our site [static]((https://techterms.com/definition/staticwebsite)) instead of using a database-driven tool like Wordpress. This is the simplest, fastest and most secure set up. Static sites are **ideal for blogs and small-to-medium sites** where content doesn't change based on user input. 
+I decided to make my site [static]((https://techterms.com/definition/staticwebsite)) instead of using a database-driven tool like Wordpress. This is the simplest, fastest and most secure set up. Static sites are **ideal for blogs and small-to-medium sites** where content doesn't change based on user input. 
 
 To create the site we use a **static site generator**, which is basically a program that combs through one or more folders containing content files usually written in [Markdown](https://daringfireball.net/projects/markdown/), converts them to HTML, and places them in a special folder that you can then deploy to the open web using any web hosting service. 
 
@@ -45,7 +45,7 @@ We decided to use [Hugo](https://gohugo.io), which prides itself of being the **
 We purposedly chose not to use bloated third-party themes because they usually contain features and plug-ins that you don't need, which runs against our **minimalist approach**. Also, because we believe that a website should reflect the creator's own stylistic preferences. That's why I decided to create a hand coded [CSS style sheet](/css/minimal.css) to control the look and feel of the site.
 
 ### No Analytics: 
-Since our aim is to respect our visitors' privacy and remain non-commercial, this site **doesn't run Google Analytics** or any other tracking software. There are also **no affiliate links**. This site is continuously monitored by the <abbr title="Electronic Frontier Foundation">EFF</abbr> [Privacy Badger](https://privacybadger.org/) browser extension to verify no tracking tools are present.
+Since our aim is to respect our visitors' privacy and remain non-commercial, this site **doesn't run Google Analytics** or any other tracking software. There are also **no affiliate links**. Links to the books I review point to the author's page or to [Indiebound](https://www.indiebound.org/), not to Amazon. This site is continuously monitored by the <abbr title="Electronic Frontier Foundation">EFF</abbr> [Privacy Badger](https://privacybadger.org/) browser extension to verify no tracking tools are present.
 
 <img src="/img/privacy.jpg" class="gallery large" />
 

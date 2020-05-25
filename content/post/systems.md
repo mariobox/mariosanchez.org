@@ -1,6 +1,6 @@
 ---
 title: "Work The System"
-slug: systems
+description: Ground breaking book about the importance of implementing systems in your business and personal life. Well written, entertaining, rooted in a deeply personal story, the book deals not only with the why but also with the how of developing systems.
 date: 2015-09-15
 ---
 
@@ -10,7 +10,7 @@ Ground breaking book about the importance of implementing systems in your busine
 
 <!--more-->
 
-<p>I decided to read <a href="http://amzn.to/1zpyqRi">Work The System</a> when it was highly recommended by two respected business thinkers that I follow online: <a href="http://www.joshkaufman.net">Josh Kaufman</a> and <a href="http://www.sebastianmarshall.com">Sebastian Marshall</a>.  Also, because I&rsquo;ve been very busy lately and a deep understanding of systems, standardization and automation will bring more control, less stress, and more time for value-adding activities like thinking, strategizing, and keeping healthy.</p>
+<p>I decided to read <a href="https://www.workthesystem.com/get-the-book-free/"><em>Work The System</em></a> when it was highly recommended by two respected business thinkers that I follow online: <a href="http://www.joshkaufman.net">Josh Kaufman</a> and <a href="http://www.sebastianmarshall.com">Sebastian Marshall</a>.  Also, because I&rsquo;ve been very busy lately and a deep understanding of systems, standardization and automation will bring more control, less stress, and more time for value-adding activities like thinking, strategizing, and keeping healthy.</p>
 
 <p>The book didn&rsquo;t disappoint, and left me with plenty of actionable steps.</p>
 

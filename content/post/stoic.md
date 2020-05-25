@@ -6,7 +6,7 @@ date: 2016-05-18
 
 <img src="/img/stoic.jpg" width="100px">
 
-Finally managed to read "A Guide to the Good Life: The Ancient Art of Stoic Joy" by William B. Irvine. The book came highly recommended by Derek Sivers, an artist and writer that I respect and identify with due to our almost identical world views. 
+Finally managed to read *[A Guide to the Good Life: The Ancient Art of Stoic Joy](https://www.williambirvine.com/)* by William B. Irvine. The book came highly recommended by Derek Sivers, an artist and writer that I respect and identify with due to our almost identical world views. 
 
 I had only a vague idea of what stoicism was prior to reading the book, but based on my little knowledge I suspected that I have been practicing, albeit unknowingly, many of the tenets of this philosophy. Reading the book confirmed my theory, and introduced me to some new tools and techniques to improve the way I live. Here are **10 key ideas** of the book that I highlighted:
 
@@ -21,4 +21,4 @@ I had only a vague idea of what stoicism was prior to reading the book, but base
 9. Stoics value their **freedom**, and they are therefore reluctant to do anything that will give others power over them. If we seek social status, we give other people power over us. That is why as Stoics we must become indifferent to other people’s opinions of us. 
 10. We must train ourselves to not hold grudges or consider ourselves a victim. If we consider ourselves victims, we are not going to have a good life. 
 
-If you want to learn more about this book I recommend checking out [Derek Siver's book notes](https://sivers.org/book/StoicJoy), or [reading the whole book](https://www.amazon.com/dp/0195374614?tag=sivers-20) (it's worth it!).
+If you want to learn more about this book I recommend checking out [Derek Siver's book notes](https://sivers.org/book/StoicJoy), or [reading the whole book](https://www.williambirvine.com/) (it's worth it!).

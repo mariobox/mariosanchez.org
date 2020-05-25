@@ -88,16 +88,15 @@ for(let i = 0; i < currencies.length; i++) {
 
 Once we have that information, a `for` loop iterates over our **flags**, **currencies** and **exchange** rate arrays and builds the HTML container that we will then pass to the `<div>` with the ID of `root` in our `index.html` file:
 
-``` js
+``` sh
 for (let i = 0; i < l; i++) {
     exchanges[i] - exchangesly[i] < 0 ? bkchangely = "#00CC00": bkchangely = "#FF0000";
     
-    html += `
-            <tr>
-            <th scope="row"><img src="${flags[i]}" width="25px"</th>
-            <td><strong>${currencies[i]}</strong></td>
-            <td><strong>${exchanges[i].toFixed(2)}</strong></td>
-            <td><p class="change" style="background-color:${bkchangely}"><strong>${(((exchanges[i] - exchangesly[i])/exchanges[i])*100*(-1)).toFixed(2)}%</strong></p></td>
+    html += `<tr>
+              <th scope="row"><img src="${flags[i]}" width="25px"</th>
+              <td><strong>${currencies[i]}</strong></td>
+              <td><strong>${exchanges[i].toFixed(2)}</strong></td>
+              <td><p class="change" style="background-color:${bkchangely}"><strong>${(((exchanges[i] - exchangesly[i])/exchanges[i])*100*(-1)).toFixed(2)}%</strong></p></td>
             </tr>`
 } 
 

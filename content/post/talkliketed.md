@@ -4,13 +4,13 @@ slug: talkliketed
 date: 2016-11-20
 ---
 
-<img src="/img/ted.jpg" width="100px">
+<img src="/img/ted.jpg" width="150px">
 
 A few weeks ago I was rehearsing a presentation, and one of my co-workers recorded it on video. What an eye opener! I was terrible... 
 
 After getting some honest feedback and a few tips, and going through the presentation for five or six more times, my delivery got better, to the point that I almost didn't have to cringe when I watched it.
 
-As if fate had it, a few days later I was at a Fedex store and saw [Talk Like Ted](http://www.goodreads.com/book/show/17910144-talk-like-ted), by Carmine Gallo, sitting on the shelves. I went to my local library and picked it up. Here are my most important takeaways:
+As if fate had it, a few days later I was at a Fedex store and saw [*Talk Like TED*](https://www.carminegallo.com/books/talk-like-ted/), by Carmine Gallo, sitting on the shelves. I went to my local library and picked it up. Here are my most important takeaways:
 
 * A good presentation is:
 	* Emotional (touch the heart)
