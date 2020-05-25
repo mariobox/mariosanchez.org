@@ -4,7 +4,7 @@ slug: compound
 date: 2017-01-30
 ---
 
-<img src="/img/compound.jpg" width="100px">
+<img src="/img/compound.jpg" width="150px">
 
 More than just a productivity book, [The Compound Effect](http://www.thecompoundeffect.com/), by Darren Hardy, deals with the importance of developing good habits. It is easy to read and full of valuable insights and actionable steps.
 
