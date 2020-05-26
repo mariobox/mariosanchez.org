@@ -7,6 +7,7 @@ date: 2020-05-25
 ## Unreleased
 * Embed working demo in [Ecommerce Site](https://mariosanchez.org/project/flaskecomm/) post.
 * Apply breadcrumb navigation to individual posts and projects pages.
+* Add category tags.
 
 ## Added
 
@@ -18,6 +19,7 @@ date: 2020-05-25
 
 ## Changed
 
+* <span class="date">May 25, 2020 - </span>Switched to dark theme.
 * <span class="date">May 21, 2020 - </span>Removed Notes folder and integrated content into [Posts](/post/).
 * <span class="date">May 21, 2020 - </span>Redesigned navigation menu, from plain text to icons.
 * <span class="date">May 20, 2020 - </span>Edited Express post embedding live demo via [Codesandbox](https://mjq48.sse.codesandbox.io/).
