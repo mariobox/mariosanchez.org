@@ -141,6 +141,7 @@ nav a:hover,
 }
 
 nav ul {
+  margin-left: 0rem;  
   margin-top: 0.15rem;
   text-align: center;
 }
