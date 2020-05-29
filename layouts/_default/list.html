@@ -4,11 +4,14 @@
 <main id="main">
   <div>
   <h1 id="title">{{ .Title }}</h1>
+  {{ range .Pages.GroupByDate "2006" }}
+  <h2>{{ .Key }}</h2>
   <ul>
   {{ range .Pages }}
     {{ .Render "li"}}
   {{ end }}
   </ul>
+  {{ end }}
   </div>
 </main>
 
