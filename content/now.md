@@ -1,6 +1,6 @@
 ---
 Title: Now
-description: What I'm Doing Now
+description: What I'm doing now. Inspired by Derek Sivers's nownownow.com project.
 date: 2020-05-25
 images:
 - https://www.mariosanchez.org/img/now.jpg
