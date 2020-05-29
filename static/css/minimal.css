@@ -17,7 +17,7 @@ body {
   font-family: 'Catamaran', 'Helvetica', 'Arial', sans-serif;
   font-size: 22px;  
   background-color:#282923;
-	color:rgb(206, 186, 186);
+	color: #ddd;
 }
 
 
@@ -157,7 +157,7 @@ a.logo:link,
 a.logo:visited,
 a.logo:active {
   text-decoration: none;
-  color: rgb(206, 186, 186);
+  color: #ddd;
   font-size: 2em;
 }
 
@@ -316,7 +316,7 @@ i.ft {
 }
 
 i.hd {
-  color: rgb(206, 186, 186);
+  color: #ddd;
 }
 
 
