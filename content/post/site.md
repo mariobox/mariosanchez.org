@@ -1,7 +1,7 @@
 ---
-title: How This Site Is Made
-description: The tools I use and the process I follow to develop and deploy my personal site
-date: 2020-05-21
+title: About This Site
+description: Details about why I developed this site, what tools do I use, and the process I follow to build it and deploy it
+date: 2020-05-29
 ---
 
 ## Goals and Intentions
