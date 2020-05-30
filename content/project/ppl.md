@@ -14,11 +14,11 @@ images:
 
 I got the inspiration for this project from [this post](https://willem.com/blog/2020-03-25_designing-and-implementing-a-micro-payment-system/) in Willem Middelkoop's blog. While Willem's post went through the basic process, it didn't provide detaied instructions on how to make this work on an actual server, or how to interact with the payment platform's API. That's when I went online and searched for tutorials and videos that might help me. 
 
-Fortunately, I run across [this video](https://www.youtube.com/watch?v=7k03jobKGXM&t=1299s) by Brad Traversy that does a wonderful job of explaining how to tie a basic **Node/Express** server with **Paypal**. However, I wanted to go a step further and not only get the application to work in my own computer but on a Virtual Private Server accessible from the Internet. It just happens that Brad had already created [this other video](https://www.youtube.com/watch?v=oykl1Ih9pMg&t=370s) that teaches you how to deploy a basic Node/Express app in a VPS, together with domain name mapping and HTTPS certification. The video comes with [detailed written instructions](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896).
+Fortunately, I run across [this video](https://www.youtube.com/watch?v=7k03jobKGXM&t=1299s) by Brad Traversy that does a wonderful job of explaining how to tie a basic **Node/Express** server with **Paypal**. However, I wanted to go a step further and not only make the application to work in my own computer but also on a virtual private server accessible from the Internet. It just happens that Brad had already created [this other video](https://www.youtube.com/watch?v=oykl1Ih9pMg&t=370s) shows how to deploy a basic Node/Express app in a VPS, together with domain name mapping and HTTPS certification. The video comes with [detailed written instructions](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896).
 
 Rather than explain every single detail, which Brad can do better than me, I'm going to lay out the basic steps I took:
 
-**1) Build a basic Node/Express app:**
+## 1. Build a basic Node/Express app
 
 ``` js
 const express = require('express')
@@ -40,32 +40,42 @@ app.listen(port, () => console.log(`Example app listening at http://localhost:${
 <div style="background-color: #FFF; color:#000; padding: 5%;">
 <h1>Support Our Work</a></h1>
     <p>For the cost of a cup of coffee you could be supporting an open-source web development project!</p>
-    <form action="" method="post">
+    <form>
     <input type="submit" value="Donate $2"> 
     </form>
 </div>
 
-**Note**: if you're not familiar with [how Express works](https://expressjs.com), you may want to familiarize yourself with that first.
+**Note**: if you're not familiar with how Express works you may want to head to [Expressjs.com](https://expressjs.com) to familiarize yourself with that first.
 
-**2) Get a virtual private server at Digital Ocean:**
-That's where you will deploy your application. This process involves:
+## 2. Get a virtual private server at Digital Ocean
+
+That's where our application is deployed. You will need to:
 
 * Sign up
 * Create a Droplet (Digital Ocean's name for their virtual private servers)
 * Make a note of your assigned I.P. address (you will need it later)
 
-It may be useful at this point to learn how log into your droplet via SSH (so you don't need to use a password), and to how create a new user with **sudo** privileges so that you don't have to log in as **root**. [Follow this tutorial](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04).
+It may be useful at this point to learn how log into a droplet via SSH (so you don't need to use a password), and to how create a new user with **sudo** privileges so that you don't have to log in as **root**. [Follow this tutorial](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04).
 
-**3) Get a domain name and point it to your Digital Ocean virtual private server**. [Follow these instructions](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars).
+## 3. Get a domain name and point it to your Digital Ocean virtual private server
 
-**4) Deploy your basic Express app in your virtual private server**: 
-You can either copy the files one by one, or push your app to a Github repository and then clone it in your VPS. You may want to install a process manager like [PM2](https://pm2.keymetrics.io/) so that your application runs all the time, even when you log out of your server.
+[Follow this tutorial](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars).
 
-**5) Create a NGINX web server and configure it** so that your Express app is not just visible through a port (e.g. *domain.com:3000*) but through your plain domain: *domain.com*. This process is known as setting up the NGINX server as a reverse proxy.
+## 4. Deploy our basic Express app in our virtual private server
 
-**6) Create a Paypal dummy business account and a personal account**: You need to sign up at [developer.paypal.com](https://developer.paypal.com).
+You can either copy the files one by one, or push the app to a Github repository and then clone it in your VPS. You may also want to install a process manager like [PM2](https://pm2.keymetrics.io/) so that your application runs all the time, even when you log out of your server.
 
-**7) Add routes and functionality to your Express app** so that the Donate button becomes fully functional.
+## 5. Create a NGINX web server and configure it
+
+The idea is to make our Express app visible not just through a port (e.g. *domain.com:3000*) but through a plain domain: *domain.com*. This process is known as setting up the NGINX server as a reverse proxy.
+
+## 6. Create a Paypal developer account 
+
+You need to sign up at [developer.paypal.com](https://developer.paypal.com). Paypal automatically generates a dummy business account and a dummy personal account that you can use for testing in their Sanbox environment.
+
+## 7. Add routes and functionality to our Express app
+
+These allows our Donate button to become fully functional.
 
 Steps **1** to **5** are covered in [this video](https://www.youtube.com/watch?v=oykl1Ih9pMg&t=370s) and its [companion notes](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896).
 
