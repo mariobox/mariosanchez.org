@@ -1,7 +1,9 @@
 /* Minimal Reset */
 
 html { 
-  overflow-y: scroll;   
+  overflow-y: scroll;
+  box-sizing: border-box;
+  font-size: 112.5%;   
 }
 
 
@@ -12,7 +14,6 @@ body {
   color: #ddd;
   margin: 0;
   padding: 0;
-  font-size: 100%;
   line-height: 1.5rem;
   font-family: 'DejaVu Sans', sans-serif; 
 }
@@ -21,7 +22,7 @@ body {
 /* Grid */
 
 .container {
-  max-width: 45em;
+  max-width: 45rem;
   margin: 1rem auto;
   padding: 0 3%;  
 }
@@ -77,7 +78,7 @@ nav li {
 
 
 .logo {
-  font-size: 4em;
+  font-size: 4rem;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
@@ -259,6 +260,10 @@ img.gallery.medium {
 
 img.gallery.large {
   width: 500px;
+}
+
+html {
+  font-size: 100%;
 }
 
 }
