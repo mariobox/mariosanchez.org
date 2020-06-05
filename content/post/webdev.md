@@ -8,7 +8,7 @@ images:
 
 I consider myself a self-taught **junior web developer**. 
 
-I picked up web development as a **serious hobby** about five years ago, but my interest and curiority for the web go way back to the late 1990's. Back then, being able to share your thoughts with the world instantly and at vitually no cost was (and *still* is) mind-boggling to me. That was the promise of the Internet and the WWW in their early days. 
+I picked up web development as a **serious hobby** about five years ago, but my interest in and enthusiasm for the web go way back to the late 1990's. Back then, being able to share your thoughts with the world instantly and at virtually no cost was (and *still* is) mind-boggling to me. That was the promise of the Internet and the WWW in their early days. 
 
 Ever since, I've been obsessed with understanding the technologies that make such a feat possible. 
 
