@@ -18,7 +18,7 @@ Not much later, large platforms that came to be known as *social networks* enter
 
 The **open** and **decentralized** web that I had grown to love had started to die.
 
-Then, at around 2012, I heard a few prominent hackers [talk](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) about something called [static site generators](https://www.sitepoint.com/static-site-generators/), and how they made them rediscover the excitement publishing a personal website and experimenting with the code. I decided to go back to basics and re-learn the fundamentals of *HTML* and *CSS*. Soon, I was designing web pages from scratch with just a text editor, a blank page and my bare hands. 
+Then, at around 2012, I heard a few prominent hackers [talk](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) about something called [static site generators](https://www.sitepoint.com/static-site-generators/), and how they made them rediscover the excitement of publishing a personal website and experimenting with the code. I decided to go back to basics and re-learn the fundamentals of *HTML* and *CSS*. Soon, I was designing web pages from scratch with just a text editor, a blank page and my bare hands. 
 
 I was hooked.
 
