@@ -6,12 +6,30 @@ html {
   font-size: 112.5%;   
 }
 
+html {
+  --bck-color: #FFF;
+  --ft-color: #464646;
+  --link-color: #1962ff;
+  --header-color: #e5e4e2;
+  --mk-bckg: #FDFD96;
+  --mk-color: #464646;
+}
+
+html.dark {
+  --bck-color: #282923;
+  --ft-color: #DDD;
+  --link-color: #6F0; 
+  --header-color: #414141; 
+  --mk-bckg: rgba(144,238,144, 0.35);
+  --mk-color: #DDD;
+}
+
 
 /* Base Style */
 
 body {
-  background-color:#282923;
-  color: #ddd;
+  background-color: var(--bck-color);
+  color: var(--ft-color);
   margin: 0;
   padding: 0;
   line-height: 1.5rem;
@@ -33,7 +51,7 @@ body {
 a:link, 
 a:visited, 
 a:active {
-  color: #6F0;
+  color: var(--link-color);
   text-decoration: none;
 }
 	  
@@ -59,13 +77,13 @@ nav {
 nav a:link,
 nav a:visited, 
 nav a:active {
-  color: #555; 
+  color: var(--ft-color); 
   text-decoration: none; 
 }
 
 nav a:hover,
     a:focus {
-  color: #DDD;
+  color: #999;
   text-decoration: underline;
 }
 
@@ -87,7 +105,7 @@ nav li {
 .logo a:visited,
 .logo a:active {
   text-decoration: none;
-  color: #ddd;  
+  color: var(--logo-link-color);  
 }
 
 
@@ -98,7 +116,7 @@ code {
   margin: .5rem 0.2em;
   border-radius: 4px;
   white-space: nowrap;
-  background-color: #999;
+  background-color: #e5e4e2;
   color: #000;
   font-size: 1.15em;
 }
@@ -113,7 +131,6 @@ pre > code {
 }
 
 pre {
-  autoflow: auto;
   border-radius: 6px;
 }
  
@@ -190,7 +207,7 @@ img.gallery.large {
 blockquote {
   position: relative;
   padding-left: 1.5em;
-  border-left: 0.2em solid rgb(206, 186, 186);
+  border-left: 0.2em solid var(--ft-color);
   margin: 1.5em 0em;
   font-style: italic;
 }
@@ -220,13 +237,13 @@ abbr {
   width: 100%;
   max-height: 80px;
   background-size: cover;
-  background-color: #414141;	
+  background-color: var(--header-color);	
   background-image: url('');
 }
 
 mark {
-  background-color: rgba(144,238,144, 0.35);
-  color: #ddd;
+  background-color: var(--mk-bckg);
+  color: var(--mk-color);
   padding: 3px;
 }
 
@@ -235,7 +252,7 @@ mark {
 i.fa,
 i.ft,
 i.hd {
-  color: #DDD;  
+  color: var(--ft-color);  
 }
 
 i.ft {
@@ -247,7 +264,6 @@ i a:visited,
 i a:active {
   text-decoration: none;
 }
-
 
 
 /* Media Queries */

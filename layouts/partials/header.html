@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ template "_internal/twitter_cards.html" . }}
 <!-- Scripts-->    
+    <script src="/js/theme.js"></script>
 <!-- Styles -->
     <link rel="stylesheet" href="/css/all.css">
     <link rel="stylesheet" href="/css/minimal.css">
@@ -42,6 +43,12 @@
             <a href="/photos/">
               <span class="icon"> <i class="far fa-images fa-2x hd"></i></span><br />
               <span> photos </span>
+            </a>
+          </li>
+          <li>
+            <a style="cursor:pointer;">
+            <span class="icon" id="toggle-switch"> <i class="fas fa-moon fa-2x hd"></i></span><br />
+            <span> theme </span>
             </a>
           </li>
         </ul>
