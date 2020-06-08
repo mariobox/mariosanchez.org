@@ -14,13 +14,7 @@ images:
 
 I got the inspiration for this project from [this post](https://willem.com/blog/2020-03-25_designing-and-implementing-a-micro-payment-system/) in Willem Middelkoop's blog, and from the site [buymeacoffee.com](https://buymeacoffee.com). Simply put, I wanted to create a Donate button that upon clicking set in motion the process of paying through Paypal and redirecting back to my site. Before any styling, it would look something like this:
 
-<div style="background-color: #FFF; color:#000; padding: 5%; border-radius: 6px;">
-<h1>Support Our Work</a></h1>
-    <p>For the cost of a cup of coffee you could be supporting an open-source web development project!</p>
-    <form>
-    <input type="submit" value="Donate $2"> 
-    </form>
-</div>
+<p class="centered"><img src="/img/donate.png" class="gallery medium center" /></p>
 
 While Willem's post went through the basic process, it didn't provide detaied instructions on how to make this work on an actual server, or how to interact with the payment platform's API. That's when I went online and searched for tutorials and videos that might help me. 
 
