@@ -10,7 +10,7 @@ I consider myself a self-taught **junior web developer**.
 
 I picked up web development as a **serious hobby** about five years ago, but my interest in and enthusiasm for the web go way back to the late 1990's. Back then, being able to share your thoughts with the world instantly and at virtually no cost was (and *still* is) mind-boggling to me. That was the promise of the Internet and the WWW in their early days. 
 
-Ever since, I've been obsessed with understanding the technologies that make such a feat possible. 
+Ever since, I've been obsessed with understanding the [technologies](https://cs50.harvard.edu/technology/2017/) that make such a feat possible. 
 
 I first started making websites with [Microsoft Frontpage](https://en.wikipedia.org/wiki/Microsoft_FrontPage) and hosting them in [Geocities](https://www.citylab.com/life/2019/01/geocities-archive-netscape-browser-first-web-suburbs-aol/580285/). Then I moved up to registering my own domains and uploading my sites to shared hosting services via <abbr title="File Transfer Protocol">FTP</abbr>. Then, at the onset of [Web 2.0](https://www.cbsnews.com/news/what-is-web-20/), my focus switched to deploying [Wordpress](https://wordpress.org/) blogs and learning about <abbr title="Search Engine Optimization">SEO</abbr>. 
 
