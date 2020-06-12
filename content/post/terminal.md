@@ -158,6 +158,15 @@ Fetch the HTTP headers of a website: (replace with a real URL)
 $ curl -I [URL]
 ```
 
+Fetch the full HTML code of a web page:
+``` bash
+$ curl [URL]
+```
+Send the HTML of a web page to an HTML file:
+``` bash
+$ curl [URL] > file.html
+```
+
 Get registration information of a domain name: (replace with a real domain name)
 ``` bash
 $ whois [DOMAIN NAME]
