@@ -1,5 +1,13 @@
 [
     {
+        "url": "/img/iconBR.jpg",
+        "desc": "Icon BR Sighting"
+    },
+    {
+        "url": "/img/mcc.jpg",
+        "desc": "Miami City Center"
+    },    
+    {
         "url": "/img/ipod.jpg",
         "desc": "Reviving Old iPod Shuffle"
     },
