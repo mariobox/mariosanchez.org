@@ -6,7 +6,7 @@ images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
 
-I am currently reviewing some basic concepts about wed development and programming, watching [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science) videos again, and working on a few simple projects involving Node and Python.
+I am currently reviewing some basic web development concepts watching [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science) videos again, and working on a few simple projects involving Node and Python.
 
 <br />
 
