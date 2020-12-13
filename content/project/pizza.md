@@ -12,6 +12,8 @@ images:
 
 <hr class="art" />
 
+<img src="/img/pizzas.png">
+
 JavaScript program to choose only the pizzas with the ingredientes you want.
 
 Select the ingredients you don't want from a list of options and hit the submit button. The program will only show you pizzas with ingredients you want.
