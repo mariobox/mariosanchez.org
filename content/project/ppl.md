@@ -43,39 +43,17 @@ app.listen(port, () => console.log(`Example app listening at http://localhost:${
 
 **Note**: if you're not familiar with how Express works you may want to head to [Expressjs.com](https://expressjs.com) to familiarize yourself with that first.
 
-## 2. Get a virtual private server at Digital Ocean
-
-The virtual private server is where our application will be deployed. You will need to:
-
-* Sign up to Digital Ocean
-* Create a Droplet (Digital Ocean's name for their virtual private servers)
-* Make a note of your assigned I.P. address (you will need it later)
-
-It may be useful at this point to learn how to log into a droplet via SSH (so you don't need to use a password), and to create a new user with **sudo** privileges so that you don't have to log in as **root**. [Follow this tutorial](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04).
-
-## 3. Get a domain name and point it to your Digital Ocean virtual private server
-
-You need to either register a domain name or use one that you may already have. Then, you need to configure it to point to your server. For this last part you can [follow this tutorial](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars).
-
-## 4. Deploy our basic Express app in our virtual private server
-
-You can either copy the files one by one, or push the app to a Github repository and then clone it in your VPS. You may also want to install a process manager like [PM2](https://pm2.keymetrics.io/) so that your application runs all the time, even when you log out of your server.
-
-## 5. Create a NGINX web server and configure it
-
-The idea is to make our Express app visible not just through a port (e.g. *domain.com:3000*) but through a plain domain: *domain.com*. For that, we need to create a NGINX web server, and configure it so that our Node/Express app maps to the NGINX server. This process is known as setting up the NGINX server as a reverse proxy.
-
-## 6. Create a Paypal developer account 
+## 2. Create a Paypal developer account 
 
 You need to sign up at [developer.paypal.com](https://developer.paypal.com). Paypal automatically generates a dummy business account and a dummy personal account that you can use for testing in their Sanbox environment.
 
-## 7. Add routes and functionality to our Express app
+## 3. Add routes and functionality to our Express app
 
-This allows our Donate button to become fully functional.
+This allows our Donate button to become fully functional. You can take a look at the routes in the [source code of app.js](https://github.com/mariobox/donate-paypal/blob/master/app.js).
 
-Steps **1** to **5** are covered in [this video](https://www.youtube.com/watch?v=oykl1Ih9pMg&t=370s) and its [companion notes](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896).
+By running `nodejs app.js` in the command line, we can test this app in our own computer.
 
-Steps **6** and **7** are covered in [this video](https://www.youtube.com/watch?v=7k03jobKGXM&t=1299s).
+The next challenge is to deploy the application in a virtual private server, but that's outside the scope of this post.
 
 
 
