@@ -8,7 +8,7 @@ images:
 
 **Made with**: <i class="fab fa-node"></i> Node and Express
 
-[Source Files](https://github.com/mariobox/donate-paypal) | [Live Demo](https://mariosanchezcarrion.com/donate)
+[Source Files](https://github.com/mariobox/donate-paypal) 
 
 <hr class="art" />
 
@@ -77,21 +77,6 @@ Steps **1** to **5** are covered in [this video](https://www.youtube.com/watch?v
 
 Steps **6** and **7** are covered in [this video](https://www.youtube.com/watch?v=7k03jobKGXM&t=1299s).
 
-<hr class="art" />
-
-My demo is now finished and fully functional, although it could still use some styling! :) 
-
-If you want to try it out, click on the Donate button below and use these dummy credentials to go through the motions in Paypal's sandbox environment:
-
-``` html
-Email: sb-akf271945802@personal.example.com
-
-Password: BmWWp#S4
-```
-
-<iframe src="https://mariosanchezcarrion.com/donate" width="100%" height="500px"></iframe>
-
-<p class="small"><em><strong>DON'T WORRY</strong>: You won't get charged. This is a dummy environment!</em></p>
 
 
 
