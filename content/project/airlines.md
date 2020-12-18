@@ -81,17 +81,18 @@ Next, the program takes a JSON file with all airline/symbol combinations and tra
 ``` py
 ...
 f = open('airlines.json')
-data = json.load(f)  # turn json array of objects into an python list of objects
+# turn json array of objects into an python list 
+data = json.load(f)  
 f.close()
 ...
 ```
 Next, we iterate over all the airlines on the list, convert each airline's information into a tupple, and append those tupples to a new list. Each tupple will be in the form of (*Airline Symbol*, *Airline Name*):
 
 ``` py
-# create an empty list to store (airline symbol, airline name) tuples
+# create an empty list to store airline (symbol, name) tuples
 symbol_airline = []
 
-# create each (airline symbol, airline name) tuple and append it to symbol_airline
+# create airline (symbol, name) tuples and append to symbol_airline
 for airline in data:
   symbol_airline.append((tuple(airline.values())))
 ```
@@ -122,11 +123,13 @@ def iata():
         results.append(f'{airline[1]} ({airline[0]})')
     return render_template("index.html", results=results)
 ```
-To run this code on your computer you first need to install Python and Flask, and import the dependencies at the top of the <code>application.py</code> file, one again:
+To run this code on your computer you need to access the FLASK_APP enviroment variable by typing:
 
-``` py
-import json
-from flask import Flask, redirect, render_template, request
-```
+`export FLASK_APP=application.py`
+
+from the command line, follwed by:
+
+`flask run`
+
 
 [Click here](https://github.com/mariobox/airlines) for the source code.
