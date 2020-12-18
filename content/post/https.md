@@ -24,7 +24,7 @@ HTTPS solves all three of those problems.
 
 To understand how HTTPS works in detail, this is an excellent article that explains it much better than I can:
 
-[How HTTPS Works](https://strongarm.io/blog/how-https-works/)
+[How HTTPS Works](https://web.archive.org/web/20190209054553/https://strongarm.io/blog/how-https-works/)
 
 Since HTTPS relies heavily on the concept of Public-Private Key Cryptography, you may want to start by reading this post:
 
