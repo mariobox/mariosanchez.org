@@ -127,7 +127,7 @@ To run this code on your computer you need to access the FLASK_APP enviroment va
 
 `export FLASK_APP=application.py`
 
-from the command line, follwed by:
+from the command line, followed by:
 
 `flask run`
 

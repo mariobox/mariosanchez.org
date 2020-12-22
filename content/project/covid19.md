@@ -4,11 +4,11 @@ description: Table of countries showing confirmed cases and deaths
 date: 2020-12-17
 ---
 
+<img src="/img/covid.png">
+
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/covid-dashboard) 
-
-<img src="/img/covid.png">
+[Source Files](https://github.com/mariobox/covid-dashboard) <hr class="art">
 
 This is a practice project in Python using the Covid package, which lets us retrieve up-to-date information about Covid-19 from John Hopkins API.
 
@@ -52,5 +52,13 @@ def index():
 ```
 
 The `index.html` page is a Jinja template enhanced with Bootstrap styling to make our table look nice.
+
+To run this code on your computer you need to access the FLASK_APP enviroment variable by typing:
+
+`export FLASK_APP=application.py`
+
+from the command line, followed by:
+
+`flask run`
 
 We could do other things with our app, like allowing users to sort by different criteria, display only a limited amount of data, or grab more information from other sources. For now, though, the app is done and it accomplishes what I set out to do.

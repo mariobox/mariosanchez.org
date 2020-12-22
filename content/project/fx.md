@@ -8,6 +8,8 @@ date: 2020-02-20
 
 [Source Files](https://github.com/mariobox/fx-watcher) | [Demo](https://mariobox.github.io/fx-watcher)
 
+**Update**: The API I was using for this project is not in business any more, so the demo will not work. I am looking for a new API to adapt this project and make it work again.
+
 <hr class="art" />
 
 We will create a mobile web app that will display the current exchange of a basket of currencies versus the US dollar. Besides the current rate we also want to display the **YTD % devaluation** (or revaluation) for each of the currencies. 
