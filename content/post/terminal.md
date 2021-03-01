@@ -172,6 +172,24 @@ Get registration information of a domain name: (replace with a real domain name)
 $ whois [DOMAIN NAME]
 ```
 
+Get a file (in this case a pdf file from the web):
+``` bash
+$ wget https://domain.com/file.pdf
+```
+
+Find a file (you can use the -iname flag to make it case insensitive):
+``` bash
+$ find [APPROXIMATE PATH] [FILENAME]
+```
+Get a tree structure of the current directory (you can use the -d flag to list only directories, not files):
+``` bash
+$ tree
+```
+Get the id of the current user (including group id):
+``` bash
+$ id
+```
+
 If you want to dig deeper, just do a Google search for [useful linux terminal commands](https://www.google.com/search?ei=dRa5XIf_E6-O5wL_lprIDg&q=useful+linux+terminal+commands&oq=useful+linux+terminal+commands&gs_l=psy-ab.3..0.4052.7452..8574...5.0..0.128.1055.0j9......0....1..gws-wiz.......0i71j35i304i39j0i7i30j0i13j0i8i7i30j0i7i5i30j0i13i5i30j0i8i13i30.gmH5nuLkc9E) and you will find how powerful and versatile the terminal can be.
 
 
