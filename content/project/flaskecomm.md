@@ -8,7 +8,7 @@ images:
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/flask-ecomm) <hr class="art" />
+[Source Files](https://github.com/mariobox/flask-ecomm) | [Live Demo](http://mariosanchezcarrion.com:5000) 
 
 This app was my [CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science) final project.
 
