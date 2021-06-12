@@ -8,7 +8,7 @@ date: 2020-12-17
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/covid-dashboard) <hr class="art">
+[Source Files](https://github.com/mariobox/covid-dashboard) | [Live Demo](http://mariosanchezcarrion.com:1313) <hr class="art">
 
 This is a practice project in Python using the Covid package, which lets us retrieve up-to-date information about Covid-19 from John Hopkins API.
 
