@@ -1,20 +1,20 @@
 ---
 Title: Uses
 description: Tools I use for web development. Inspired by Wes Bos's uses.tech project.
-date: 2020-05-29
+date: 2021-06-13
 images:
 - https://www.mariosanchez.org/img/wfh.jpg
 ---
 
 I've joined the [uses.tech](https://uses.tech) community and created this **/uses** page to list the tools I'm currently using for web development.
 
-- **Computer**: Toshiba Satellite C55. 4Gb of RAM. Intel Celeron N2830 dual core processor.  It's a little underpowered, but it was cheap (~$250). I bought it a few years ago when I was just beginning to code and it still does the trick, so I haven't replaced it. If you want to know what kind of computer you need [this article](https://www.zdnet.com/article/which-computer-should-i-buy-how-to-find-the-ipad-chromebook-mac-or-windows-pc-thats-right-for-you/) has very good tips.
+- **Computer**: I recently purchased an HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. I love this laptop. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
 
-- **Operating System**: [Ubuntu 18.04 LTS](https://www.ubuntu.com/download/desktop). Some of the most significant developments in the world of programming and web development are easily accessible from the Linux command line. A few years ago I decided to take the plunge, ditch Windows and [install Ubuntu Linux](/ubuntu) in my computer. So far so good.
+- **Operating System**: [Ubuntu 20.04 LTS](https://www.ubuntu.com/download/desktop). Some of the most significant developments in the world of programming and web development are easily accessible from the Linux command line. Microsoft seems to follow the same line of thought and recently introduced WSL2 (Windows Sub-System for Linux 2). This feature basically offers you to open a full Ubuntu Linux kernel from within Windows. WSL2 is not just a translation layer, but a full Linux environment, complete with its own filesystem. I will soon write a post explaining how to install it. Basically, I am now running Ubuntu Linux from within Windows 10.
 
 - **Static Site Generator**: [Hugo](https://gohugo.io), by far the fastest and most reliable website engine I've ever used.
 
-- **Responsive Framework**: [minimal.css](/css/minimal.css). I created my own style sheet from scratch rather than using something like Bootstrap, since I didn't need 99% of the functionality. 
+- **Responsive Framework**: [minimal.css](/css/minimal.css). I created my own style sheet from scratch rather than using something like Bootstrap, since I didn't need 99% of the functionality. I recently updated it to give me the option to toggle between a light and a dark theme.
 
 - **Version Control**: [Git](https://git-scm.com/) and [Github](https://github.com/mariobox). I don't know what I would do without Git. Some advance features can be challenging to grasp, but the basics are pretty straightforward, and you may find yourself using just a few [Git commands](/post/gcs/) most of the time. 
 

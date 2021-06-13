@@ -35,7 +35,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5rem;
-  font-family: 'DejaVu Sans', sans-serif; 
+  font-family: 'Hack', 'DejaVu Sans', sans-serif; 
 }
 
 
@@ -101,6 +101,7 @@ nav li {
   font-size: 4rem;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+  font-family: 'DejaVu Sans', sans-serif;
 }
 
 .logo a:link, 
