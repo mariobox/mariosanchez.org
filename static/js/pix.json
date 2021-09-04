@@ -1,5 +1,13 @@
 [
     {
+        "url": "/img/et.jpg",
+        "desc": "Eiffel Tower"
+    },
+    {
+        "url": "/img/jdl.jpg",
+        "desc": "Jardins de Luxembourg"
+    },
+    {
         "url": "/img/iconBR.jpg",
         "desc": "Icon BR Sighting"
     },

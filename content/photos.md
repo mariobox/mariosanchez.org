@@ -1,7 +1,7 @@
 ---
 Title: "Photo Gallery"
 Slug: photos
-date: 2020-05-25
+date: 2021-09-04
 ---
 
 <div>
