@@ -1,12 +1,12 @@
 ---
 Title: Uses
-description: Tools I use for web development. Inspired by Wes Bos's uses.tech project.
+description: Tools I use for web development. Inspired by the uses.tech project.
 date: 2021-06-13
 images:
 - https://www.mariosanchez.org/img/wfh.jpg
 ---
 
-I've joined the [uses.tech](https://uses.tech) community and created this **/uses** page to list the tools I'm currently using for web development.
+I've joined the [uses.tech](https://uses.tech) community and created this page to list the tools I'm currently using for web development.
 
 - **Computer**: I recently purchased an HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. I love this laptop. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
 
@@ -24,7 +24,5 @@ I've joined the [uses.tech](https://uses.tech) community and created this **/use
 
 - **SSL/TLS Certificate**: [Let's Encrypt](https://letsencrypt.org). That lets me serve this site through [HTTPS](../https/). With [Github Pages](https://pages.github.com) you now get SSL by default.
 <br />
-
-<img src="/img/wfh.jpg" class="gallery large">
 
 Thanks to [Wes Bos](https://wesbos.com/uses) for inspiring this page.

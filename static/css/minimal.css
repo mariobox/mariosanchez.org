@@ -3,7 +3,14 @@
 html { 
   overflow-y: scroll;
   box-sizing: border-box;
-  font-size: 112.5%;   
+  font-size: 112.5%;  
+  --bck-color: #282923;
+  --ft-color: #DDD;
+  --link-color: #6F0; 
+  --header-color: #414141; 
+  --mk-bckg: rgba(144,238,144, 0.35);
+  --mk-color: #DDD;
+  --ft-desc: #999; 
 }
 
 html.light {
@@ -91,15 +98,14 @@ nav a:hover,
 
 nav li {
   display: inline-block;
-  margin-right: 2.5em;
-  margin-left: -1.0em;
-  font-size: 80%;
+  margin-right: 2.0em;
+  font-size: 120%;
 }
 
 
 .logo {
   font-size: 4rem;
-  margin-top: 1.5rem;
+  margin-top: 4.5rem;
   margin-bottom: 1.5rem;
   font-family: 'DejaVu Sans', sans-serif;
 }
@@ -153,18 +159,18 @@ img {
 }
 
 .avatar {
-  background-image: url('../img/msc.jpg');
+  background-image: url('');
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
-  height: 100px;
-  width: 100px;
+  height: 30px;
+  width: 30px;
   position: relative;
-  top: -50px;
+  top: -16px;
   margin-bottom: -50px;
-  border: 2px solid white;
+  border: 0px solid white;
   border-radius: 50px;
-  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);
 }
 
 /* Image Gallery */
@@ -241,7 +247,7 @@ abbr {
 .header {
   height: calc(100vh - 120px);
   width: 100%;
-  max-height: 80px;
+  max-height: 50px;
   background-size: cover;
   background-color: var(--header-color);	
   background-image: url('');

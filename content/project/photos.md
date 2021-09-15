@@ -62,7 +62,7 @@ Finally, I created the following [JavaScript script](https://mariosanchez.org/js
 
 By using a small script we avoid having to hard code the HTML page every time we want to add a picture. 
 
-To see the gallery in action click [here](../photos).
+To see the gallery in action click [here](/photos).
 
 
 
