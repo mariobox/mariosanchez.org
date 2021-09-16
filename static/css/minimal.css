@@ -221,6 +221,10 @@ blockquote {
   font-style: italic;
 }
 
+h2 {
+  margin-top: 1.8em;
+}
+
 p.small {
   font-size: 0.9em;
 }
