@@ -26,7 +26,7 @@ I have included the most relevant quotes from the book below, and highlighted th
 "Physics isn’t controversial. It’s guided by laws. Finance is different. It’s guided by people’s behaviors."
                 
 
-"<mark>Your personal experiences with money make up maybe 0.00000001% of what’s happened in the world, but maybe 80% of how you think the world works.</mark>"
+"Your personal experiences with money make up maybe 0.00000001% of what’s happened in the world, but maybe 80% of how you think the world works."
                 
 
 "No amount of studying or open-mindedness can genuinely recreate the power of fear and uncertainty."
@@ -62,13 +62,13 @@ I have included the most relevant quotes from the book below, and highlighted th
 "Studying a specific person can be dangerous because we tend to study extreme examples."
                 
 
-"<mark>The more extreme the outcome, the less likely you can apply its lessons to your own life, because the more likely the outcome was influenced by extreme ends of luck or risk.</mark>"
+"The more extreme the outcome, the less likely you can apply its lessons to your own life, because the more likely the outcome was influenced by extreme ends of luck or risk."
                 
 
 "The trick when dealing with failure is arranging your financial life in a way that a bad investment here and a missed financial goal there won’t wipe you out so you can keep playing until the odds fall in your favor."
                 
 
-"<mark>The hardest financial skill is getting the goalpost to stop moving.</mark>"
+"The hardest financial skill is getting the goalpost to stop moving."
                 
 
 "Enough” is realizing that the opposite—an insatiable appetite for more—will push you to the point of regret."
@@ -80,7 +80,7 @@ I have included the most relevant quotes from the book below, and highlighted th
 "Buffett’s fortune isn’t due to just being a good investor, but being a good investor **since he was literally a child**."
                 
 
-"<mark>Linear thinking is so much more intuitive than exponential thinking</mark>."
+"Linear thinking is so much more intuitive than exponential thinking."
                 
 
 "Earning pretty good returns that you can stick with and which can be repeated for the longest period of time."
@@ -92,19 +92,19 @@ I have included the most relevant quotes from the book below, and highlighted th
 "Getting money and keeping money are two different skills."
                 
 
-"<mark>Getting money requires taking risks, being optimistic, and putting yourself out there. But keeping money requires the opposite of taking risk. It requires humility, and fear that what you’ve made can be taken away from you just as fast.</mark>"
+"Getting money requires taking risks, being optimistic, and putting yourself out there. But keeping money requires the opposite of taking risk. It requires humility, and fear that what you’ve made can be taken away from you just as fast."
                 
 
 "Compounding only works if you can give an asset years and years to grow."
                 
 
-"<mark>Merely good returns sustained uninterrupted for the longest period of time.</mark>"
+"Merely good returns sustained uninterrupted for the longest period of time."
                 
 
 "A plan is only useful if it can survive reality. And a future filled with unknowns is everyone’s reality."
                 
 
-"<mark>Room for error—often called margin of safety—is one of the most underappreciated forces in finance.</mark>"
+"Room for error—often called margin of safety—is one of the most underappreciated forces in finance."
                 
 
 "Sensible optimism is a belief that the odds are in your favor, and over time things will balance out to a good outcome even if what happens in between is filled with misery."
@@ -113,7 +113,7 @@ I have included the most relevant quotes from the book below, and highlighted th
 "You need short-term paranoia to keep you alive long enough to exploit long-term optimism."
                 
 
-"<mark>The great art dealers operated like index funds. They bought everything they could. And they bought it in portfolios, not individual pieces they happened to like. Then they sat and waited for a few winners to emerge.</mark>"
+"The great art dealers operated like index funds. They bought everything they could. And they bought it in portfolios, not individual pieces they happened to like. Then they sat and waited for a few winners to emerge."
                 
 
 "An investor can be wrong half the time and still make a fortune."
@@ -122,7 +122,7 @@ I have included the most relevant quotes from the book below, and highlighted th
 "Anything that is huge, profitable, famous, or influential is the result of a tail event—an outlying one-in-thousands or millions event."
                 
 
-"<mark>A few companies account for most of the market’s return [Note:Buy diversified index funds]</mark>"
+"A few companies account for most of the market’s return [Note:Buy diversified index funds]"
 
 
 "A good definition of an investing genius is the man or woman who can do the average thing when all those around them are going crazy."
@@ -134,7 +134,7 @@ I have included the most relevant quotes from the book below, and highlighted th
 "The highest form of wealth is the ability to wake up every morning and say, “I can do whatever I want today.”
                 
 
-"<mark>The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays</mark>".
+"The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays".
                 
 
 "Doing something you love on a schedule you can’t control can feel the same as doing something you hate."

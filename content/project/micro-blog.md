@@ -10,31 +10,34 @@ images:
 
 **Made with**: <i class="fab fa-react"></i> ReactJS
 
-[Source Files](https://github.com/mariobox/react-micro-blog) | [Live Demo](http://mariobox.github.io/react-micro-blog)<hr class="art" />
+[Source Files](https://github.com/mariobox/react-micro-blog) | [Live Demo](https://mariobox.github.io/react-micro-blog)<hr class="art" />
 
-This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. We use the <code>create-react-app</code> application for all the scaffolding and heavy lifting so that we can focus on the code. 
+This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. 
+
+We start by running [Create React App](https://create-react-app.dev/), which provides the scaffolding for our site and performs all the lifting so that we can focus on the code. 
 
 Our app has six components:
 
-* Our main <code>App.js</code>
-* A <code>Greeting.js</code> component, that displays a <code>Login.js</code> component if the user is not logged in, or the <code>Profile.js</code> component if our user is logged in.
-* An <code>AddPost.js</code> component to manage the post input field, and
-* A <code>Post.js</code> component which lists the posts in reverse chronological order.
+* <code>App.js</code>: our main component
+* <code>Greeting.js</code>
+* <code>Login.js</code> (if the user is not logged in)
+* <code>Profile.js</code> (if the user is logged in).
+* <code>AddPost.js</code> to manage the post input field, and
+* <code>Post.js</code> which lists the posts in reverse chronological order.
 
 State is concentrated in the main <code>App.js</code>, and then passed down to the other components via props. 
 
 There are three state properties:
 
-* posts: an object with a list of all posts
-* user: the information of the user who is logged-in at any given moment
-* isLoggedIn: a boolean indicating if somebody is logged in or not
+* `posts`: an object with a list of all posts
+* `user`: the information of the user who is logged-in at any given moment
+* `isLoggedIn`: a boolean indicating if somebody is logged in or not
 
-The <code>isLoggedIn</code> boolean instruct the <code>Greeting.js</code> component what to display via a conditional rendering: if false, display a log in form <code>Login.js</code>. If true, display the current user's profile <code>Profile.js</code>.
+The <code>isLoggedIn</code> boolean tells the <code>Greeting.js</code> component what to display via conditional rendering: if false, display a log-in form <code>Login.js</code>. If true, display the current user's profile <code>Profile.js</code>.
 
 Once logged in, users can write posts and they will immediately appear as the first post of the list.
 
-Finally, there is a second log in button called &#8220;Auto Login". Once pressed, the app gets the profile info of a default user that is hard coded in a <code>users.js</code> file so that you won't have to type anything. This is useful when you plan to come back to the app often and want to load your info quickly (sort of an express log in). 
-
+Check the app in action [here](https://mariobox.github.io/react-micro-blog).
 
 
 

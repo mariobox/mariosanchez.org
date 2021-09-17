@@ -1,15 +1,13 @@
 {{ partial "header.html" . }}
 
-<p class="date">{{ .Date.Format "Jan 2, 2006" }}</p>
-<section id="main">
-  <h1 id="title">{{ .Title }}</h1>
-  <p class="description">{{ .Description }}</p>
-  <div>
+<main id="main">
+  <h1>{{ .Title }}</h1>
+  <p class="description">{{ .Description }}</p>  
     <article id="content">
     {{ .Content }}
-    </article>
-  </div>
-</section>
+    </article>  
+</main>
+<p class="date">Last updated: {{ .Date.Format "Jan 2, 2006" }}</p>
 
 {{ partial "footer.html" . }}
 

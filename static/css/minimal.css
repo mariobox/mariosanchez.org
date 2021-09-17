@@ -45,6 +45,10 @@ body {
   font-family: 'Hack', 'DejaVu Sans', sans-serif; 
 }
 
+h1, h2, h3 {
+  margin-top: 1.8em;
+}
+
 
 /* Grid */
 
@@ -96,9 +100,14 @@ nav a:hover,
   text-decoration: underline;
 }
 
+nav ul {
+  padding-inline-start: 0;
+}
+
 nav li {
   display: inline-block;
-  margin-right: 2.0em;
+  margin-right: 1em;
+  margin-left: 1em;
   font-size: 120%;
 }
 
@@ -144,7 +153,7 @@ pre {
 }
  
 
-/* Profile pix */
+/* 
 
 img.profile.small{
   width: 165px;
@@ -153,24 +162,25 @@ img.profile.small{
 img.profile.round {
   border-radius: 50%;  
 }
+*/
 
 img {
   max-width: 100%;
 }
 
 .avatar {
-  background-image: url('');
-  background-size: cover;
   margin-left: auto;
   margin-right: auto;
   height: 30px;
   width: 30px;
   position: relative;
   top: -16px;
-  margin-bottom: -50px;
-  border: 0px solid white;
+  margin-bottom: -50px;  
   border-radius: 50px;
-  box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);
+  /* box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);*/
+  /* border: 2px solid white;*/
+  /* background-image: url('');*/
+  /*background-size: cover;*/
 }
 
 /* Image Gallery */
@@ -221,10 +231,6 @@ blockquote {
   font-style: italic;
 }
 
-h2 {
-  margin-top: 1.8em;
-}
-
 p.small {
   font-size: 0.8em;
 }
@@ -254,7 +260,7 @@ abbr {
   max-height: 50px;
   background-size: cover;
   background-color: var(--header-color);	
-  background-image: url('');
+  /* background-image: url('');*/
 }
 
 mark {

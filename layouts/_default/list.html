@@ -1,20 +1,16 @@
 {{ partial "header.html" . }}
 
-
-<main id="main">
-  <div>
-  <h1 id="title">{{ .Title }}</h1>
+<main id="main"> 
+  <h1>{{ .Title }}</h1>
 <!--  {{ range .Pages.GroupByDate "2006" }} -->
 <!--  <h2>{{ .Key }}</h2> -->
+  {{ range .Pages }}
   <ul>
-    {{ range .Pages }}    
-    {{ .Render "li"}}
-    {{ end }}  
-  </ul>  
-<!--  {{ end }} -->
-  </div>
+    {{ .Render "li"}}    
+  </ul>
+  {{ end }}    
+<!--  {{ end }} -->  
 </main>
-
 
 {{ partial "footer.html" . }}
 
