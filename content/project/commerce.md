@@ -7,7 +7,7 @@ images:
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/flask-ecomm) | [Live Demo](http://mariosanchezcarrion.com:8000) 
+[Source Files](https://github.com/mariobox/cs50w-commerce) | [Live Demo](http://mariosanchezcarrion.com:8000) 
 
 This app was my implementation of [CS50W](https://cs50.harvard.edu/web/2020/projects/2/commerce/)'s Project 2, which involves Django, SQL, Models and Migrations.
 
