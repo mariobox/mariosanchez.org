@@ -1,11 +1,22 @@
 ---
 Title: Now
-description: What I'm doing now. Inspired by Derek Sivers's nownownow.com project.
-date: 2021-09-06
+description: What I'm doing now. Inspired by Derek Sivers's nownownow.com project
+date: 2022-02-06
 images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
 
-I am currently focused on learning server side programming and databases, and have just completed the [Django For Everybody](https://coursera.org/share/0168b3865fa7c7107114726e339d71a6) certification at Coursera. I am now working on several Django practice projects and on improving this site.
+I am currently evaluating new opportunities after spending 25+ years in the corporate world working in product development, marketing, brand strategy and sales.
+
+My main areas of interest are:
+
+* Product development and sourcing
+* Education
+* Personal Finance
+* Programming and Web Development
+
+The ideal opportunity would be at the intersection of some of those areas of interest. 
+
+Please feel free to contact me at: mario (at) mariosanchez (dot) org, or join my LinkdeIn network.
 
 Thanks to the great [Derek Sivers](http://sivers.org/nowff) for inspiring this page.

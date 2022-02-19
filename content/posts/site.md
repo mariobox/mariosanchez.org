@@ -2,6 +2,7 @@
 title: About This Site
 description: Why I developed this site, what tools I use, and the process I follow
 date: 2020-05-29
+draft: true
 ---
 
 ### Goals

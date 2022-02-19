@@ -157,8 +157,6 @@ pre {
 }
  
 
-/* 
-
 img.profile.small{
   width: 165px;
 }
@@ -166,7 +164,7 @@ img.profile.small{
 img.profile.round {
   border-radius: 50%;  
 }
-*/
+
 
 img {
   max-width: 100%;

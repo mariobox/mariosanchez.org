@@ -1,6 +1,7 @@
 baseURL = "https://mariosanchez.org/"
 languageCode = "en-us"
 title = "Mario Sanchez Carrion"
+pluralizeListTitles = "false"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 [markup]

@@ -6,11 +6,9 @@ date: 2020-12-06
 
 <img src="/img/pom.jpg" width="150px">
 
-[The Psychology of Money](https://www.collaborativefund.com/blog/book-the-psychology-of-money/), by Morgan Housel, is probably the first book I would read if I was starting over and trying to understand how to build wealth. It deals more with the mindsets conducive to acquiring and keeping money than personal finance tactics. 
+[The Psychology of Money](https://www.collaborativefund.com/blog/book-the-psychology-of-money/), by Morgan Housel, is probably the first book I would read. More than short term tactics, it deals with the mindset we need to develop to acquire wealth. 
 
-Even for somebody like me, with more than 30 years saving and investing money, the book contained several insights that I hadn't figured out yet, and gave me good pointers on how to fine-tune my investing strategies going forward. 
-
-I have included the most relevant quotes from the book below, and highlighted those that most resonated with me.
+I have included the most relevant quotes from the book below, although I highly recommend that you read the whole book.
 
 -----
 
