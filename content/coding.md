@@ -5,12 +5,12 @@ date: 2022-02-06
 images:
 ---
 
-I pursue coding as a serious hobby. I've completed practice projects in HTML, CSS, JavaScript, Python, and some of the most popular libraries and web development frameworks: ReactJS, NodeJS, Flask and Django. I've found sites like [FreeCodeCamp](https://freecodecamp.org), [Codecademy](https://codecademy.com) and [Coursera](https://coursera.com) very helpful. 
+I am learning and applying HTML, CSS, JavaScript, Python, as well as some of the most popular libraries and web development frameworks: ReactJS, NodeJS, Flask and Django, to solve different web development and data analysis problems. 
 
-I've also found that the best place to start to learn how to code is Harvard's [CS50 - An introduction to the intellectual enterprises of computer science and the art of programming](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). It is a very challenging course, but it will give you a rock-solid foundation to keep learning more advanced topics.
+To those just starting to learn how to code I would recommend Harvard's [CS50 - An introduction to the intellectual enterprises of computer science and the art of programming](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). It is a very challenging course, but it will give you a rock-solid foundation to keep learning more advanced topics.
 
 <h2>Projects</h2>
-  <p>Here are some of my recent web development <a href="/project/">projects</a>:</p>
+  <p>&#128295; Here are some of my recent web development <a href="/project/">projects</a>:</p>
   <i class="fab fa-python"></i> <a href="https://mariosanchez.org/project/shorten/">URL Shortener with Python</a><br />      
   <i class="fab fa-js"></i> <a href="https://mariosanchez.org/project/moon/">Moon Phase With JavaScript</a><br />
   <i class="fab fa-python"></i> <a href="https://mariosanchez.org/project/flaskecomm/">ECommerce Front End with Flask</a><br />
@@ -22,7 +22,7 @@ I've also found that the best place to start to learn how to code is Harvard's [
 
 <h2>Certifications</h2>
   <p>
-    I regularly take coding and tech classes online. Here are some of my recent certifications:
+    &#127891; One of the most exciting aspects of web development, programming and data science is that you never stop learning. I follow a self-directed approach by regularly taking classes online. Here are some of my recent certifications:
   </p>
   <p>
     <i class="fab fa-python"></i> <a href="https://coursera.org/share/0168b3865fa7c7107114726e339d71a6">Django For Everybody</a> - 2021<br />
@@ -33,7 +33,7 @@ I've also found that the best place to start to learn how to code is Harvard's [
 
 <h2>Stack</h2>
   <p>
-    These are some of the tools and equipment I'm using for web development.
+    &#128187; These are some of the tools and equipment I'm using for web development.
   </p>    
 
 - **Computer**: I recently purchased an HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. This is a great laptop for the price. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
