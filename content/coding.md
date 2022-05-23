@@ -11,11 +11,11 @@ To those just starting to learn how to code I would recommend Harvard's [CS50 - 
 
 <h2>Projects</h2>
   <p>&#128295; Here are some of my recent web development <a href="/project/">projects</a>:</p>
-  <i class="fab fa-python"></i> <a href="https://mariosanchez.org/project/shorten/">URL Shortener with Python</a><br />      
-  <i class="fab fa-js"></i> <a href="https://mariosanchez.org/project/moon/">Moon Phase With JavaScript</a><br />
-  <i class="fab fa-python"></i> <a href="https://mariosanchez.org/project/flaskecomm/">ECommerce Front End with Flask</a><br />
-  <i class="fab fa-react"></i> <a href="https://mariosanchez.org/project/micro-blog/">Twitter Clone with React</a><br /> 
-  <i class="fab fa-html5"></i> <a href="https://mariosanchez.org/project/rei/">Bootstrap Real Estate Website</a><br />
+  <i class="fab fa-python"></i> <a href="https://mariosanchez.org/code/shorten/">URL Shortener with Python</a><br />      
+  <i class="fab fa-js"></i> <a href="https://mariosanchez.org/code/moon/">Moon Phase With JavaScript</a><br />
+  <i class="fab fa-python"></i> <a href="https://mariosanchez.org/code/flaskecomm/">ECommerce Front End with Flask</a><br />
+  <i class="fab fa-react"></i> <a href="https://mariosanchez.org/code/micro-blog/">Twitter Clone with React</a><br /> 
+  <i class="fab fa-html5"></i> <a href="https://mariosanchez.org/code/rei/">Bootstrap Real Estate Website</a><br />
   <p>
     <a href="/code/">See All Projects >></a>
   </p>
