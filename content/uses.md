@@ -1,12 +1,10 @@
 ---
-Title: Uses
-description: Tools I use for web development. Inspired by the uses.tech project.
+Title: Tech Stack
+description: My current tools for programming and web development. Inspired by the uses.tech project.
 date: 2021-06-13
 images:
 - https://www.mariosanchez.org/img/wfh.jpg
 ---
-
-I've joined the [uses.tech](https://uses.tech) community and created this page to list the tools I'm currently using for web development.
 
 - **Computer**: I recently purchased an HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. This is a great laptop for the price. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
 
