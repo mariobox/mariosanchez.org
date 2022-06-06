@@ -31,7 +31,7 @@ I strive to explain complex subjects in a simple manner, often by way of example
 
 I use **Zoom** for my online classes. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to go through together). 
 
-During our lessons I will make sure that students understand the fundamentals behind problem solutions, so that they can later apply them themselves.
+During our lessons I will make sure that students understand the fundamentals behind solutions to problem, so that they can later apply them themselves.
 
 ### Prices and Packages
 
