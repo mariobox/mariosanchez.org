@@ -31,9 +31,9 @@ I strive to explain complex subjects in a simple manner, often by way of example
 
 ### How This Works
 
-I use **Zoom** for my online classes. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to go through together). 
+I use **Zoom** for my online classes. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to review together). 
 
-During our lessons I will make sure that students understand the fundamentals behind solutions to problems, so that they can later apply them themselves.
+During our lessons I ensure that students understand the fundamentals behind solutions to problems, so that they can later apply them themselves.
 
 <h3 class="centered">📱 (954) 309-1077</h3>
 
@@ -41,7 +41,7 @@ During our lessons I will make sure that students understand the fundamentals be
 
 🥇**Gold**: Five (5) one hour lessons: $175
 
-🥈**Silver**: Three (3) one our lessons: $120
+🥈**Silver**: Three (3) one hour lessons: $120
 
 🥉**Bronze**: One (1) one hour lesson: $45
 
@@ -55,6 +55,6 @@ I am originally from Peru and have been living in the US since 1989. I am fully 
 
 Please feel free to contact me at:
 
-📧 mario (at) mariosanchez (dot) org
+📧 mario@mariosanchez.org
 
 📱 (954) 309-1077
