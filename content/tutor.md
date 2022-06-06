@@ -7,13 +7,15 @@ type: tutor
 images:
 ---
 
-<center><h1>Online Math Tutor</h1></center>
+<h1 class="centered">Online Math Tutor</h1>
 <p class="centered"><img src="/img/msc-li.jpg" class="profile small round"></p>
-<center><h2>Mario Sanchez Carrion</h2></center>
+<h2 class="centered">Mario Sanchez Carrion</h2>
 
 👋 Hi, I’m Mario and I am currently helping students learn **Middle School** and **High School Math**, as well as preparing them for the **SAT Math Test**.
 
 I strive to explain complex subjects in a simple manner, often by way of examples, and to create the conditions so that students overcome their fear of math and enjoy the learning process.🌱
+
+<h3 class="centered">📱 (954) 309-1077</h3>
 
 ### Areas of Expertise
 
@@ -33,6 +35,8 @@ I use **Zoom** for my online classes. Ideally, students will contact me before t
 
 During our lessons I will make sure that students understand the fundamentals behind solutions to problems, so that they can later apply them themselves.
 
+<h3 class="centered">📱 (954) 309-1077</h3>
+
 ### Prices and Packages
 
 🥇**Gold**: Five (5) one hour lessons: $175
@@ -45,7 +49,7 @@ For new students, the first hour is free.
 
 ### About Me
 
-I am originally from Peru and have been living in the US since 1989. I am fully bilingual and can conduct my classes in English or Spanish. I have recently retired from the corporate world, where for 30 years I worked in international marketing for large consumer goods companies. I hold Industrial Engineering and MBA degrees. Besides math, my passions are **computer programming** and **soccer**.
+I am originally from Peru and have been living in the US since 1989. I am fully bilingual and can conduct my classes in English or Spanish. My background comes from the corporate world, where for 30 years I worked in international marketing for large consumer goods companies. I hold Industrial Engineering and MBA degrees. Besides math, my passions are **computer programming** and **soccer**.
 
 ### Contact Me
 
