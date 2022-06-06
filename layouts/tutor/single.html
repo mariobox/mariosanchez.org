@@ -17,9 +17,8 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css'>
   </head>
-<!-- Start Page -->
   <body>
-    <div class="header">
+  <div class="header"></div>
     <a href="/">
       <div class="avatar">
         <a style="cursor:pointer;">
@@ -27,23 +26,18 @@
         </a>
       </div>
     </a>
-    <div class="centered logo">
-      <a href="/"><img src="/img/mario-pix-dk.png" width="150" /></a>
-    </div>
-      <nav>
-        <ul>
-          <li>
-            <a href="/coding/">code</a>
-          </li>
-          <li>
-            <a href="/uses/">stack</a>
-          </li>
-          <li>
-            <a href="/photos/">photos</a>
-          </li>
-          <li>
-            <a href="/now">now</a>
-          </li>
-        </ul>
-      </nav>
-    <div class="container">
+  <div>
+  <div class="container">
+        <br />
+
+{{ .Content }}
+
+<br />
+<hr />
+  <p class="centered small">
+    &copy; 2022 Mario Sanchez Carrion
+  </p>
+  </div>
+  </div>
+  </body>
+  </html>
