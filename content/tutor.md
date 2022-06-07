@@ -39,11 +39,13 @@ During our lessons I ensure that students understand the fundamentals behind sol
 
 ### Prices and Packages
 
-🥇**Gold**: Five (5) one hour lessons: $175
+Take advantage of our <strong>2022 Summer Special Packages</strong>:
 
-🥈**Silver**: Three (3) one hour lessons: $120
+🥇**Gold**: Five (5) one-hour lessons: $175
 
-🥉**Bronze**: One (1) one hour lesson: $45
+🥈**Silver**: Three (3) one-hour lessons: $120
+
+🥉**Bronze**: One (1) one-hour lesson: $45
 
 For new students, the first hour is free.
 
