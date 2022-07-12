@@ -9,6 +9,8 @@ images:
 
 [Source Files](https://github.com/mariobox/cs50w-commerce) | [Live Demo](http://mariosanchezcarrion.com:8000) 
 
+<hr />
+
 This app was my implementation of [CS50W](https://cs50.harvard.edu/web/2020/projects/2/commerce/)'s Project 2, which involves Django, SQL, Models and Migrations.
 
 <img src="/img/commerce.jpg" />

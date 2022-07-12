@@ -24,12 +24,12 @@ function applyTheme() {
     html.classList.remove(DARK_MODE);
     html.classList.add(LIGHT_MODE);
     document.getElementById('toggle-switch').innerHTML = 
-      '<i class="fas fa-2x hd fa-moon"  title="Go Dark!"></i>';
+      '<i class="fas fa-2x hd fa-moon"  title="Turn off the light"></i>';
   } 
   else {
     html.classList.remove(LIGHT_MODE);
     html.classList.add(DARK_MODE);
     document.getElementById('toggle-switch').innerHTML = 
-      '<i class="fas fa-2x hd fa-sun" title="Let There Be Light!"></i>';
+      '<i class="fas fa-2x hd fa-sun" title="Turn on the light"></i>';
   }
 }
