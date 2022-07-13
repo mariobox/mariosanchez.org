@@ -1,5 +1,5 @@
 ---
-Title: "Photo Gallery"
+Title: "📸Photo Gallery"
 Slug: photos
 date: 2021-09-04
 ---

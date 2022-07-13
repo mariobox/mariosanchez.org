@@ -1,11 +1,11 @@
 ---
-Title: Code
+Title: 💻Code
 description: Summary page of my web development and programming activity
 date: 2022-07-12
 images:
 ---
 
-&#128295; These are some of my programming projects. They have been developed with HTML, CSS, JavaScript, Python, and some of the most popular libraries and frameworks: ReactJS, Express, Flask and Django. Some of them are personal projects and others are final projects of courses and certifications. 
+These are some of my programming projects. They have been developed with HTML, CSS, JavaScript, Python, and some of the most popular libraries and frameworks: ReactJS, Express, Flask and Django. Some of them are personal projects and others are final projects of courses and certifications. 
 
 <p class="list">
 <i class="fab fa-python"></i> <a href="/code/pynt/">Pynt: Static Site Generator with Python</a><br />
