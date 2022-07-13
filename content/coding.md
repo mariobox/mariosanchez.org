@@ -11,6 +11,7 @@ images:
 <i class="fab fa-python"></i> <a href="/code/pynt/">Pynt: Static Site Generator with Python</a><br />
 <i class="fab fa-python"></i> <a href="/code/commerce/">Auction Site With Django</a><br />
 <i class="fab fa-js"></i> <a href="/code/moon/">Moon Phase With JavaScript</a><br />
+<i class="fab fa-js"></i> <a href="/code/dark/">Dark Theme Switch with JavaScript</a><br />
 <i class="fab fa-python"></i> <a href="/code/flaskecomm/">ECommerce Front End with Flask and SQL</a><br />
 <i class="fab fa-react"></i> <a href="/code/micro-blog/">Twitter Clone with React</a><br /> 
 <i class="fab fa-html5"></i> <a href="/code/rei/">Bootstrap Real Estate Website</a><br />
