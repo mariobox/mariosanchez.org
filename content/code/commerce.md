@@ -13,7 +13,7 @@ images:
 
 This app was my implementation of [CS50W](https://cs50.harvard.edu/web/2020/projects/2/commerce/)'s Project 2, which involves Django, SQL, Models and Migrations.
 
-<img src="/img/commerce.jpg" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TZa5IB4Q-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here are the specs:
 
