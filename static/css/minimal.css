@@ -4,14 +4,14 @@ html {
   overflow-y: scroll;
   box-sizing: border-box;
   font-size: 112.5%;  
-  --bck-color: #282923;
-  --box-shadow: inset 0 -0.333333em rgb(255 255 255 / 40%);
-  --ft-color: #DDD;
-  --link-color: #6F0; 
-  --header-color: #414141; 
-  --mk-bckg: rgba(144,238,144, 0.35);
-  --mk-color: #DDD;
-  --ft-desc: #999; 
+  --bck-color: #FFF;
+  --box-shadow: inset 0 -0.333333em rgb(255 213 0 / 50%);
+  --ft-color: #24292e;
+  --link-color: #0366d6;
+  --header-color: #e5e4e2;
+  --mk-bckg: #FDFD96;
+  --mk-color: #24292e;
+  --ft-desc: #6b645d;
   --ft-hover: #999;
 }
 
