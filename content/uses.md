@@ -1,5 +1,5 @@
 ---
-Title: 💾Tech Stack
+Title: Tech Stack
 description: My current tools for programming and web development. Inspired by the uses.tech project.
 date: 2021-06-13
 images:

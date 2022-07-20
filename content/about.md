@@ -1,5 +1,5 @@
 ---
-Title: 🙋🏻‍♂️About Me
+Title: About Me
 description: 
 date: 2022-07-19
 draft: false

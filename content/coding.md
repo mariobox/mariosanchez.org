@@ -1,5 +1,5 @@
 ---
-Title: 💻Code
+Title: Code
 description: Summary page of my web development and programming activity
 date: 2022-07-12
 images:
