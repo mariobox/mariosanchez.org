@@ -2,6 +2,7 @@
 title: Creating Aliases in Linux Terminal
 description: How to enable aliases in your .bashrc file
 date: 2016-11-13
+tags: tech
 ---
 
 If you use a Linux-style terminal you may find yourself typing the same commands over and over again. If this is the case, you may wish to use some shorthand that the terminal can understand. You can do that with Aliases.

@@ -3,6 +3,7 @@ title: "Moving My Site to a Digital Ocean VPS"
 description: Summary of the process to set up a virtual private server at Digital Ocean, and deploy a website
 date: 2017-06-18
 draft: true
+tags: tech
 ---
 
 **Update:** As of May 9, 2020 I am hosting my site in Github Pages.

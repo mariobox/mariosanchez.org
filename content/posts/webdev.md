@@ -4,6 +4,7 @@ description: A path to learning web development and programming from my own expe
 date: 2020-06-03
 images:
 - https://www.mariosanchez.org/img/msc.jpg
+tags: tech
 ---
 
 I am a self-taught amateur web developer. I picked up web development as a serious hobby about five years ago, but I've been fascinated by the World Wide Web since the mid 1990's. 

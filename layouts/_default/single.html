@@ -8,6 +8,7 @@
     </article>  
 </main>
 <p class="date">Last updated: {{ .Date.Format "Jan 2, 2006" }}</p>
+<p><a href="/tags/{{ .Params.tags }}">{{ .Params.tags }}</a></p>
 
 {{ partial "footer.html" . }}
 

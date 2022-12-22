@@ -2,6 +2,7 @@
 title: Sam's Rules for Building a Business
 description: Sound business advice from Sam Walton, founder of Walmart
 date: 2013-12-03
+tags: [business, money]
 ---
 
 A few years ago, during a trip to Bentonville, Arkansas, I had the chance to visit Walmart’s first store (originally called Walton’s 5-10), and picked up a leaflet containing Sam Walton’s 10 rules for building a successful business. Pearls of wisdom, straight from the man who built the world’s most successful retailer out of nothing. Since I haven't been able to find a link to it on the Internet, I am transcribing them below (all of them are great, but I especially like #7, #9 and #10):

@@ -3,6 +3,7 @@ title: "How To Enable HTTPS For Your Website"
 description: Serving your site through Secure HTTP
 date: 2019-04-21
 draft: true
+tags: tech
 ---
 
 I recently configured my web server to serve this site over <abbr title="Hypertext Tranfer Protocol Secure">HTTPS</abbr>. In fact, if you look at the URL in the address bar of your browser, you should see a *lock* icon to the left of the URL:
