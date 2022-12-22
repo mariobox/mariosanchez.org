@@ -1,4 +1,16 @@
 [   {
+        "url": "/img/duke.jpg",
+        "desc": "Duke University, NC"
+    },
+    {
+        "url": "/img/deer.jpg",
+        "desc": "Raleigh, NC"
+    },
+    {
+        "url": "/img/nc-comp.jpg",
+        "desc": "Raleigh, NC"
+    },
+    {
         "url": "/img/italy-sanmarco-it.jpg",
         "desc": "Piazza San Marco"
     },
