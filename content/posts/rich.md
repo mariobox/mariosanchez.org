@@ -3,6 +3,7 @@ title: How To Get Rich Without Getting Lucky
 description: My favorite highlights of Naval Ravikant's epic Twitter thread
 Date: 2020-01-08
 tags: money
+draft: true
 ---
 
 Read Naval's original post [here](https://nav.al/rich).

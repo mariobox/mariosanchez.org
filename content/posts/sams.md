@@ -2,6 +2,7 @@
 title: Sam's Rules for Building a Business
 description: Sound business advice from Sam Walton, founder of Walmart
 date: 2013-12-03
+draft: true
 tags: [business, money]
 ---
 

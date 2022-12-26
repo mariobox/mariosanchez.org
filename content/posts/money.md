@@ -3,6 +3,7 @@ title: "Some Unsolicited Money Tips"
 description: A simple systems approach to building wealth
 date: 2015-02-03
 tags: money
+draft: true
 ---
 
 In this short post I will try to summarize what I would do to start building wealth if I were just starting out. Your circumstances may be different, so proceed with caution and don't take this as gospel.

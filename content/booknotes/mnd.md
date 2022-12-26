@@ -10,7 +10,7 @@ date: 2020-01-01
 
 3. PAWs have budgets and stick to them.
 
-4. Majority of PAWs own their own businesses. Businesses are not fancy but provide solutions to basic necessities.
+4. The majority of PAWs own their own businesses. Businesses are not fancy but provide solutions to basic necessities.
 
 5. PAWs believe being financially free is more important than displaying status. **PAWs focus on net worth. UAWs focus on status symbols**.
 

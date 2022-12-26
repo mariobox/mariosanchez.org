@@ -3,6 +3,7 @@ title: "My $100 Office"
 description: How I spent less than $100 for my ideal working setup
 date: 2015-12-25
 tags: productivity
+draft: true 
 ---
 
 I needed a quiet space at home where I could sit down and tweak the code of my site, and otherwise tinker with some web development tools I want to learn. Since my second bedroom had some empty space and a window with a nice view of the garden, it was the perfect place to try to fit a small workstation.

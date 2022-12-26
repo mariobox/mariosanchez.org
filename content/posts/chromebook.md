@@ -5,6 +5,7 @@ date: 2020-05-10
 images: 
   - https://www.mariosanchez.org/img/chromebook1.jpg
 tags: tech
+draft: true
 ---
 
 If you have an old laptop gathering dust around your house, you may be able to give it a new lease of life by turning it into a blazing fast Chromebook. 
