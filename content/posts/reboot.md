@@ -1,8 +1,8 @@
 ---
 title: Reboot 
-description: 
+description: A first step toward digital self-reliance
 date: 2022-12-25
-tags: digital self-reliance
+tags: tech
 draft: false
 ---
 
