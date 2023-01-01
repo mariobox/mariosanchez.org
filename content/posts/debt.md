@@ -1,6 +1,6 @@
 ---
 title: The Debt Ceiling Connundrum  
-description: Reflections On Our National Debt
+description: Reflections on our national debt
 date: 2023-01-01
 tags: money
 draft: false
