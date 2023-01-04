@@ -191,6 +191,18 @@ Get the id of the current user (including group id):
 ``` bash
 $ id
 ```
+Redirect the output of a command as input for another command (piping):
+``` bash
+$ cat [FILENAME] | wc -w
+```
+Redirect output into a file:
+``` bash
+$ cat [FILENAME1] > [FILENAME2]
+```
+Redirect output and append into file:
+``` bash
+$ cat [FILENAME1] >> [FILENAME2]
+
 
 If you want to dig deeper, just do a Google search for [useful linux terminal commands](https://www.google.com/search?ei=dRa5XIf_E6-O5wL_lprIDg&q=useful+linux+terminal+commands&oq=useful+linux+terminal+commands&gs_l=psy-ab.3..0.4052.7452..8574...5.0..0.128.1055.0j9......0....1..gws-wiz.......0i71j35i304i39j0i7i30j0i13j0i8i7i30j0i7i5i30j0i13i5i30j0i8i13i30.gmH5nuLkc9E) and you will find how powerful and versatile the terminal can be.
 
