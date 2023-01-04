@@ -1,12 +1,12 @@
 ---
 Title: Tech Stack
 description: My current tools for programming and web development. Inspired by the uses.tech project.
-date: 2021-06-13
+date: 2023-01-01
 images:
 - https://www.mariosanchez.org/img/wfh.jpg
 ---
 
-- **Computer**: I recently purchased an HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. This is a great laptop for the price. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
+- **Computer**: HP Pavilion x360 with a 14" display. It has an Intel Core i5-1035G1 Processor, 8GB SDRAM, and 256 SSD. This is a great laptop for the price. I don't mind the smaller screen since my intention is to maximize portability (while at home, I do most of my web development work in a large monitor anyway).
 
 - **Operating System**: [Ubuntu 20.04 LTS](https://www.ubuntu.com/download/desktop). Some of the most significant developments in the world of programming and web development are easily accessible from the Linux command line. Microsoft recognizes this and recently introduced WSL2 (Windows Sub-System for Linux 2). This feature offers you a full Ubuntu Linux kernel from within Windows, which you can open just like any regular app. WSL2 is not just a translation layer, but a full Linux environment complete with its own filesystem. Basically, I am now running Ubuntu Linux from within Windows.
 
@@ -16,7 +16,7 @@ images:
 
 - **Version Control**: [Git](https://git-scm.com/) and [Github](https://github.com/mariobox).  
 
-- **Text Editor**: [Visual Studio Code](https://code.visualstudio.com/). The choice of text editor is one of the most fiercely debated topics among programmers. I haven't yet met anybody who doesn't like [Sublime Text](https://sublimetext.com) or [Atom](https://atom.io), although Visual Studio Code is becoming the gold standard. I know that hard-core developers wouldn't be caught dead using something other than [Vim](https://vim.org), but I find Vim's learning curve too steep, especially compared with more modern development environments.
+- **Text Editor**: [Vim](https://vim.org). I had been using [Visual Studio Code](https://code.visualstudio.com/), which is a great text editor, but I'm now using (and still learning) Vim, due to a personal choice to move away from tools made by large corporations and embracing open source alternatives. The learning curve is steep, but like with anything worthwhile practice makes perfect.
 
 - **Hosting**: I alternate between [Digital Ocean](https://digitalocean) and [Github Pages](https://pages.github.com/). I am currently using Github Pages, but I'm also operating a VPS for some project demos that require back end functionality.
 
