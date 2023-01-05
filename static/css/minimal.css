@@ -5,7 +5,7 @@ html {
   box-sizing: border-box;
   font-size: 112.5%;  
   --bck-color: #FFF;
-  --box-shadow: inset 0 -0.333333em rgb(255 213 0 / 50%);
+  --box-shadow: inset 0 -0.2em rgb(255 213 0 / 50%);
   --ft-color: #24292e;
   --link-color: #0366d6;
   --header-color: #e5e4e2;
@@ -17,7 +17,7 @@ html {
 
 html.light {
   --bck-color: #FFF;
-  --box-shadow: inset 0 -0.333333em rgb(255 213 0 / 50%);
+  --box-shadow: inset 0 -0.2em rgb(255 213 0 / 50%);
   --ft-color: #24292e;
   --link-color: #0366d6;
   --header-color: #e5e4e2;
@@ -29,7 +29,7 @@ html.light {
 
 html.dark {
   --bck-color: #282923;
-  --box-shadow: inset 0 -0.333333em rgb(255 255 255 / 40%);
+  --box-shadow: inset 0 -0.2em rgb(255 255 255 / 40%);
   --ft-color: #DDD;
   --link-color: #6F0; 
   --header-color: #414141; 
@@ -182,6 +182,7 @@ img {
   max-width: 100%;
 }
 
+
 .avatar {
   margin-left: auto;
   margin-right: auto;
@@ -251,7 +252,17 @@ p.small {
 
 p.description {
   color: var(--ft-desc);
-  font-weight: bold;
+  font-weight: normal;
+  font-size: 1.2em;
+}
+
+hr {
+  border: solid #E5E4E2;
+  clear: both;
+  border-width: 1px 0 0;
+  height: 0;
+  margin-top: 1.5em;
+  margin-bottom: 3em;
 }
 
 .date {
