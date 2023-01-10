@@ -1,4 +1,7 @@
-/* Minimal Reset */
+/* minimal css style sheet by MSC */
+/* Last updated: January 8, 2023 */
+
+/* Light/Dark Themes Variables */
 
 html { 
   overflow-y: scroll;
@@ -40,7 +43,7 @@ html.dark {
 }
 
 
-/* Base Style */
+/* HTML Elements */
 
 body {
   background-color: var(--bck-color);
@@ -55,21 +58,6 @@ h1, h2, h3 {
   margin-top: 1.8em;
   line-height: 1.2em;
 }
-
-li {
-  line-height: 1.8rem;
-}
-
-/* Grid */
-
-.container {
-  max-width: 45rem;
-  margin: 1rem auto;
-  padding: 0 3%;  
-}
-
-
-/* Links */
 
 a:link, 
 a:visited, 
@@ -86,14 +74,17 @@ a:focus {
   box-shadow: none;
 }
 
-
-/* Lists */
-
 ul {
   list-style-type: square;
 }
 
-/* Navigation */ 
+li {
+  line-height: 1.8rem;
+}
+
+img {
+  max-width: 100%;
+}
 
 nav {
   text-align: center;
@@ -126,24 +117,22 @@ nav li {
   font-size: 120%;
 }
 
-
-.logo {
-  font-size: 4rem;
-  margin-top: 4.5rem;
-  margin-bottom: 1.5rem;
-  font-family: 'DejaVu Sans', sans-serif;
+blockquote {
+  position: relative;
+  padding-left: 1.5em;
+  border-left: 0.2em solid var(--ft-color);
+  margin: 1.5em 0em;
+  font-style: italic;
 }
 
-.logo a:link, 
-.logo a:visited,
-.logo a:active {
-  text-decoration: none;
-  box-shadow: none;
-  color: var(--logo-link-color);  
+hr {
+  border: solid #E5E4E2;
+  clear: both;
+  border-width: 1px 0 0;
+  height: 0;
+  margin-top: 1.5em;
+  margin-bottom: 2.5em;
 }
-
-
-/* Code */
 
 code {
   padding: .1rem .2rem;
@@ -167,42 +156,15 @@ pre > code {
 pre {
   border-radius: 6px;
 }
- 
 
-img.profile.small{
-  width: 150px;
+mark {
+  background-color: var(--mk-bckg);
+  color: var(--mk-color);
+  padding: 3px;
 }
 
-img.profile.round {
-  border-radius: 50%;  
-}
-
-
-img {
-  max-width: 100%;
-}
-
-
-.avatar {
-  margin-left: auto;
-  margin-right: auto;
-  height: 30px;
-  width: 30px;
-  position: relative;
-  top: -16px;
-  margin-bottom: -50px;  
-  border-radius: 50px;
-  /* box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0);*/
-  /* border: 1px solid #282923*/
-  /* background-image: url('');*/
-  /*background-size: cover;*/
-}
-
-/* Image Gallery */
-
-.picbox {
-  display: inline-block;
-  margin: 0.5em;
+abbr {
+  cursor: help;
 }
 
 figure {
@@ -223,60 +185,56 @@ figcaption {
   box-sizing: border-box;  
 }
 
-img.gallery {
-  padding: 4px;
-  border: 1px solid #ccc;
-  margin-bottom: 1em;
-  margin-right: 2%;
+
+/* Special Classes */
+
+.container {
+  max-width: 45rem;
+  margin: 1rem auto;
+  padding: 0 3%;  
 }
 
-img.gallery.medium,
-img.gallery.large {
-  width: 100%;
+.logo {
+  margin-top: 4.5rem;
+  margin-bottom: 1.5rem;
 }
 
-
-/* Other Page Elements */
-
-blockquote {
-  position: relative;
-  padding-left: 1.5em;
-  border-left: 0.2em solid var(--ft-color);
-  margin: 1.5em 0em;
-  font-style: italic;
+.logo a:link, 
+.logo a:visited,
+.logo a:active {
+  text-decoration: none;
+  box-shadow: none;
+  color: var(--logo-link-color);  
+}
+ 
+img.profile.small{
+  width: 150px;
 }
 
-p.small {
-  font-size: 0.8em;
+img.profile.round {
+  border-radius: 50%;  
 }
 
-p.description {
+.description {
   color: var(--ft-desc);
   font-weight: normal;
   font-size: 1.2em;
 }
 
-hr {
-  border: solid #E5E4E2;
-  clear: both;
-  border-width: 1px 0 0;
-  height: 0;
-  margin-top: 1.5em;
-  margin-bottom: 2.5em;
-}
-
-.date {
-  text-transform: uppercase;
-  font-size: 0.8rem;
+.light {
   color: #999;
 }
 
-abbr {
-  cursor: help;
+.upper {
+  text-transform: uppercase;
 }
 
 .centered {
   text-align: center;
+}
+
+.small {
+  font-size: 0.8em;
 }
 
 .header {
@@ -287,14 +245,6 @@ abbr {
   background-color: var(--header-color);	
   /* background-image: url('');*/
 }
-
-mark {
-  background-color: var(--mk-bckg);
-  color: var(--mk-color);
-  padding: 3px;
-}
-
-/* Icons */
 
 i.fa,
 i.ft,
@@ -313,25 +263,49 @@ i a:active {
   box-shadow: none;
 }
 
-.list {
+.social {
   line-height: 2.3em;
   box-shadow: none;
 }
 
-.list a:link, a:visited, a:active {
+.social a:link, a:visited, a:active {
   box-shadow: none;
   font-weight: bold;
 }
+
+.picbox {
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.gallery {
+  padding: 4px;
+  border: 1px solid #ccc;
+  margin-bottom: 1em;
+  margin-right: 2%;
+}
+
+.avatar {
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  top: -16px;
+  margin-bottom: -50px;  
+  border-radius: 50px;
+}
+
 
 /* Media Queries */
 
 @media (min-width: 769px) {
 
-img.gallery.medium {
+img.medium {
   width: 300px;
 }
 
-img.gallery.large {
+img.large {
   width: 500px;
 }
 
@@ -339,6 +313,3 @@ html {
   font-size: 100%;
 }
 }
-
-
-
