@@ -271,6 +271,7 @@ i a:active {
 .social a:link, a:visited, a:active {
   box-shadow: none;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .picbox {
@@ -283,6 +284,7 @@ i a:active {
   border: 1px solid #ccc;
   margin-bottom: 1em;
   margin-right: 2%;
+  max-width: 98%
 }
 
 .avatar {
