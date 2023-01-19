@@ -6,7 +6,7 @@ tags: money
 draft: false
 ---
 
-The US will run a federal budget deficit of **$1.1 Trillion dollars** next year, product of **$4.7T** in tax revenues minus **$5.8T** in expenses. 
+The US will run a federal budget deficit of **$1.1 Trillion dollars** in 2023, product of **$4.7T** in tax revenues minus **$5.8T** in expenses. 
 At the same time, experts estimate that the federally mandated debt ceiling of **$31.4T** (the maximum level of national debt allowed by Congress) will most likely be [breached](https://www.forbes.com/sites/simonmoore/2022/11/17/debt-ceiling-crash-risk-increases-for-financial-markets-into-2023/?sh=441faccc5f33) in Q1 or Q2 of 2023. 
 
 Before the government can sell Treasury bonds to cover the deficit, Congress would need to raise the debt ceiling. Democrats and Republicans will argue about it, but in the end both sides will make concessions and the debt ceiling will be raised, again.
