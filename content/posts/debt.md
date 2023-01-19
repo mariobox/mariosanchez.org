@@ -1,5 +1,5 @@
 ---
-title: The Debt Ceiling Connundrum  
+title: The Debt Ceiling Conundrum  
 description: Reflections on our national debt
 date: 2023-01-01
 tags: money
