@@ -8,14 +8,16 @@ draft: false
 
 A few weeks ago I asked [ChatGPT](https://openai.com/blog/chatgpt/) to write a 500-word article about the different types of batteries used in power tools. Since I'm very familiar with the topic, I was curious to see how ChatGPT would do. In a matter of seconds, ChatGPT generated a surprisingly good article, accurate and very well written (and not one word longer than 500). 
 
-My first thought was: those poor chaps writing website copy and search engine fodder at Fiverr for 10 dollars a piece better find another line of work. However, the implications of this technology go beyond just low level copywriters. Higly paid professionals, like computer programmers or doctors, are also in the path of this disruptive technology. It's not hard to imagine a near future in which you can ask an AI to write a program in Python to tell you when to sell a certain stock, or to use an AI trained with the knowledge and experience of every doctor who ever lived to diagnose an illness based on a list of symptoms. 
+My first thought was: those poor chaps writing website copy and search engine fodder at Fiverr for 10 dollars a piece better find another line of work. However, the implications of this technology go beyond just low-level copywriters. Highly paid professionals, like computer programmers or doctors, are also in the path of this disruptive technology. 
+
+It's not hard to imagine a near future in which you can ask an AI to write a program in Python to tell you when to sell a certain stock, or to use an AI trained with the knowledge and experience of every doctor who ever lived to diagnose an illness based on a list of symptoms. 
 
 
 All this begs the question: 
 
-**if getting answers to common questions is becoming a commodity of near-zero cost, what will become valuable?**
+**if getting answers to common questions is becoming a commodity at near-zero cost, what will become valuable?**
 
-Perhaps the best answer I've found comes from **Kevin Kelly** in his profetic book [The Inevitable](https://kk.org/books/the-inevitable), written in 2016. **KK** says: *"When answers are free or easy, what becomes valuable are good questions"*. He goes on to define what a good question is:
+Perhaps the best answer I've found comes from **Kevin Kelly** in his prophetic book [The Inevitable](https://kk.org/books/the-inevitable), written in 2016. **KK** says: *"When answers are free or easy, what becomes valuable are good questions"*. He goes on to define what a good question is:
 
 **A good question...**
 
