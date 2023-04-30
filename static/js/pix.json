@@ -1,4 +1,12 @@
 [   {
+        "url": "/img/disney_concert_hall.jpg",
+        "desc": "Disney Concert Hall, L.A."
+    },
+    {
+        "url": "/img/la_library.jpg",
+        "desc": "Los Angeles Library, L.A"
+    },
+    {
         "url": "/img/duke.jpg",
         "desc": "Duke University, NC"
     },
