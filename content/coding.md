@@ -20,7 +20,7 @@ These are some of my programming projects. They have been developed with HTML, C
 
 <h2 id="certifications">🎓 Certifications</h2>
 <p class="list">
-  <i class="fab fa-dailymotion"></i> <a href="https://coursera.org/share/0168b3865fa7c7107114726e339d71a6">Django For Everybody</a><br />
+  <i class="fa-solid fa-database"></i> <a href="https://www.freecodecamp.org/certification/mariobox/relational-database-v8">Relational Databases and SQL</a><br />
   <i class="fab fa-js"></i> <a href="https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a><br />
   <i class="far fa-chart-bar"></i> <a href="https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7">Data Analysis with Python</a><br />
   <i class="fab fa-python"></i> <a href="https://www.freecodecamp.org/certification/mariobox/scientific-computing-with-python-v7">Scientific Computing with Python</a><br />
