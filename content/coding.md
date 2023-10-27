@@ -20,6 +20,7 @@ These are some of my programming projects. They have been developed with HTML, C
 
 <h2 id="certifications">🎓 Certifications</h2>
 <p class="list">
+  <i class="fa-solid fa-database"></i> <a href="https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter">CS50SQL Introduction to Databases with SQL</a><br />
   <i class="fa-solid fa-gear"></i> <a href="https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a><br />
   <i class="fa-solid fa-database"></i> <a href="https://www.freecodecamp.org/certification/mariobox/relational-database-v8">Relational Databases and SQL</a><br />
   <i class="fab fa-js"></i> <a href="https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a><br />
