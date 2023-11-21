@@ -8,7 +8,7 @@ draft: false
 
 For the last two weeks I have been focusing on practice projects. I had been spending most of my time in online coding courses, but I noticed that I was forgetting what I learned because I didn't practice.
 
-I have recently completed four practice projects, encompassing Python, JavaScript and SQL. I am summarizing the projects below, and including a link to their [Github repositories](https://github.com/mariobox?tab=repositories):
+I have recently completed several practice projects, encompassing Python, JavaScript and SQL. I am summarizing the projects below, and including a link to their Github repositories:
 
 ## Quiz App
 
@@ -24,7 +24,7 @@ Object oriented programming project implemented in Python. It assumes a containe
 
 Web app that displays the hex value for a provided RGB value. For example, a RGB value of `RGB(234,58,100)` will give you a hex value of `#EA3A64`.
 The app is developed in JavaScript, using different DOM manipulation and event listening functions.
-**[Github Repository](https://github.com/mariobox/rgb-to-hex)**
+**[Github Repository](https://github.com/mariobox/rgb-to-hex)** | **[Live Demo](http://mariosanchez.org/rgb-to-hex/)**
 
 ## Web Scraping for Database Analysis
 
@@ -35,7 +35,3 @@ Console app that uses Python's web scraping package [BeautifulSoup](https://beau
 
 Web app that combines Python-based web framework [Bottle](https://bottlepy.org) with SQLite. The app lets users register for a party, submitting their name, how many people will come with them, and what they will bring. The HTML form includes a text field, a drop-down menu and radio buttons. The app connects to SQLite so that we can update and retrieve information from the database.
 **[Github Repository](https://github.com/mariobox/bottle-sql)** | **[Live Demo](https://mysterious-temple-24688-9fdd99ca6559.herokuapp.com/)**
-
-## What's Next
-
-In the next few days I'll begin exploring some web programming in Python with frameworks like [Bottle](https://bottlepy.org/docs/dev/) and [Flask](https://flask.palletsprojects.com/en/3.0.x/).

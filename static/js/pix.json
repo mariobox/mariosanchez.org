@@ -1,4 +1,8 @@
 [   {
+    "url": "/img/DH.jpg",
+    "desc": "Eno River Park, NC"
+    },
+    {
         "url": "/img/cs50-live.jpg",
         "desc": "Live CS50 Class, Harvard U"
     },
@@ -17,6 +21,14 @@
     {
         "url": "/img/pompidou.jpg",
         "desc": "Centre Pompidou, Paris, FR"
+    },
+    {
+        "url": "/img/AM.jpg",
+        "desc": "Arts & Metiers, Paris, FR"
+    },
+    {
+        "url": "/img/JT.jpg",
+        "desc": "Tuileries, Paris, FR"
     },
     {
         "url": "/img/disney_concert_hall.jpg",
