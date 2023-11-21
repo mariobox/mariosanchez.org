@@ -9,6 +9,7 @@ These are some of my programming projects. They have been developed with HTML, C
 
 <h2>💻 Projects</h2>
     <p class="list">
+      <i class="fa-solid fa-database"></i> <a href="/code/bottle-sql/">RSVP App with Bottle and SQLite</a><br />
       <i class="fab fa-python"></i> <a href="/code/pynt/">Pynt: Static Site Generator with Python</a><br />
       <i class="fab fa-python"></i> <a href="/code/commerce/">Auction Site With Django</a><br />
       <i class="fab fa-js"></i> <a href="/code/moon/">Moon Phase With JavaScript</a><br />

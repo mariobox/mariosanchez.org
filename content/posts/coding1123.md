@@ -1,5 +1,5 @@
 ---
-title: Coding Practice Month 
+title: November of Code 
 description: A pause from courses to focus on practice
 date: 2023-11-16
 tags: tech
@@ -30,6 +30,11 @@ The app is developed in JavaScript, using different DOM manipulation and event l
 
 Console app that uses Python's web scraping package [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) to extract information from a soccer database site, and then cleans and formats the data so that in can be imported into a `SQLite` database where we can perform analysis by running different queries. It uses Python regular expressions and string manipulation functions to clean up the data.
 **[Github Repository](https://github.com/mariobox/bs4-and-sql)**
+
+## Web App with Bottle and SQLite
+
+Web app that combines Python-based web framework [Bottle](https://bottlepy.org) with SQLite. The app lets users register for a party, submitting their name, how many people will come with them, and what they will bring. The HTML form includes a text field, a drop-down menu and radio buttons. The app connects to SQLite so that we can update and retrieve information from the database.
+**[Github Repository](https://github.com/mariobox/bottle-sql)** | **[Live Demo](https://mysterious-temple-24688-9fdd99ca6559.herokuapp.com/)**
 
 ## What's Next
 
