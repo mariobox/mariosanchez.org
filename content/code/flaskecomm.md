@@ -8,7 +8,7 @@ images:
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/flask-ecomm) | [Live Demo](http://mariosanchezcarrion.com:5000) 
+[Source Files](https://github.com/mariobox/flask-ecomm) | [Live Demo](https://murmuring-sea-57778-80e8191256cd.herokuapp.com/) 
 
 <hr />
 
