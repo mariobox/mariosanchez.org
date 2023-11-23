@@ -32,7 +32,8 @@ html.light {
 
 html.dark {
   --bck-color: #282923;
-  --box-shadow: inset 0 -0.2em rgb(255 255 255 / 40%);
+  --box-shadow: inset 0 -0.15em rgb(255 255 0 / 100%);
+  --nav-color: #34D399;
   --ft-color: #DDD;
   --link-color: #6F0; 
   --header-color: #414141; 
@@ -64,7 +65,8 @@ a:visited,
 a:active {
   text-decoration: none;
   box-shadow: var(--box-shadow);
-  color: var(--ft-color)
+  color: var(--ft-color);
+  padding-bottom: 0.3em;
 }
 	  
 a:hover,
@@ -94,7 +96,7 @@ nav {
 nav a:link,
 nav a:visited, 
 nav a:active {
-  color: var(--ft-color); 
+  color: var(--nav-color); 
   text-decoration: none; 
   box-shadow: none;
 }
@@ -102,7 +104,7 @@ nav a:active {
 nav a:hover,
     a:focus {
   color: #999;
-  text-decoration: underline;
+  text-decoration: none;
   box-shadow: none;
 }
 
@@ -199,6 +201,21 @@ figcaption {
   margin-bottom: 1.5rem;
 }
 
+.bullet a:link,
+.bullet a:visited,
+.bullet a:active {
+  color: var(--nav-color);
+  text-decoration: none; 
+  box-shadow: none;
+}
+
+.bullet a:hover,
+        a:focus {
+  color: #999;
+  text-decoration: none;
+  box-shadow: none;
+}
+
 .logo a:link, 
 .logo a:visited,
 .logo a:active {
@@ -270,7 +287,6 @@ i a:active {
 
 .social a:link, a:visited, a:active {
   box-shadow: none;
-  font-weight: bold;
   text-decoration: none;
 }
 

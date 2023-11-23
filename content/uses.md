@@ -18,7 +18,7 @@ images:
 
 - **Text Editor**: [Vim](https://vim.org). I had been using [Visual Studio Code](https://code.visualstudio.com/), which is a great text editor, but I'm now using (and still learning) Vim, due to a personal choice to move away from tools made by large corporations and embracing open source alternatives. The learning curve is steep, but like with anything worthwhile practice makes perfect.
 
-- **Hosting**: I alternate between [Digital Ocean](https://digitalocean) and [Github Pages](https://pages.github.com/). I am currently using Github Pages, but I'm also operating a VPS for some project demos that require back end functionality.
+- **Hosting**: I alternate between [Heroku](https://heroku.com) and [Github Pages](https://pages.github.com/). I am currently using Github Pages for this site, but I'm using Heroku for some project demos that require back end functionality.
 
 - **SSL/TLS Certificate**: [Let's Encrypt](https://letsencrypt.org). That lets me serve this site through [HTTPS](../https/). With [Github Pages](https://pages.github.com) you now get SSL by default.
 <br />
