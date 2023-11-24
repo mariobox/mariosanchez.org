@@ -10,7 +10,7 @@ images:
 
 **Made with**: <i class="fab fa-react"></i> ReactJS
 
-[Source Files](https://github.com/mariobox/react-micro-blog) | [Live Demo](https://mariobox.github.io/react-micro-blog)<hr class="art" />
+<p class="bullet"><a href="https://github.com/mariobox/react-micro-blog">Source Files</a>  <a href="https://mariobox.github.io/react-micro-blog">Live Demo</a> </p><hr class="art">
 
 This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. 
 

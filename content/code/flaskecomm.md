@@ -8,9 +8,8 @@ images:
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/flask-ecomm) | [Live Demo](https://murmuring-sea-57778-80e8191256cd.herokuapp.com/) 
+<p class="bullet"><a href="https://github.com/mariobox/flask-ecomm">Source Files</a>  <a href="https://murmuring-sea-57778-80e8191256cd.herokuapp.com/">Live Demo</a></p> <hr class="art">
 
-<hr />
 
 This app was my [CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science) final project.
 

@@ -8,7 +8,8 @@ date: 2017-06-02
 
 **Made with**: <i class="fab fa-html5"></i> HTML | <i class="fab fa-css3"></i> CSS | <i class="fab fa-js"></i> JavaScript
 
-[Source Files](https://github.com/rlo555/rlo555.github.io) | [Live Demo](https://habitatinvestors.com)<hr class="art" />
+<p class="bullet"><a href="https://github.com/rlo555/rlo555.github.io">Source Files</a>  <a href="https://habitatinvestors.com">Live Demo</a></p><hr class="art">
+
 
 The objective was to design a clean, efficient, and fully responsive website for a real estate investments business. It needed to clearly describe what the company did, and include easy to follow call-to-actions throughout the site.
 

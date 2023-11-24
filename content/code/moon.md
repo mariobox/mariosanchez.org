@@ -8,9 +8,9 @@ images:
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
 
-[Source Files](https://github.com/mariobox/moon-phases/) | [Live Demo](https://mariobox.github.io/moon-phases/)
+<p class="bullet"><a href="https://github.com/mariobox/moon-phases/">Source Files</a>  <a href="https://mariobox.github.io/moon-phases/">Live Demo</a></p> <hr class="art">
 
-<hr class="art" />
+
 
 I wanted a simple web page to show today's date, moon phase and percentage illumination, plus a nice picture of the moon.
 

@@ -1,7 +1,8 @@
 ---
 Title: "Photo Gallery"
 Slug: photos
-date: 2021-09-04
+tags: life
+date: 2023-11-22
 ---
 
 <div>

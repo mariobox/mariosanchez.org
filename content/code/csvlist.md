@@ -6,7 +6,7 @@ date: 2020-12-13
 
 **Made with**: <i class="fab fa-node"></i> Node and Express
 
-[Source Files](https://github.com/mariobox/add-to-mailing-list) 
+<p class="bullet"><a href="https://github.com/mariobox/add-to-mailing-list">Source Files</a></p>
 
 <hr class="art" />
 

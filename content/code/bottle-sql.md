@@ -6,7 +6,7 @@ date: 2023-11-20
 
 **Made with**: <i class="fab fa-python"></i> Python and <i class="fa-solid fa-database"></i> SQLite
 
-<p class="bullet list"><a href="https://github.com/mariobox/bottle-sql">[Source Files]</a>  <a href="https://mysterious-temple-24688-9fdd99ca6559.herokuapp.com/">[Live Demo]</a> <hr class="art">
+<p class="bullet"><a href="https://github.com/mariobox/bottle-sql">Source Files</a>  <a href="https://mysterious-temple-24688-9fdd99ca6559.herokuapp.com/">Live Demo</a></p><hr class="art">
 
 This is a simple web application that let's users rsvp for a party, indicating their name, number of people coming with them, and what will they bring. 
 

@@ -6,7 +6,7 @@ description: Simple app using Python, Flask and Jinja to get the name of an airl
 
 **Made with**: <i class="fab fa-python"></i> Python
 
-[Source Files](https://github.com/mariobox/airlines) 
+<p class="bullet"><a href="https://github.com/mariobox/airlines">Source Files</a></p>  
 
 <hr class="art" />
 

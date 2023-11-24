@@ -6,7 +6,8 @@ date: 2020-02-20
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
 
-[Source Files](https://github.com/mariobox/fx-watcher) | [Demo](https://mariobox.github.io/fx-watcher)
+<p class="bullet"><a href="https://github.com/mariobox/fx-watcher">Source Files</a>  <a href="https://mariobox.github.io/fx-watcher">Live Demo</a></p> <hr class="art">
+
 
 **Update**: The API I was using for this project is not in business any more, so the demo will not work. I am looking for a new API to adapt this project and make it work again.
 

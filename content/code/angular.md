@@ -10,9 +10,8 @@ images:
 
 **Made with**: <i class="fab fa-angular"></i> Angular
 
-[Source Files](https://github.com/mariobox/angulartestsite) | [Demo](https://mariobox.github.io/angulartestsite)
+<p class="bullet"><a href="https://github.com/mariobox/angulartestsite">Source Files</a>  <a href="https://mariobox.github.io/angulartestsite">Live Demo</a> <hr class="art"></p>
 
-<hr class="art" />
 
 A few weeks ago I came across the concept of <abbr title="Single Page Application">SPA</abbr>, or [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application), and learned that they can be created with [Angular.js](https://angularjs.org/), a JavaScript library supported by Google.
 

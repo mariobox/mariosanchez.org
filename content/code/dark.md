@@ -6,9 +6,8 @@ description: Switch to dark theme for your site at a click of a button
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
 
-[Source Files](https://github.com/mariobox/dark) | [Demo](https://mariobox.github.io/dark)
+<p class="bullet"><a href="https://github.com/mariobox/dark">Source Files</a>  <a href="https://mariobox.github.io/dark">Live Demo</a> <hr class="art"></p>
 
-<hr class="art" />
 
 We will implement a dark theme selector for our site that visitors can activate by clicking on an icon. We will discuss what we have to do to the HTML, CSS and JavaScript files that make up our site to make that happen.
 
