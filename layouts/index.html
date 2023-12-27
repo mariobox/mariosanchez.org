@@ -1,20 +1,24 @@
 {{ partial "header.html" . }}
 
-<main id="main">  
+<main id="main">
   <p>
-    Hello! I'm <strong>Mario</strong>, a full stack junior developer. &rarr; <a href="/about">More</a>
-  </p> 
-    
-  <h2>🕰️ Now</h2>
+    Hello! I'm <strong>Mario</strong>, a full stack junior developer. &rarr; <a
+      href="/about">More</a>
+  </p>
+
+  <h3>🕰️ Now</h3>
   <ul>
     <li>
       <a href="/tutor/">Available for tutoring</a> math and SAT preparation.
     </li>
     <li>
-      Working on <a href="/posts/coding1123">practice projects</a> in Python, SQL and React.
+      Working on <a href="/posts/coding1123">practice projects</a> in Python,
+      SQL and React.
     </li>
     <li>
-      Testing and investing in a couple of <a href="https://fundrise.com">fintech</a> <a href="https://app.groundfloor.us/r/p66235">platforms</a>.  
+      Testing and investing in a couple of <a
+        href="https://fundrise.com">fintech</a> <a
+        href="https://app.groundfloor.us/r/p66235">platforms</a>.
     </li>
     <li>
       Recent Travels: <i class="fa-solid fa-location-dot"></i> Raleigh, NC.
@@ -23,21 +27,82 @@
       Current Location: <i class="fa-solid fa-location-dot"></i> Miami, FL.
     </li>
   </ul>
- 
-  <h2>🔗 About This Site</h2>
+
+  <h3>🎓 Certifications</h3>
+  <br />
+  <div id="carouselExampleIndicators" class="carousel slide carousel-dark" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active" data-bs-interval="5000">
+        <img src="/img/FCC-react.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/FCC-JS.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/FCC-SCPython.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/FCC-DAPython.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/FCC-SQL.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/FCC-Csharp.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/CS50-CS.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/CS50-Python.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/CS50-SQL.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/Coursera-IT.png" class="d-block w-100 cert" alt="...">
+      </div>
+      <div class="carousel-item" data-bs-interval="5000">
+        <img src="/img/MD-Webdev.png" class="d-block w-100 cert" alt="...">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="false"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <h3>🔗 About This Site</h3>
   <p>
-    This site is built with <a href="https://gohugo.io">Hugo</a>. All the content is written in Markdown. Running <code>hugo</code> from the command line generates the HTML files that are then deployed to a server in the open web. 
+    This site is built with <a href="https://gohugo.io">Hugo</a>. All the
+    content is written in Markdown. Running <code>hugo</code> from the command
+    line generates the HTML files that are then deployed to a server in the open
+    web.
   </p>
 
-  <h2>📧 Contact</h2>
+  <h3>📧 Contact</h3>
   <p>
     mario (at) mariosanchez (dot) org
   </p>
 
-  <h2>🔔 Subscribe</h2>
-    
-  <form action="https://tinyletter.com/mariosanchez" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/mariosanchez', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Get on my private email list here:</label></p><p><input type="text" placeholder="you@example.com" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Join" /><p class="small social"><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-        
+  
 
 </main>
 

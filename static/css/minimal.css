@@ -181,7 +181,7 @@ figcaption {
   background: rgba(19,43,102, .50);
   bottom: 0;
   position: absolute;
-  margin-bottom: 28px;
+  margin-bottom: 20px;
   margin-left: 5px;
   padding: 0.6em;
   box-sizing: border-box;  
@@ -190,8 +190,8 @@ figcaption {
 
 /* Special Classes */
 
-.container {
-  max-width: 45rem;
+.cont {
+  max-width: 54rem;
   margin: 1rem auto;
   padding: 0 3%;  
 }
@@ -322,6 +322,13 @@ i a:active {
   border-radius: 50px;
 }
 
+.cert {
+  max-height: 550px;
+}
+.carousel-control-next, 
+.carousel-control-prev {
+  top: 45%;
+}
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type="email"],
