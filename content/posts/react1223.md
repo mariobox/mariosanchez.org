@@ -14,12 +14,12 @@ Certification project from [freeCodecamp](https://www.freecodecamp.org/learn/fro
 
 **[Specs](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)** | **[View and try out the project in Codepen](https://codepen.io/mariobox/pen/abXgEJR)**
 
-## Markdown Previewer:
+## Markdown Previewer
 Certification project from [freeCodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/). Use React to build an app that let's you input raw markdown text and and output the text as you would see it on the browser, with all the proper styling.
 
 **[Specs](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)** | **[View and try out the project in Codepen](https://codepen.io/mariobox/pen/QWYeKKK)**
 
-## Drum Machine:
+## Drum Machine
 Certification project from [freeCodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/). Build a user interface with React that outputs different drum sounds when the user clicks on drum pad elements displayed on the screen. Each drum pad is marked with a letter. The sound must also be triggered and the name of the sound displayed when the user presses the key on the keyboard that corresponds to the letter on the drum pad.
 
 **[Specs](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine)** | **[View and try out the project in Codepen](https://codepen.io/mariobox/pen/ExMawXL)**
