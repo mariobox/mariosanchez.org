@@ -11,15 +11,19 @@ images:
 <p class="centered"><img src="/img/msc-li.jpg" class="profile small round"></p>
 <h2 class="centered">Mario Sanchez Carrion</h2>
 
-👋 Hi, I’m Mario and I am currently helping students learn **Middle School** and **High School Math**, as well as preparing them for the **SAT Math Test**.
+👋 Hi, I’m Mario. After 30 years in the corporate world, I am now pursuing my passion for math and teaching by helping middle school and high school students understand the basic concepts of algebra, geometry, trigonometry and other common math topics. I am also working with students who want to prepare for the math section of the **SAT**, **ACT**, and **ASVAB** tests.
 
-I strive to explain complex subjects in a simple manner, often by way of examples, and to create the conditions so that students overcome their fear of math and enjoy the learning process.🌱
+My experience in teaching comes not from a traditional education background, but from the corporate world. One of my most important tasks was to give presentations that required me to distill and simplify complex concepts, and keep my audience engaged. I am now using those same skills in my math tutoring sessions.🌱
+
+I firmly believe that math is not difficult: it is just poorly taught. During my tutoring sessions I make sure that my students master the basics first. I also use examples to make the concepts less abstract and easier to understand. My goal is to help students overcome their fear of math, enjoy the learning process, and do well in class and tests.
 
 <h3 class="centered">📱 (954) 309-1077</h3>
 
 ### Areas of Expertise
 
 🎯 Arithmetic
+
+🎯 Pre-Algebra
 
 🎯 Algebra I
 
@@ -31,27 +35,22 @@ I strive to explain complex subjects in a simple manner, often by way of example
 
 ### How This Works
 
-I use **Zoom** for my online classes. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to review together). 
+I am available for online and in-person classes. Online classes are conducted via Zoom. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to review together). 
 
-During our lessons I ensure that students understand the fundamentals behind solutions to problems, so that they can later apply them themselves.
+During our lessons I ensure that students understand the concepts behind the solutions to problems, so that they can later apply them themselves.
 
 <h3 class="centered">📱 (954) 309-1077</h3>
 
-### Prices and Packages
+### Prices
 
-Take advantage of our <strong>2022 Summer Special Packages</strong>:
+🙋‍♂️**In Person**: $40/hr (no more than 5 miles from zip code 33155)
 
-🥇**Gold**: Five (5) one-hour lessons: $175
+👨‍💻**Online**: $25/hr
 
-🥈**Silver**: Three (3) one-hour lessons: $120
-
-🥉**Bronze**: One (1) one-hour lesson: $45
-
-For new students, the first hour is free.
 
 ### About Me
 
-I am originally from Peru and have been living in the US since 1989. I am fully bilingual and can conduct my classes in English or Spanish. My background comes from the corporate world, where for 30 years I worked in international marketing for large consumer goods companies. I hold Industrial Engineering and MBA degrees. Besides math, my passions are **computer programming** and **soccer**.
+I am originally from Peru and have been living in the US since 1989. I am an Industrial Engineer and MBA by trade. I am also fully bilingual and can conduct my classes in English or Spanish. Before tutoring, I worked for 30 years in international marketing for large consumer goods companies. Besides math, my passions are **computer programming** and **soccer**.
 
 ### Contact Me
 
