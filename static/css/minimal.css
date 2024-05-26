@@ -53,7 +53,6 @@ body {
   padding: 0;
   line-height: 1.5rem;
   font-family: 'Hack', 'DejaVu Sans', sans-serif; 
-  max-width: 900px;
 }
 
 h1, h2, h3 {
@@ -176,7 +175,7 @@ figure {
 }
 
 figcaption {
-  font-size: 1.0em;
+  font-size: 80%;
   line-height: 1.5;
   color: #fff;
   background: rgba(19,43,102, .50);
@@ -194,6 +193,7 @@ figcaption {
 .cont {
   margin: 1rem auto;
   padding: 0 3%;  
+  max-width: 900px;
 }
 
 .logo {
@@ -387,6 +387,6 @@ img.large {
 }
 
 html {
-  font-size: 100%;
+  font-size: 120%;
 }
 }
