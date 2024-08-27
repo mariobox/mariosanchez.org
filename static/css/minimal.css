@@ -66,7 +66,7 @@ a:active {
   text-decoration: none;
   box-shadow: var(--box-shadow);
   color: var(--ft-color);
-  padding-bottom: 0.3em;
+  padding-bottom: 0.1em;
 }
 	  
 a:hover,

@@ -7,13 +7,13 @@ type: tutor
 images:
 ---
 
-<h1 class="centered">Online Math Tutor</h1>
+<h1 class="centered">Engaging Math Tutor</h1>
 <p class="centered"><img src="/img/msc-li.jpg" class="profile small round"></p>
 <h2 class="centered">Mario Sanchez Carrion</h2>
 
-👋 Hi, I’m Mario. After 30 years in the corporate world, I am now pursuing my passion for math and teaching by helping middle school and high school students understand the basic concepts of algebra, geometry, trigonometry and other common math topics. I am also working with students who want to prepare for the math section of the **SAT**, **ACT**, and **ASVAB** tests.
+👋 Hi, I’m Mario. After 30 years in the corporate world, I am now pursuing my passion for math and teaching by helping students understand the basic concepts of algebra, geometry, trigonometry and other common math topics. I am also working with students who want to prepare for the math section of the **SAT**, **ACT**, and **ASVAB** tests.
 
-My experience in teaching comes not from a traditional education background, but from the corporate world. One of my most important tasks was to give presentations that required me to distill and simplify complex concepts, and keep my audience engaged. I am now using those same skills in my math tutoring sessions.🌱
+My experience in teaching comes not from a traditional education background, but from the corporate world. As an Industrial Engineer and MBA, one of my most important tasks was to give presentations that required me to distill and simplify complex concepts, while keeping my audience engaged. I am now using those same skills in my math tutoring sessions.🌱
 
 I firmly believe that math is not difficult: it is just poorly taught. During my tutoring sessions I make sure that my students master the basics first. I also use examples to make the concepts less abstract and easier to understand. My goal is to help students overcome their fear of math, enjoy the learning process, and do well in class and tests.
 
