@@ -41,7 +41,7 @@ During our lessons I ensure that students understand the concepts behind the sol
 
 <h3 class="centered">📱 (954) 309-1077</h3>
 
-### Prices
+### Rates
 
 🙋‍♂️**In Person**: $40/hr (no more than 5 miles from zip code 33155)
 
