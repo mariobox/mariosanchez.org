@@ -33,7 +33,7 @@ I firmly believe that math is not difficult: it is just poorly taught. During my
 
 ### How This Works
 
-I am available for online and in-person classes. Online classes are conducted via Zoom. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to review together). 
+I am available for online and in-person classes. Online classes are conducted via the <a href="https://www.wyzant.com/refer/tutor/89013474?utm_source=TREF&utm_campaign=GI&utm_content=TProfile&utm_medium=link">Wyzant</a> platform. Ideally, students will contact me before the class to let me know what subjects they need help with (either the general topics or the specific exercises they want us to review together). 
 
 During our lessons I ensure that students understand the concepts behind the solutions to problems, so that they can later apply them themselves.
 
