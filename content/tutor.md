@@ -1,15 +1,13 @@
 ---
-Title: 
+Title: Math Tutoring 
 description: 
-date: 2022-06-05
+date: 2024-10-31
 draft: false
-type: tutor 
+type: 
 images:
 ---
 
-<h1 class="centered">Engaging Math Tutor</h1>
 <p class="centered"><img src="/img/msc-li.jpg" class="profile small round"></p>
-<h2 class="centered">Mario Sanchez Carrion</h2>
 
 👋 Hi, I’m Mario. After 30 years in the corporate world, I am now pursuing my passion for math and teaching by helping students understand the basic concepts of algebra, geometry, trigonometry and other common math topics. I am also working with students who want to prepare for the math section of the **SAT**, **ACT**, and **ASVAB** tests.
 
@@ -43,14 +41,14 @@ During our lessons I ensure that students understand the concepts behind the sol
 
 ### Rates
 
-🙋‍♂️**In Person**: $40/hr (no more than 5 miles from zip code 33155)
+🙋‍♂️**In Person**: $45/hr (no more than 5 miles from zip code 33155)
 
-👨‍💻**Online**: $25/hr
+👨‍💻**Online**: $30/hr
 
 
 ### About Me
 
-I am originally from Peru and have been living in the US since 1989. I am an Industrial Engineer and MBA by trade. I am also fully bilingual and can conduct my classes in English or Spanish. Before tutoring, I worked for 30 years in international marketing for large consumer goods companies. Besides math, my passions are **computer programming** and **soccer**.
+I am originally from Peru and have been living in the US since 1989. I am an Industrial Engineer and MBA by trade. I am also fully bilingual and can conduct my classes in English or Spanish. Before tutoring, I worked for 30 years in international marketing for large consumer goods companies. Besides math, my passions are **computer programming**, **birding** and **soccer**.
 
 ### Contact Me
 
