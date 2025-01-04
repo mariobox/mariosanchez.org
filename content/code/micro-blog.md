@@ -6,11 +6,11 @@ images:
   - https://www.mariosanchez.org/img/micro-blog.png
 ---
 
-<img src="/img/micro-blog.png" class="profile">
+<img src="/img/micro-blog.png" style="width: 100%; margin-bottom: 3em; margin-top: 2em">
 
 **Made with**: <i class="fab fa-react"></i> ReactJS
 
-<p class="bullet"><a href="https://github.com/mariobox/react-micro-blog">Source Files</a>  <a href="https://mariobox.github.io/react-micro-blog">Live Demo</a> </p><hr class="art">
+<p class="bullet"><a href="https://github.com/mariobox/react-micro-blog">Source Files</a> | <a href="https://mariobox.github.io/react-micro-blog">Live Demo</a> </p><hr class="art">
 
 This front end project is inspired in a minimal version of Twitter. We use React components and JavaScript ES6 classes, and put into practice the concept of state. It also uses JSX syntax. 
 

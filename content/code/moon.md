@@ -8,13 +8,13 @@ images:
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
 
-<p class="bullet"><a href="https://github.com/mariobox/moon-phases/">Source Files</a>  <a href="https://mariobox.github.io/moon-phases/">Live Demo</a></p> <hr class="art">
+<p class="bullet"><a href="https://github.com/mariobox/moon-phases/">Source Files</a> | <a href="https://mariobox.github.io/moon-phases/">Live Demo</a></p> <hr class="art">
 
 
 
 I wanted a simple web page to show today's date, moon phase and percentage illumination, plus a nice picture of the moon.
 
-<img src="/img/moon.jpg" class="gallery medium">
+<img src="/img/moon.jpg" style="width: 100%; margin-bottom: 3em; margin-top: 2em ">
 
 My first step was to find an API that I could call to retrieve today's moon phase and illumination. After some research I found the [Farmsense](https://farmsense.net) moon phase API. The API accepts a date as a parameter, formatted in milliseconds ([Unix Time](https://currentmillis.com/)), but only takes the first ten digits. 
 

@@ -1,32 +1,75 @@
 {{ partial "header.html" . }}
 
-<main id="main">
-  <p>
-    Hello! I'm <strong>Mario</strong>, a math tutor and junior programmer. &rarr; <a
-      href="/about">More</a>
-  </p>
+<div class="row mb-4">
+  <div class="col">
+    <ul class="nav nav-tabs" role="tablist">
 
-  <h3>🕰️ Now</h3>
-  <ul>
-    <li>
-      <a href="/tutor/">Tutoring</a> students on math and SAT/ACT preparation.
-    </li>
-    <li>
-      Practicing the <a href="https://www.r-project.org/">R</a> programming language.
-    </li>
-    <li>
-      Current Location: <i class="fa-solid fa-location-dot"></i> Miami, FL.
-    </li>
-  </ul>
-  <p>Visit my <a href="/now">/now</a> page.</p>
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="/">
+          Tutoring
+        </a>
+      </li>
 
-  <h3>📧 Contact</h3>
-  <p>
-    mario (at) mariosanchez (dot) org
-  </p>
+      <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="/coding/">
+          Coding
+        </a>
+      </li>
 
-<hr />  
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <div class="course mb-4">
+      <h5 style="font-weight: 600">Areas of Expertise</h5>
+      <ul>
+        <li>Arithmetic</li>
+        <li>Pre-Algebra</li>
+        <li>Algebra 1</li>
+        <li>Algebra 2</li>
+        <li>Geometry</li>
+        <li>Trigonometry</li>
+      </ul>
 
-</main>
+      <h5 style="font-weight: 600">How it Works</h5>
+      <p>I am available for online and in-person classes. Online classes are conducted via the
+        <a href="https://www.wyzant.com/refer/tutor/89013474">Wyzant</a> platform. Ideally, students will contact me
+        before the class to let me know what
+        subjects they need help with (either the general topics or the specific exercises they
+        want us to review together).
+      </p>
+      <p>
+        During our lessons I ensure that students understand the concepts behind the solutions
+        to problems, so that they can later apply them themselves.
+      </p>
+      <h5 style="font-weight: 600">Current Rates</h5>
 
-{{ partial "footer.html" . }}
+      <p><span class="bold">In Person</span>: $45/hr (no more than 5 miles from zip code 33155)
+      </p>
+      <p><span class="bold">Online</span>: $30/hr
+
+      <h5 style="font-weight: 600">Teaching Style</h5>
+
+      <p>
+        My experience in teaching comes not from a traditional education background, but from
+        the corporate world. As an Industrial Engineer and MBA, one of my most important tasks
+        was to give presentations that required me to distill and simplify complex concepts,
+        while keeping my audience engaged. I am now using those same skills in my math tutoring
+        sessions.</p>
+      <p>
+        I also draw inspiration from my computer programming journey, since computational
+        thinking-the logical and process-oriented approach to solving problems, lends itself
+        naturally to the teaching of math.</p>
+
+
+      <p>
+        I firmly believe that math is not difficult: it is just poorly taught. During my
+        tutoring sessions I make sure that my students master the basics first. I also use
+        examples to make the concepts less abstract and easier to understand. </p>
+
+      <p>My goal is to help students overcome their fear of math, enjoy the learning process, and
+        do well in class and tests.
+      </p>
+
+      {{ partial "footer.html" . }}

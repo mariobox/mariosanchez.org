@@ -1,61 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Meta Info -->
-    <meta charset="utf-8">
-    <title>{{ .Title }} | mariosanchez.org</title>
-    <meta name="author" content="Mario Sanchez Carrion">
-    <meta name="description"
-      content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Scripts-->
-    <script src="/js/theme.js"></script>
-    <script src="https://kit.fontawesome.com/8a184157fa.js"
-      crossorigin="anonymous"></script>
-    <!-- Styles -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-      crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/all.css">
-    <link rel="stylesheet" href="/css/minimal.css">
-    <link rel="stylesheet" href="/css/syntax.css">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel='stylesheet'
-      href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css'>
-  </head>
-  <!-- Start Page -->
-  <body>
-    <div class="header"></div>
-    <a href="/">
-      <div class="avatar">
-        <a style="cursor:pointer;">
-          <span id="toggle-switch"> <i
-              class="fas fa-sun fa-2x hd"></i></span><br />
-        </a>
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/36b4b9bdc4.js" crossorigin="anonymous"></script>
+  <title>{{ .Title }} | mariosanchez.org</title>
+  <meta name="author" content="Mario Sanchez Carrion">
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    a {
+      color: #212539;
+    }
+
+    .nav-link:hover {
+      color: #555;
+    }
+
+    .bold {
+      font-weight: 600;
+      color: #212539;
+    }
+
+    .icon {
+      text-decoration: none;
+    }
+
+    .nav-link {
+      color: grey;
+    }
+
+    a:hover {
+      color: #555;
+      text-decoration: none;
+    }
+
+    .centered {
+      text-align: center;
+    }
+
+    pre {
+      color: var(--bs-code-color);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container-lg">
+    <div class="row" style="margin-top: 5rem;">
+      <div class="col-md-3 gx-5">
+        <img alt="Mario Sanchez Carrion profile picture" class="img-fluid mb-4"
+          src="https://mariosanchez.org/img/msc-li.jpg" style="border-radius: 50%;" width="125" height="125">
       </div>
-    </a>
-    <div class="centered logo">
-      <a href="/"><img src="/img/mario-pix-dk.png" width="150" /></a>
-    </div>
-    <nav>
-      <ul class="bullet">
-        <li>
-          <a href="/">home</a>
-        <li>
-          <a href="/tutor">tutor</a>
-        </li>
-        <li>
-          <a href="/coding/">code</a>
-        </li>
-        <li>
-          <a href="/photos/">travel</a>
-        </li>
-        <li>
-          <a href="/about/">about</a>
-        </li>
-        </ul>
-      </nav>
-      <div class="cont">
+      <div class="col-md-6 gx-5">
+        <div class="row mb-4">
+          <div class="col">
+            <h2 style="font-weight: 600">Mario Sanchez Carrion</h2>
+            <p class="tagline">I am a math tutor currently helping middle and high school students master
+              common math concepts, and getting them prepared for the SAT and ACT tests.</p>
+            <p class="tagline"> I am also a computer programming enthusiast, especially interested in data
+              analytics using Python, SQL and R.</p>
+
+            <p class="tagline">I previously worked in international marketing and product development for <a
+                href="https://www.stanleyblackanddecker.com/">Stanley Black & Decker</a>, for more than
+              25 years.</p>
+
+            <p class="d-inline tagline">👋 Contact me at <a
+                href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.</p>
+            <a href="https://www.linkedin.com/in/mariobox" class="icon" target="_blank"><span
+                class="fa-brands fa-linkedin" style="font-family:'FontAwesome'"></span></a>
+            <a href="https://github.com/mariobox" class="icon" target="_blank"><span class="fa-brands fa-github"
+                style="font-family:'FontAwesome'"></span></a>
+
+          </div>
+        </div>
+        

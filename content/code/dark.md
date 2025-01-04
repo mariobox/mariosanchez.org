@@ -6,12 +6,12 @@ description: Switch to dark theme for your site at a click of a button
 
 **Made with**: <i class="fab fa-js"></i> JavaScript
 
-<p class="bullet"><a href="https://github.com/mariobox/dark">Source Files</a>  <a href="https://mariobox.github.io/dark">Live Demo</a> <hr class="art"></p>
+<p class="bullet"><a href="https://github.com/mariobox/dark">Source Files</a> | <a href="https://mariobox.github.io/dark">Live Demo</a> <hr class="art"></p>
 
 
 We will implement a dark theme selector for our site that visitors can activate by clicking on an icon. We will discuss what we have to do to the HTML, CSS and JavaScript files that make up our site to make that happen.
 
-## The HTML
+##### The HTML
 
 ``` html
 <!--DOCTYPE-->
@@ -41,7 +41,7 @@ We will implement a dark theme selector for our site that visitors can activate 
 
 For this example, we will create three simple HTML pages: `index.html`, `about.html` and `contact.html`. The code above is the <code>index.html</code> page. At the top of each page, we will include a simple navigation menu next to which we will place a moon-shaped icon that users can click to turn on dark mode. Once in dark mode, the moon icon will switch to a sun icon, indicating that by clicking it the visitor can go back to the default light mode. Both the moon and the sun icons can be found in [Fontawesome](https://fontawesome.com).
 
-## The CSS
+##### The CSS
 
 ``` css
 html {
@@ -73,7 +73,7 @@ a:active {
 
 We will define some variables for the colors we want to use in our dark and light themes. To keep it simple, we will just focus on the background, the font and the link colors. We will define our variables in the `html` element and we'll then reference them in the `body` and `link` elements. We will also create a `dark` class for the `html` element that we will activate via JavaScript once a visitor clicks on the moon icon.
 
-## The JavaScript
+##### The JavaScript
 
 ``` js
 const DARK_MODE = 'dark';

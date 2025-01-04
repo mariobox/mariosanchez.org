@@ -1,19 +1,36 @@
 {{ partial "header.html" . }}
 
+<div class="row mb-4">
+  <div class="col">
+    <ul class="nav nav-tabs" role="tablist">
+
+      <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="/">
+          Tutoring
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="/coding/">
+          Coding
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <main id="main">
-  <h2>{{ .Title }}</h2>
-  <p class="description">{{ .Description }}</p>  
-  <hr />
+  <!-- <h4 class="mb-1" style="font-weight: 600">{{ .Title }}</h4>
+  <p class="description">{{ .Description }}</p>  -->
     <article id="content">
     {{ .Content }}
     </article>  
 </main>
-<p class="small upper light">Last updated: {{ .Date.Format "Jan 2, 2006" }}</p>
+<p class="small">Last updated: {{ .Date.Format "Jan 2, 2006" }}</p>
 {{ if .Params.tags }}
-  <p class="bullet"><a href="/tags/{{ .Params.tags }}">{{ .Params.tags }}</a></p>
+  <p class="small"><a href="/tags/{{ .Params.tags }}">{{ .Params.tags }}</a></p>
 {{ end }}
 
-<hr />
 
 {{ partial "footer.html" . }}
 
