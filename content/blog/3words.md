@@ -3,7 +3,7 @@ title: My Three Words for 2023
 description: A yearly excercise on intentional living
 date: 2023-01-07
 tags: life
-draft: false
+draft: true
 ---
 
 The **Three Words** for the year is an excercise created by [Chris Brogan](https://chrisbrogan.com://chrisbrogan.com/stories/community/3Words2022/) in 2006 to guide his actions for the year ahead. 

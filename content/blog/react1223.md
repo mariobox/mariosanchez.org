@@ -3,7 +3,7 @@ title: December of React
 description: A return to front end practice with the popular JS library
 date: 2023-12-27
 tags: tech
-draft: false
+draft: true
 ---
 
 I had been focusing on web development and back-end projects since the beginning of 2023, so I decided to shift focus in December and practice **ReactJS**, the pouplar JS library to build user interfaces. It took me a while to get acquainted with concepts like `props` and `state`, but after developing several practice projects I feel much more comfortable.  Following are the apps I developed during these last few weeks of intense and deliberate React practice:

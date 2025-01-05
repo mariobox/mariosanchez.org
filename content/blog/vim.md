@@ -3,7 +3,7 @@ title: Why I'm Learning to Use Vim
 description: The simplest solution is usually the best one
 date: 2022-12-27
 tags: tech
-draft: false
+draft: true
 ---
 
 The world is becoming a very complicated place. 

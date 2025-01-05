@@ -3,7 +3,7 @@ title: November of Code
 description: A pause from courses to focus on practice
 date: 2023-11-16
 tags: tech
-draft: false
+draft: true
 ---
 
 For the last two weeks I have been focusing on practice projects. I had been spending most of my time in online coding courses, but I noticed that I was forgetting what I learned because I didn't practice.

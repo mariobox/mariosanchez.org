@@ -3,7 +3,7 @@ title: Quick Thoughts on AI
 description: When answers are cheap, questions become valuable
 date: 2023-01-25
 tags: tech
-draft: false
+draft: true
 ---
 
 A few weeks ago I asked [ChatGPT](https://openai.com/blog/chatgpt/) to write a 500-word article about the different types of batteries used in power tools. Since I'm very familiar with the topic, I was curious to see how ChatGPT would do. In a matter of seconds, ChatGPT generated a surprisingly good article, accurate and very well written (and not one word longer than 500). 

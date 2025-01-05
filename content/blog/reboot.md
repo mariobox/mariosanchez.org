@@ -3,7 +3,7 @@ title: Reboot
 description: A first step toward digital self-reliance
 date: 2022-12-25
 tags: tech
-draft: false
+draft: true
 ---
 
 I've decided to start blogging again. 

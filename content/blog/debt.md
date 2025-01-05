@@ -3,7 +3,7 @@ title: The Debt Ceiling Conundrum
 description: Reflections on our national debt
 date: 2023-01-01
 tags: money
-draft: false
+draft: true
 ---
 
 The US will run a federal budget deficit of **$1.1 Trillion dollars** in 2023, product of **$4.7T** in tax revenues minus **$5.8T** in expenses. 

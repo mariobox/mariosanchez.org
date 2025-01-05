@@ -3,7 +3,7 @@ title: "RSS: Everything Old is New Again"
 description: RSS is making a comeback
 date: 2023-01-05
 tags: tech
-draft: false
+draft: true
 ---
 
 I recently wrote about [Vim](/posts/vim/), a powerful old-school text editor. 
