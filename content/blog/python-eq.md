@@ -46,7 +46,7 @@ The solution will be presented in the following form:
 
 ##### Solving systems of equations
 
-This is the code to solve systems of equations (in this case we want to find the solution of a pair of linear equations: `x + y = 2` and `x + y = 0`). For the program to work, we should write our expressions putting all our variables and costants together, like this: `x + y - 2` and `x - y`.  Again, you can cut and paste this code into a Python `.py` file to be able to run it:
+This is the code to solve systems of equations (in this case we want to find the solution of a pair of linear equations: `x + y = 2` and `x = y`). For the program to work, we should write our expressions putting all our variables and costants together, like this: `x + y - 2` and `x - y`.  Again, you can cut and paste this code into a Python `.py` file to be able to run it:
 
 <pre>
 import sympy
