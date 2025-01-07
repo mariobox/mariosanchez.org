@@ -1,5 +1,5 @@
 ---
-title: "Store Sales and Inventory System with SQL"
+title: "Sales and Inventory System with SQL"
 description: 
 date: 2025-01-06
 ---
