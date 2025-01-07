@@ -9,6 +9,7 @@ images:
 <h5 style="font-weight: 600">Projects</h5>
 
 <ul>
+      <li><a href="/code/store-sql/">Sales and Inventory System with SQL</a></li>
       <li><a href="/code/bottle-sql/">RSVP App with Bottle and SQLite</a></li>
       <li><a href="/code/pynt/">Pynt: Static Site Generator with Python</a></li>
       <li><a href="/code/commerce/">Auction Site With Django</a></li>
