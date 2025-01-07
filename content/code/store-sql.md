@@ -40,14 +40,14 @@ Entities are captured in SQLite tables with the following schema.
 
 The database includes the following entities:
 
-##### Stores
+###### Stores
 
 The `stores` table includes:
 
 * `id`, which specifies the unique ID for the store as an `INTEGER`. This column thus has the `PRIMARY KEY` constraint applied.
 * `location`, which specifies the city or region where the store is located as `TEXT`, given `TEXT` is appropriate for city fields.
 
-##### Shirts
+###### Shirts
 
 The `shirts` table includes:
 
@@ -58,7 +58,7 @@ The `shirts` table includes:
 
 All columns in the `shirts` table are required and hence should have the `NOT NULL` constraint applied. No other constraints are necessary.
 
-##### Customers
+###### Customers
 
 The `customer` table includes:
 
@@ -68,7 +68,7 @@ The `customer` table includes:
 
 All columns that are not primary keys or foreign keys in the `customers` table are required, and hence should have the `NOT NULL` constraint applied. No other constraints are necessary.
 
-##### Salespersons
+###### Salespersons
 
 The `salespersons` table includes:
 
@@ -79,7 +79,7 @@ The `salespersons` table includes:
 
 All columns that are not primary keys or foreign keys in the `salespersons` table are required, and hence should have the `NOT NULL` constraint applied. This column `store_id` has the `FOREIGN KEY` constraint applied, referencing the `id` column in the `stores` table, which reflects and ensures that each salesperson works in a particular store.
 
-##### Orders
+###### Orders
 
 The `orders` table includes:
 
@@ -92,7 +92,7 @@ The `orders` table includes:
 
 All columns that are not primary keys or foreign keys in the `orders` table are required and hence have the `NOT NULL` constraint applied.
 
-##### Ordered
+###### Ordered
 
 The `ordered` table includes:
 
@@ -103,7 +103,7 @@ The `ordered` table includes:
 The `PRIMARY KEY` will be the combination of (`order_id`, `shirt_id`).
 
 
-##### Carried
+###### Carried
 
 The `carried` table includes:
 
@@ -114,7 +114,7 @@ The `carried` table includes:
 The `PRIMARY KEY` will be the combination of (`store_id`, `shirt_id`).
 
 
-#### Relationships
+##### Relationships
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
