@@ -9,6 +9,7 @@ images:
 <h5 style="font-weight: 600">Projects</h5>
 
 <ul>
+      <li><a href="/code/birdwatch/">Plotting Bird Observations on a Map with R<a></li>
       <li><a href="/code/store-sql/">Sales and Inventory System with SQL</a></li>
       <li><a href="/code/bottle-sql/">RSVP App with Bottle and SQLite</a></li>
       <li><a href="/code/pynt/">Pynt: Static Site Generator with Python</a></li>
