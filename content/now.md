@@ -15,8 +15,10 @@ Not long ago I also took birding as a hobby. I became a member of the [Tropical 
 
 My lifestyle is now location-independent, with about half a year spent at home in Miami, and the other half in different cities and countries.
 
-This page is inspired by Derek Siver's [https://nownownow.com](/nownownow) project.
+This page is inspired by Derek Siver's [NowNowNow](https://nownownow.com) project.
 
 
 <img src="/img/coding-and-mate.png" width="100%"><br /><br />
+
+Last updated: December 28, 2025
 
