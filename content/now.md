@@ -1,18 +1,21 @@
 ---
 Title: Now
-description: What I'm doing now. Inspired by Derek Sivers's nownownow.com project
+description: 
+template: now/single.html
 date: 2024-10-31
 images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
 
-I am now focusing on my Math tutoring practice, helping students with Algebra, Geometry, Trigonometry and SAT/ACT Math preparation. Visit my [tutor page](/tutor).
+I am now focusing on my Math tutoring practice, helping students with Algebra, Geometry, Trigonometry and SAT/ACT Math preparation. 
 
-I am also working with [R](https://www.r-project.org/about.html), a programming language and environment for statistical computing and graphics.
+I am also practicing with [R](https://www.r-project.org/about.html), a programming language and environment for statistical computing and graphics.
 
-This year I also took on birding as a hobby. I became a member of the [Tropical Audubon Society](https://tropicalaudubon.org/) and participated in several birding expeditions around the South Florida area. I'm keeping a checklist of the species I see in [eBird](https://ebird.org). 
+Not long ago I also took birding as a hobby. I became a member of the [Tropical Audubon Society](https://tropicalaudubon.org/) and participate in several birding expeditions around the South Florida area. I'm keeping a checklist of the species I see in [eBird](https://ebird.org/profile/Mzk1MTc2Nw/world). 
 
-I also started drinking yerba mate. I like the ritual of preparing the perfect gourd of mate, and the subtle boost of energy you get from it.
+My lifestyle is now location-independent, with about half a year spent at home in Miami, and the other half in different cities and countries.
+
+This page is inspired by Derek Siver's [https://nownownow.com](/nownownow) project.
 
 
 <img src="/img/coding-and-mate.png" width="100%"><br /><br />

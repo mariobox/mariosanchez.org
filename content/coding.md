@@ -1,7 +1,7 @@
 ---
 Title: Coding
-template: code/single.html
 description: Summary page of my web development and programming activity
+#template: code/single.html
 date: 2025-01-01
 images:
 ---
