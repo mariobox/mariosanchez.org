@@ -23,15 +23,27 @@ images:
 
 <h5 style="font-weight: 600">Certifications</h5>
 
-<p>📊 <a href="https://certificates.cs50.io/0914e00c-1834-4d92-8f82-4c383537804e.pdf?size=letter">Introduction to Programming with R (CS50R)</a>, Harvard University</p>
-<p>🗄️ <a href="https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter">Introduction to Databases with SQL (CS50SQL)</a>, Harvard University</p>
-<p>🐍 <a href="https://certificates.cs50.io/bc8a572e-b437-4d8a-afc3-6494a43d071a">Introduction to Programming in Python (CS50P)</a>, Harvard University</p>
-<p>💻 <a href="https://certificates.cs50.io/abafad49-e763-4717-bd13-b476b8ca9e68.pdf?size=letter">Introduction to Computer Science and the Art of Programming (CS50x)</a>, Harvard University</p>
-  <p>📲 <a href="https://www.freecodecamp.org/certification/mariobox/front-end-development-libraries">Front End Development Libraries (ReactJS)</a>, freeCodeCamp</p>
-  <p>💡 <a href="https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a>, freeCodeCamp</p>
-  <p>💾 <a href="https://www.freecodecamp.org/certification/mariobox/relational-database-v8">Relational Databases and SQL</a>, freeCodeCamp</p>
-  <p>⚙️ <a href="https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>, freeCodeCamp</p>
-  <p>📰 <a href="https://coursera.org/share/0168b3865fa7c7107114726e339d71a6">Django Certification</a>, University of Michigan</p>
-  <p>📈 <a href="https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7">Data Analysis with Python</a>, freeCodeCamp</p>
-  <p>🧮 <a href="https://www.freecodecamp.org/certification/mariobox/scientific-computing-with-python-v7">Scientific Computing with Python</a>, freeCodeCamp</p>
-  <p>🌐 <a href="https://drive.google.com/file/d/19JRfNwXkCyZfpyccF2Ol1QaXqsk4jXeA/view?usp=sharing">Front End Web Development</a>, Miami Dade College</p>
+<p><img width="24" height="24" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+<a href="https://certificates.cs50.io/0914e00c-1834-4d92-8f82-4c383537804e.pdf?size=letter">Introduction to Programming with R (CS50R)</a>, Harvard University</p>
+<p><img width="24" height="24" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+<a href="https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter">Introduction to Databases with SQL (CS50SQL)</a>, Harvard University</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<a href="https://certificates.cs50.io/bc8a572e-b437-4d8a-afc3-6494a43d071a">Introduction to Programming in Python (CS50P)</a>, Harvard University</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+<a href="https://certificates.cs50.io/abafad49-e763-4717-bd13-b476b8ca9e68.pdf?size=letter">Introduction to Computer Science and the Art of Programming (CS50x)</a>, Harvard University</p>
+<p><img width="24" height="24" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+<a href="https://www.freecodecamp.org/certification/mariobox/front-end-development-libraries">Front End Development Libraries (ReactJS)</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+<a href="https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+<a href="https://www.freecodecamp.org/certification/mariobox/relational-database-v8">Relational Databases and SQL</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<a href="https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+<a href="https://coursera.org/share/0168b3865fa7c7107114726e339d71a6">Django Certification</a>, University of Michigan</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<a href="https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7">Data Analysis with Python</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<a href="https://www.freecodecamp.org/certification/mariobox/scientific-computing-with-python-v7">Scientific Computing with Python</a>, freeCodeCamp</p>
+<p><img width="24" height="24" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<a href="https://drive.google.com/file/d/19JRfNwXkCyZfpyccF2Ol1QaXqsk4jXeA/view?usp=sharing">Front End Web Development</a>, Miami Dade College</p>
