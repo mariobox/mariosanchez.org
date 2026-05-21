@@ -8,7 +8,7 @@ images:
 
 <div class="picbox"><figure><img src="/img/ire4.jpg" class="gallery"></figure></div>
 
-My name is <strong>Mario Sanchez Carrion</strong> and I'm a math tutor and junior computer programmer. 
+My name is <strong>Mario Sanchez Carrion</strong> and I'm an independent math teacher and a hobbyist computer programmer. 
 
 Since retiring from the [corporate world](https://linkedin.com/in/mariobox) in 2022 I've been experimenting with location independence, maintaining a base in Miami, FL, but living in different cities for several weeks to several months. The cities where I feel most at home are Paris (FR), Raleigh, NC and Lima (PE). I have posted a few pictures [here](/photos).
 
