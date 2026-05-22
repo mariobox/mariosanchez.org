@@ -14,7 +14,7 @@ Since retiring from the [corporate world](https://linkedin.com/in/mariobox) in 2
 
 I am now [tutoring](/tutor) students on math and test preparation. I help middle and high school students with Algebra, Geometry, Trigonometry and other math related topics, as well as test preparation for the SAT, ACT and ASVAB math sections.
 
-I have also completed several programming [certifications](/coding#certifications), mainly from the [CS50](https://www.edx.org/cs50) suite of courses (offered online by Harvard University) and [freeCodeCamp](https://freecodecamp.org). 
+I have also earned several programming [certifications](/coding#certifications), mainly from the [CS50](https://www.edx.org/cs50) suite of courses (offered online by Harvard University) and [freeCodeCamp](https://freecodecamp.org). 
 
 I have developed [projects](/code) using HTML, CSS, JavaScript, Python, SQL, and R, mostly for personal use, which you can see in my [Github repositories](https://github.com/mariobox). 
 
