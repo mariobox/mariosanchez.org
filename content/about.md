@@ -16,7 +16,7 @@ I am now [tutoring](/tutor) students on math and test preparation. I help middle
 
 I have also earned several programming [certifications](/coding#certifications), mainly from the [CS50](https://www.edx.org/cs50) suite of courses (offered online by Harvard University) and [freeCodeCamp](https://freecodecamp.org). 
 
-I have developed [projects](/code) using HTML, CSS, JavaScript, Python, SQL, and R, mostly for personal use, which you can see in my [Github repositories](https://github.com/mariobox). 
+I have developed [projects](/code) using different programming languages and frameworks like HTML, CSS, JavaScript, Python, SQL, and R, mostly for personal use, which you can see in my [Github repositories](https://github.com/mariobox). 
 
  
 
