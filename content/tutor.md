@@ -13,7 +13,7 @@ images:
 
 My experience in teaching comes not from a traditional education background, but from the corporate world. As an Industrial Engineer and MBA, one of my most important tasks was to give presentations that required me to distill and simplify complex concepts, while keeping my audience engaged. I am now using those same skills in my math tutoring sessions.🌱
 
-I firmly believe that math is not difficult: it is just poorly taught. During my tutoring sessions I make sure that my students master the basics first. I also use examples to make the concepts less abstract and easier to understand. My goal is to help students overcome their fear of math, enjoy the learning process, and do well in class and tests.
+I firmly believe that math is not difficult: it is just poorly taught with too much emphasis on memorization. During my tutoring sessions I make sure that my students master the basics first. I also use examples to make the concepts less abstract and easier to understand. My goal is to help students overcome their fear of math, enjoy the learning process, and do well in class and tests.
 
 <h3 class="centered">📱 (954) 309-1077</h3>
 
