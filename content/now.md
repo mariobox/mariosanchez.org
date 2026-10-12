@@ -7,7 +7,7 @@ images:
 - https://www.mariosanchez.org/img/now.jpg
 ---
 
-I am now focusing on my Math tutoring practice, helping students with Algebra, Geometry, Trigonometry and SAT/ACT Math preparation. 
+I am now focusing on my Math tutoring practice, helping students with Algebra, Geometry, and SAT/ACT Math preparation. 
 
 I am also practicing with [R](https://www.r-project.org/about.html), a programming language and environment for statistical computing and graphics.
 
